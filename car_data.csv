@@ -1,0 +1,2001 @@
+Car_Name,Year,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner,Mileage,Engine,Max_Power,Seats,Selling_Price
+Audi,2008,48634,Petrol,Individual,Manual,Third Owner,25.64,1200,77.53,5,50000
+Toyota,2012,122255,Petrol,Trustmark Dealer,Automatic,Second Owner,22.38,1200,68.42,7,50000
+Tata,2017,47864,Diesel,Dealer,Automatic,First Owner,16.88,2500,112.7,4,371643.49
+Ford,2014,99482,Petrol,Dealer,Automatic,Third Owner,21.84,3000,155.56,5,178573.25
+Audi,2006,42355,Petrol,Trustmark Dealer,Manual,First Owner,29.38,1500,94.18,7,50000
+Kia,2012,42690,CNG,Dealer,Automatic,Third Owner,30.04,1000,66.27,7,50000
+Honda,2010,173886,Diesel,Trustmark Dealer,Manual,Fourth & Above Owner,26.24,1200,70.19,7,56728.65
+Audi,2020,167717,Petrol,Trustmark Dealer,Automatic,Third Owner,21.69,1800,129.89,5,684612.68
+Tata,2022,61630,Electric,Individual,Manual,Third Owner,24.39,800,35.6,6,161664.59
+Ford,2021,184243,Diesel,Individual,Automatic,First Owner,19.63,1800,78.09,5,384454.65
+Toyota,2010,26658,Petrol,Individual,Automatic,First Owner,13.16,3000,125.31,6,50000
+Tata,2017,20797,Diesel,Individual,Automatic,Second Owner,19.64,2000,122.87,5,245307.75
+Tata,2018,63799,Diesel,Dealer,Manual,First Owner,23.26,3000,204.75,6,364400.04
+Honda,2014,123301,Petrol,Dealer,Manual,First Owner,24.97,1200,54.27,5,60712.12
+BMW,2015,57236,Petrol,Dealer,Automatic,Second Owner,33.4,800,52.45,7,176885.9
+Ford,2017,11265,Petrol,Individual,Manual,First Owner,29.43,1500,88.62,5,187574.52
+Hyundai,2016,130611,Diesel,Dealer,Automatic,Third Owner,13.8,800,63.6,5,89066.65
+Tata,2013,189566,Petrol,Dealer,Manual,Third Owner,14.35,3000,206.1,5,50000
+BMW,2008,126754,CNG,Dealer,Manual,Third Owner,12.51,800,53.04,6,50000
+Hyundai,2011,188340,Diesel,Individual,Automatic,Second Owner,28.45,2500,157.04,5,50000
+Ford,2006,163070,Petrol,Trustmark Dealer,Automatic,Third Owner,27.65,800,63.92,4,50000
+Maruti,2011,96426,Diesel,Trustmark Dealer,Manual,Third Owner,34.66,1200,95.06,5,50000
+Kia,2013,197411,Petrol,Dealer,Manual,Second Owner,23.05,2500,153.81,7,50000
+BMW,2009,150378,Diesel,Trustmark Dealer,Manual,First Owner,30.66,3000,174.62,5,50000
+Mahindra,2019,183417,Diesel,Individual,Automatic,Third Owner,24.41,3000,175.45,5,315433.04
+Maruti,2022,147957,Petrol,Individual,Manual,Third Owner,31.85,3000,171.4,5,284291.77
+Kia,2008,114681,Diesel,Individual,Automatic,First Owner,28.03,2500,153.14,7,50000
+Honda,2023,48826,Petrol,Dealer,Automatic,First Owner,26.07,2000,101.89,5,733265.34
+Audi,2011,60597,Petrol,Trustmark Dealer,Manual,Second Owner,24.13,2000,154.14,7,60363.73
+Toyota,2012,143515,Petrol,Dealer,Automatic,First Owner,28.07,2500,149.02,7,50000
+Mahindra,2021,102375,Petrol,Dealer,Manual,Third Owner,20.49,2500,184.2,5,271092.58
+Honda,2017,22084,Electric,Individual,Manual,Fourth & Above Owner,12.41,3000,177.04,5,307065.04
+Ford,2015,94447,Petrol,Dealer,Automatic,First Owner,11,3000,206.19,6,264665.87
+Honda,2005,9383,Petrol,Dealer,Manual,Second Owner,21.98,3000,160.43,7,50000
+Audi,2006,97313,Diesel,Individual,Manual,First Owner,24.98,1000,64.99,6,50000
+Ford,2021,39361,Petrol,Dealer,Manual,Second Owner,11.97,2000,119.87,5,437903.08
+Mahindra,2009,85294,Electric,Individual,Manual,First Owner,17.17,1200,65.62,5,50000
+Audi,2010,66331,Diesel,Individual,Manual,Second Owner,18.05,1000,75.26,5,50000
+Hyundai,2011,100057,Diesel,Individual,Automatic,First Owner,24.07,1500,66.76,5,50000
+Toyota,2019,156601,Petrol,Individual,Automatic,First Owner,16.96,1500,89.22,5,226587.06
+Mahindra,2023,194646,Petrol,Individual,Automatic,First Owner,12.39,1500,71.66,5,266259.2
+Hyundai,2020,126685,Petrol,Individual,Manual,First Owner,14.12,1500,111.66,5,209283.58
+Kia,2017,101917,CNG,Individual,Manual,Second Owner,14.35,1500,75.21,5,84283.19
+Mahindra,2009,35932,Petrol,Individual,Manual,First Owner,31.07,1800,117.61,4,50000
+Kia,2007,6908,Petrol,Individual,Manual,Second Owner,17.11,2500,116.56,4,50000
+Ford,2007,166430,Electric,Trustmark Dealer,Manual,Third Owner,27.87,1200,67.44,7,50000
+Hyundai,2023,35412,Diesel,Dealer,Manual,Third Owner,24.2,1000,75.97,5,191782.38
+Toyota,2018,133319,Petrol,Dealer,Manual,Third Owner,34.43,1500,69.96,5,188215.53
+Audi,2020,88710,Petrol,Trustmark Dealer,Manual,Third Owner,16.82,1800,119.75,5,730992.25
+Tata,2021,7928,Electric,Dealer,Automatic,First Owner,13.96,3000,144.54,5,1095945.22
+Honda,2008,70158,Petrol,Dealer,Automatic,First Owner,11.3,3000,169.89,5,50000
+Maruti,2017,166704,Diesel,Individual,Automatic,Second Owner,16.02,2000,123.25,5,265629.21
+Toyota,2012,37309,Diesel,Dealer,Automatic,Third Owner,27.1,1800,113.57,4,50000
+Hyundai,2023,14280,Petrol,Dealer,Automatic,Fourth & Above Owner,12.13,1800,115.38,7,371700.48
+Tata,2009,45449,Diesel,Trustmark Dealer,Manual,First Owner,16.12,1200,78.73,4,50000
+Toyota,2006,31957,Petrol,Individual,Manual,First Owner,31.38,1500,76.31,4,50000
+Hyundai,2019,172967,Petrol,Dealer,Automatic,First Owner,24.57,1800,100.9,7,244671.95
+BMW,2006,75499,Diesel,Trustmark Dealer,Automatic,Second Owner,11.74,2500,103.73,5,50000
+BMW,2015,98057,CNG,Trustmark Dealer,Automatic,Second Owner,11.19,1800,127.35,6,415934.88
+Kia,2017,115065,Diesel,Dealer,Automatic,First Owner,11.53,1500,110.23,5,212139.05
+Toyota,2014,157767,Diesel,Dealer,Manual,First Owner,33.55,1200,57.56,5,121567.46
+BMW,2007,79893,Petrol,Individual,Automatic,Second Owner,31.25,1800,86.5,5,50000
+Hyundai,2009,199195,Petrol,Individual,Automatic,Second Owner,31.12,1000,41.68,7,50000
+Kia,2007,30176,Petrol,Individual,Manual,First Owner,33.11,800,63.05,4,50000
+Hyundai,2010,154481,Petrol,Trustmark Dealer,Automatic,Third Owner,22.63,3000,216.86,5,50000
+Kia,2017,61967,Petrol,Individual,Manual,Second Owner,16.18,2000,108.86,4,198630.69
+Toyota,2014,5987,Petrol,Dealer,Automatic,Third Owner,20.03,800,47.42,5,50000
+Tata,2023,190534,Petrol,Individual,Automatic,Third Owner,27.97,800,41.34,7,115956.68
+Audi,2012,101854,Petrol,Dealer,Manual,First Owner,31.9,1200,76.67,4,50000
+Mahindra,2022,31015,Diesel,Individual,Automatic,First Owner,20.88,3000,206.08,7,970253.24
+Tata,2007,117350,CNG,Individual,Manual,Second Owner,23.38,1800,104.21,5,50000
+Ford,2021,71404,Petrol,Dealer,Automatic,First Owner,33.29,800,59.96,7,162296.09
+Hyundai,2012,121751,Electric,Individual,Manual,Third Owner,12.69,800,48.54,5,50000
+Ford,2014,133807,CNG,Dealer,Automatic,Second Owner,31.56,3000,137.31,7,165523.9
+Tata,2006,186353,Petrol,Dealer,Manual,Third Owner,13.98,2000,129.78,5,50000
+Kia,2016,173218,Diesel,Individual,Automatic,First Owner,22.1,1500,87.73,6,165680.79
+Mahindra,2010,53231,Diesel,Dealer,Manual,First Owner,15.46,2500,193.57,5,50000
+Mahindra,2006,165104,Diesel,Individual,Automatic,Second Owner,25.07,2500,139.19,5,50000
+Maruti,2007,33305,Petrol,Dealer,Automatic,First Owner,23.96,3000,168.34,7,50000
+Mahindra,2021,59306,Diesel,Individual,Automatic,Second Owner,19.5,1800,118.86,5,476951.32
+Audi,2011,126139,Petrol,Individual,Automatic,Third Owner,31.58,1800,109.94,7,50000
+Mahindra,2009,23318,Diesel,Individual,Automatic,First Owner,26.5,2000,109.96,5,50000
+Tata,2005,149318,Diesel,Dealer,Manual,Second Owner,28.03,1500,119.39,5,50000
+Maruti,2012,169916,Diesel,Trustmark Dealer,Manual,First Owner,13.77,3000,156.26,7,68776.39
+Tata,2016,168674,Diesel,Dealer,Manual,First Owner,32.08,1800,91.98,5,145419.83
+Tata,2018,26584,Diesel,Dealer,Automatic,Fourth & Above Owner,14.18,2500,186.44,5,170252.67
+Honda,2020,20169,Petrol,Dealer,Automatic,Fourth & Above Owner,15.57,2500,100.34,7,391169.29
+Maruti,2014,30968,Petrol,Dealer,Manual,Second Owner,13.2,1000,48.05,5,50000
+Tata,2019,142457,CNG,Trustmark Dealer,Automatic,Third Owner,21.01,2000,127.24,5,50781.58
+Honda,2019,127684,Petrol,Dealer,Automatic,Second Owner,32.19,1200,55.8,5,219907.09
+Honda,2014,120391,Petrol,Individual,Automatic,First Owner,16.31,1500,119.15,7,113563.32
+Maruti,2011,30444,Petrol,Individual,Manual,First Owner,19.34,2000,117.14,7,50000
+Ford,2007,111081,Petrol,Dealer,Manual,Third Owner,31.15,800,51.12,7,50000
+Kia,2006,67497,Electric,Individual,Manual,First Owner,25.45,3000,139.24,5,50000
+Audi,2010,10362,Diesel,Dealer,Automatic,Second Owner,28.79,1800,92.84,5,50000
+Kia,2013,104254,Electric,Dealer,Manual,Second Owner,15.35,1000,64.58,5,161818.72
+Mahindra,2014,144322,Diesel,Dealer,Manual,Second Owner,27.91,2500,154.96,5,65433.13
+Audi,2008,73354,Diesel,Trustmark Dealer,Automatic,First Owner,15.69,1000,71.37,4,50000
+Mahindra,2007,41368,Petrol,Trustmark Dealer,Automatic,First Owner,34.68,1200,60.92,4,50000
+Tata,2013,49109,Diesel,Dealer,Automatic,First Owner,24,3000,198.43,7,50000
+Hyundai,2021,193717,Petrol,Dealer,Manual,Second Owner,27.39,2000,103.28,7,352755.38
+Maruti,2018,193069,CNG,Individual,Manual,Second Owner,12.96,1000,63.47,5,68701.95
+Audi,2014,32426,CNG,Dealer,Automatic,Second Owner,16.27,2000,128.4,7,450037.06
+Audi,2017,122632,Petrol,Trustmark Dealer,Manual,Second Owner,13.49,3000,134.62,7,890853.71
+Tata,2016,117637,Electric,Individual,Manual,First Owner,19.75,1800,111.5,5,152467.02
+Ford,2005,44023,CNG,Dealer,Manual,Third Owner,17.1,1800,72.86,5,50000
+Honda,2023,127268,Diesel,Individual,Manual,Second Owner,28.32,2500,150.12,5,523337.22
+Tata,2023,195339,Petrol,Dealer,Manual,First Owner,12.72,1000,67.9,5,201974.66
+BMW,2010,160964,Diesel,Trustmark Dealer,Manual,First Owner,28.8,1800,77.24,5,50000
+Honda,2017,195304,Diesel,Trustmark Dealer,Manual,Third Owner,11.14,3000,232.65,5,127176.52
+Maruti,2023,114211,Petrol,Dealer,Manual,Third Owner,15.05,2000,116.7,7,309498.42
+Honda,2017,99897,Petrol,Dealer,Automatic,First Owner,29.8,2500,193.84,5,406353.69
+Ford,2008,195297,Diesel,Trustmark Dealer,Manual,Second Owner,28.57,1800,79.73,5,50000
+Honda,2006,152079,Petrol,Trustmark Dealer,Automatic,First Owner,21.91,3000,233.99,5,50000
+Maruti,2019,84777,Diesel,Dealer,Manual,First Owner,11.25,3000,133.1,5,407817.64
+Ford,2016,49858,Electric,Individual,Manual,Second Owner,25.25,2500,146.15,5,330873.87
+Kia,2011,181145,CNG,Dealer,Automatic,Second Owner,20.17,800,62.02,5,50000
+Audi,2022,95042,Petrol,Dealer,Manual,Second Owner,17.91,2000,98.62,7,1106981.89
+Audi,2017,88098,CNG,Trustmark Dealer,Manual,First Owner,26.01,3000,124.17,5,1041439.88
+Mahindra,2021,25239,Petrol,Dealer,Manual,First Owner,20.92,2500,179.31,7,650522.59
+Kia,2008,199041,Petrol,Trustmark Dealer,Automatic,First Owner,12.31,1500,95.75,5,50000
+Kia,2018,149137,Diesel,Dealer,Manual,First Owner,32.9,3000,181.67,5,394787.79
+Honda,2017,115951,Petrol,Individual,Manual,First Owner,29.46,1800,74.47,5,221689.75
+Audi,2007,46291,Petrol,Dealer,Automatic,First Owner,11.41,1800,119.03,6,50000
+Maruti,2022,43805,Diesel,Individual,Manual,First Owner,23.13,2000,93.73,7,473690.31
+Toyota,2018,103831,Petrol,Individual,Manual,First Owner,12.08,3000,231.74,5,468581.97
+Toyota,2019,154515,Petrol,Dealer,Manual,Second Owner,30.93,1200,80.91,4,239494.09
+Ford,2007,14290,Diesel,Individual,Automatic,First Owner,25.33,1500,102.42,5,50000
+Audi,2005,136283,Diesel,Dealer,Manual,First Owner,14.31,2500,123.26,6,50000
+Audi,2021,88634,Diesel,Dealer,Manual,Second Owner,10.52,1500,112.85,5,937685.35
+Toyota,2007,24072,Petrol,Individual,Manual,First Owner,10.79,2500,153.77,5,50000
+Audi,2018,48290,Petrol,Dealer,Automatic,Second Owner,22.68,3000,222.85,5,1424948.83
+Honda,2007,90186,Petrol,Individual,Manual,First Owner,28.36,1500,76.26,5,50000
+BMW,2017,20115,Petrol,Individual,Automatic,First Owner,13.02,1000,70.22,7,466539.16
+Hyundai,2019,10149,Diesel,Individual,Manual,First Owner,15.53,800,50.39,5,111042.71
+Kia,2022,46992,Petrol,Dealer,Automatic,First Owner,18.18,800,33.55,5,313840.47
+Mahindra,2018,22716,Petrol,Dealer,Automatic,Second Owner,15.45,1200,67.46,5,146962.93
+Ford,2007,102724,Diesel,Dealer,Manual,Third Owner,19.78,1500,71.03,5,50000
+BMW,2023,18621,Diesel,Individual,Manual,First Owner,23.99,1500,81.55,4,1534398.78
+Toyota,2012,142892,Diesel,Individual,Manual,First Owner,27.12,1800,99.6,6,50000
+Kia,2008,118065,Petrol,Individual,Manual,Second Owner,34.09,2500,147.49,5,50000
+Audi,2008,178872,Petrol,Dealer,Automatic,First Owner,33.27,2000,128.02,5,50000
+Mahindra,2023,191115,Petrol,Dealer,Manual,Third Owner,24.25,1000,62.84,5,189046.82
+Audi,2015,35399,Petrol,Dealer,Manual,First Owner,28.35,1000,41.56,6,282693.07
+Maruti,2005,124374,Diesel,Dealer,Manual,Fourth & Above Owner,33.77,3000,210.08,5,50000
+Maruti,2012,150074,CNG,Dealer,Automatic,First Owner,12.09,1200,93.56,7,50000
+Mahindra,2019,48098,Diesel,Dealer,Manual,First Owner,10.14,800,43.16,5,189961.55
+Mahindra,2005,50511,Diesel,Dealer,Manual,Third Owner,10.74,3000,141.57,6,50000
+Toyota,2011,58243,Petrol,Dealer,Manual,Second Owner,24.08,1500,92.4,5,50000
+Mahindra,2015,120131,Diesel,Dealer,Automatic,Second Owner,29.07,2000,136.39,5,162693.82
+Honda,2018,33750,Petrol,Dealer,Automatic,Second Owner,19.18,1200,80.59,4,144742.82
+Audi,2020,153382,Diesel,Dealer,Manual,Second Owner,23.63,2500,161.21,7,1292689.79
+BMW,2018,60398,Diesel,Dealer,Manual,First Owner,22.91,1000,45.85,7,460078.31
+Tata,2016,49345,Petrol,Individual,Manual,Second Owner,12.37,1000,73.47,6,90468.2
+Mahindra,2021,98430,Petrol,Dealer,Manual,First Owner,18.04,1000,57.02,6,162722.83
+Ford,2018,119921,Electric,Dealer,Automatic,Third Owner,10.49,1500,73.29,5,233663.21
+Maruti,2014,96729,Petrol,Dealer,Automatic,Fourth & Above Owner,12.77,1500,65.18,5,141720.57
+Honda,2018,56843,Petrol,Dealer,Manual,First Owner,30.3,1500,85,7,287654.68
+Kia,2022,146294,Petrol,Dealer,Automatic,First Owner,30.74,1800,116.49,7,455465.69
+Tata,2013,167581,Diesel,Dealer,Manual,First Owner,30.05,800,53.29,5,66439.24
+BMW,2021,136458,Diesel,Individual,Automatic,First Owner,28.17,2500,196.27,5,1805401.27
+Tata,2010,69334,Diesel,Dealer,Automatic,Third Owner,29.83,1000,46.13,5,50000
+Mahindra,2012,72170,Petrol,Dealer,Manual,First Owner,26.77,1000,79.43,5,50000
+Toyota,2017,45878,Diesel,Trustmark Dealer,Automatic,First Owner,26.75,3000,198.56,5,530639.35
+Maruti,2022,174421,Petrol,Dealer,Manual,Third Owner,26.68,1800,104.7,5,277417.89
+Maruti,2009,158024,CNG,Dealer,Manual,Third Owner,22.85,1000,75.53,4,50000
+Kia,2010,95352,Diesel,Trustmark Dealer,Manual,Second Owner,19.08,2500,169.45,6,50000
+Toyota,2023,157601,Petrol,Individual,Manual,Second Owner,28.25,1000,53.95,6,247847.81
+Audi,2008,177593,Petrol,Dealer,Automatic,Second Owner,17.47,1500,113.05,7,50000
+Hyundai,2011,23383,Petrol,Dealer,Automatic,Fourth & Above Owner,23.57,1500,100,7,50000
+Honda,2008,140973,Petrol,Dealer,Automatic,Second Owner,20.83,800,54.36,5,50000
+Maruti,2015,47889,Petrol,Dealer,Automatic,Second Owner,16.92,2500,189.64,6,258615.43
+Ford,2016,19633,Diesel,Individual,Automatic,First Owner,34.37,2500,144.84,5,377547.59
+Maruti,2018,67244,Diesel,Dealer,Manual,First Owner,16.47,1000,66.28,7,71263.85
+Tata,2017,134177,Petrol,Dealer,Manual,Second Owner,17.73,1200,83.75,5,139041.85
+Maruti,2014,155235,Petrol,Trustmark Dealer,Manual,Third Owner,14.04,1000,58.16,7,50000
+Maruti,2022,195091,Petrol,Trustmark Dealer,Automatic,Third Owner,30.57,1000,43.34,5,90484.75
+Hyundai,2020,146779,CNG,Dealer,Automatic,Fourth & Above Owner,24.66,800,56.69,5,67089.5
+Hyundai,2009,88597,Petrol,Individual,Manual,Second Owner,25.33,1200,50.3,5,50000
+BMW,2012,181173,Diesel,Dealer,Automatic,Second Owner,30.51,3000,206.15,5,171049.31
+Audi,2018,180778,CNG,Trustmark Dealer,Automatic,Third Owner,18.57,1000,76.44,5,294874.81
+Ford,2009,20115,Diesel,Dealer,Manual,Second Owner,14.84,2000,107.76,5,50000
+Maruti,2012,80379,CNG,Dealer,Manual,First Owner,14.96,2000,88.16,7,50000
+Maruti,2010,44979,Petrol,Dealer,Manual,First Owner,28.32,2500,123.29,5,50000
+Honda,2020,176713,Electric,Dealer,Manual,Third Owner,25.35,2500,156.23,5,408476.33
+Hyundai,2008,74377,Petrol,Dealer,Manual,First Owner,15.16,1200,93.25,5,50000
+Ford,2016,11416,Petrol,Individual,Manual,Third Owner,13.63,2000,120.98,5,102081.97
+Kia,2015,146705,Diesel,Individual,Manual,First Owner,13.02,1500,66.76,5,201007.78
+BMW,2007,133785,Electric,Dealer,Manual,Second Owner,25.69,1500,97.67,5,50000
+Audi,2016,136666,CNG,Dealer,Automatic,Second Owner,10,1200,83.18,7,305592.2
+Toyota,2009,150465,Petrol,Dealer,Manual,Second Owner,10.46,3000,167.19,5,50000
+Audi,2010,171452,Petrol,Trustmark Dealer,Automatic,First Owner,19.74,1000,68.86,7,50000
+Tata,2023,181128,Electric,Trustmark Dealer,Manual,Third Owner,27.28,2500,132.48,6,408385.21
+Maruti,2022,135364,Petrol,Trustmark Dealer,Manual,Second Owner,27.38,1200,85.88,7,155481.75
+BMW,2020,102507,Diesel,Trustmark Dealer,Automatic,First Owner,20.75,2000,107.29,5,1479611.13
+Tata,2015,123243,CNG,Dealer,Manual,Second Owner,27.28,1200,60.29,5,83914.3
+Ford,2009,140933,Diesel,Dealer,Manual,First Owner,23.03,2000,150.33,5,50000
+Toyota,2013,108070,Petrol,Individual,Automatic,First Owner,34.42,2500,154.85,7,98877.54
+Hyundai,2007,41126,Diesel,Trustmark Dealer,Manual,First Owner,14.06,1500,77.11,5,50000
+BMW,2012,85382,Petrol,Dealer,Manual,Third Owner,25.02,1200,92.88,7,50000
+BMW,2010,169754,CNG,Dealer,Manual,Second Owner,22.28,2500,169.09,5,50000
+Maruti,2008,23228,Diesel,Individual,Manual,Second Owner,14.86,2500,122.07,5,50000
+Mahindra,2016,29009,CNG,Dealer,Manual,First Owner,28.75,1800,116.25,5,263789.31
+BMW,2016,5094,Petrol,Dealer,Manual,First Owner,16.89,3000,224.44,5,1115552.56
+Honda,2020,85636,Electric,Individual,Automatic,Fourth & Above Owner,19.54,2000,135.69,7,291658.96
+Toyota,2014,188293,Petrol,Dealer,Automatic,Second Owner,19.37,1800,89.62,5,50000
+Toyota,2018,103453,Petrol,Dealer,Automatic,Third Owner,16.11,1500,98.93,5,108619.89
+Honda,2017,153502,Petrol,Individual,Automatic,First Owner,20.77,2500,161.92,5,415677.87
+Kia,2013,171643,Diesel,Individual,Automatic,First Owner,21.83,2500,182.08,5,86055.69
+Honda,2011,59486,Diesel,Trustmark Dealer,Manual,Third Owner,28.61,1000,47.13,5,50000
+Honda,2016,95510,CNG,Dealer,Automatic,Second Owner,29.13,2000,135.97,5,197372.68
+Toyota,2009,198366,Petrol,Dealer,Automatic,First Owner,13.96,3000,123.28,5,50000
+Audi,2022,25860,Petrol,Individual,Automatic,First Owner,24.82,3000,203.54,5,3111888.82
+Toyota,2008,77812,Diesel,Individual,Manual,Third Owner,32.4,1000,78.42,5,50000
+Mahindra,2006,71087,Petrol,Dealer,Manual,First Owner,12.72,1500,70.46,5,50000
+Maruti,2007,144558,Diesel,Individual,Manual,Second Owner,21.82,1000,52.45,5,50000
+Tata,2016,54607,Electric,Dealer,Automatic,First Owner,28.76,2500,158.29,7,442379.04
+Audi,2007,145817,Electric,Dealer,Manual,First Owner,25.29,2000,138.59,7,50000
+Hyundai,2008,111664,Electric,Dealer,Automatic,Fourth & Above Owner,12.51,800,43.02,7,50000
+Tata,2010,23330,Diesel,Dealer,Manual,First Owner,19.92,2000,133.14,7,50000
+Maruti,2016,125803,Petrol,Dealer,Manual,Second Owner,22.68,2000,151.94,5,171978.63
+Mahindra,2023,176150,Petrol,Individual,Manual,Third Owner,34.9,1800,124.31,5,230976.85
+Mahindra,2014,191404,Diesel,Individual,Manual,First Owner,14.47,800,54.75,4,50000
+Hyundai,2005,190604,CNG,Trustmark Dealer,Manual,First Owner,34.56,800,44.22,5,50000
+Audi,2021,48336,Petrol,Dealer,Manual,Second Owner,19.4,800,61.17,5,467975
+Kia,2020,13070,Petrol,Dealer,Automatic,First Owner,15.01,2000,102.19,7,588532.03
+Honda,2013,6320,Petrol,Dealer,Manual,First Owner,20.35,1500,72.32,5,50000
+Audi,2013,94043,Diesel,Dealer,Manual,First Owner,25.35,800,43.66,5,50000
+Kia,2013,43921,CNG,Individual,Automatic,Second Owner,15.34,1200,79.21,5,59003.51
+Mahindra,2016,11589,Diesel,Individual,Automatic,Second Owner,17.29,1000,74.47,5,174958.88
+Toyota,2013,97995,Petrol,Individual,Automatic,Second Owner,31.36,1500,67.92,5,50000
+Maruti,2019,20589,Electric,Dealer,Manual,First Owner,34.98,1200,87.06,6,261462.7
+Hyundai,2006,41375,Diesel,Dealer,Automatic,Second Owner,17.95,2000,145.03,5,50000
+Maruti,2015,48085,Petrol,Dealer,Automatic,Fourth & Above Owner,13.72,2000,126.95,7,86274.69
+Ford,2015,65840,Petrol,Dealer,Manual,Second Owner,29.83,1200,84.51,7,50000
+Ford,2012,179272,Petrol,Individual,Manual,Second Owner,25.01,1800,85.1,5,50000
+Audi,2010,103704,Petrol,Trustmark Dealer,Manual,Second Owner,12.51,1800,84.21,5,50000
+Mahindra,2011,162804,Electric,Dealer,Manual,Third Owner,33.67,1200,89.41,6,50000
+Mahindra,2007,102047,Diesel,Individual,Automatic,Third Owner,11.95,3000,179.78,5,50000
+Honda,2012,158498,CNG,Individual,Manual,First Owner,25.63,1800,89.71,4,50000
+Honda,2022,35982,Petrol,Dealer,Automatic,First Owner,20.6,1000,67.55,7,296044.63
+Honda,2021,64720,Petrol,Individual,Manual,First Owner,23.92,1000,75.68,5,284472.84
+Toyota,2015,152818,Diesel,Dealer,Manual,First Owner,15.33,3000,195.88,5,274387.47
+Tata,2006,33514,Petrol,Dealer,Manual,First Owner,27.2,2000,107.79,5,50000
+BMW,2023,139923,Diesel,Individual,Manual,Third Owner,33.99,1800,106.79,5,902008.19
+Tata,2011,155868,Electric,Trustmark Dealer,Automatic,First Owner,21.46,3000,210.27,5,50000
+Maruti,2022,81034,Diesel,Dealer,Automatic,Second Owner,23.07,800,34.16,5,159739.1
+Tata,2012,198870,Diesel,Dealer,Manual,Second Owner,16,3000,146.06,5,50000
+Toyota,2018,103388,Petrol,Trustmark Dealer,Manual,First Owner,32.3,1200,70.2,5,104532.22
+Maruti,2011,199057,Petrol,Individual,Manual,Third Owner,34.28,1000,64.17,7,50000
+Tata,2008,170664,Petrol,Individual,Automatic,Third Owner,29.66,3000,160.7,7,50000
+Toyota,2021,49845,Diesel,Dealer,Manual,First Owner,23.57,2500,129.84,4,856917.36
+BMW,2009,152002,Petrol,Trustmark Dealer,Manual,First Owner,33.92,1800,74.98,4,50000
+Tata,2016,115853,Petrol,Dealer,Automatic,First Owner,13.85,2500,103.26,5,193981.72
+Toyota,2013,113417,Diesel,Individual,Automatic,Second Owner,21.96,1800,92.07,5,50000
+Honda,2017,118436,Petrol,Dealer,Manual,First Owner,23.44,3000,183.66,7,309823.25
+Mahindra,2022,26159,Petrol,Individual,Manual,Second Owner,22.3,3000,186.76,5,634167.24
+Honda,2013,94788,Petrol,Dealer,Automatic,Third Owner,30.06,1000,59.76,5,50000
+Mahindra,2008,29003,Electric,Dealer,Automatic,First Owner,26.76,1000,56.4,5,50000
+Hyundai,2012,110722,Diesel,Dealer,Manual,Third Owner,13.17,3000,150.27,7,50000
+Hyundai,2005,40139,Diesel,Dealer,Automatic,First Owner,18.66,800,44.82,7,50000
+Hyundai,2021,57452,Petrol,Individual,Automatic,Third Owner,18.48,1800,81.99,5,277561.41
+BMW,2013,27205,Electric,Trustmark Dealer,Manual,First Owner,24.14,3000,133.83,5,501327.01
+Honda,2017,61955,Diesel,Trustmark Dealer,Manual,Second Owner,17.29,1800,93.6,5,174645.9
+Mahindra,2006,12464,Petrol,Dealer,Manual,First Owner,12.93,1500,119.72,5,50000
+Toyota,2017,14840,CNG,Individual,Automatic,Third Owner,26.34,2000,106.12,4,212131.98
+Maruti,2013,45768,Petrol,Individual,Manual,Second Owner,31.28,800,61.97,7,50000
+Toyota,2010,145533,Diesel,Dealer,Automatic,First Owner,33.29,1000,55.69,5,50000
+Maruti,2005,25927,Diesel,Dealer,Automatic,Second Owner,34.31,2500,143.9,7,50000
+Ford,2009,103622,Petrol,Individual,Manual,First Owner,29.53,1000,71.88,7,50000
+Toyota,2007,20329,Electric,Trustmark Dealer,Automatic,Second Owner,13.49,1200,52.49,5,50000
+Tata,2008,20791,Diesel,Individual,Automatic,Third Owner,31.33,2000,94.59,5,50000
+Tata,2005,57627,Diesel,Dealer,Manual,First Owner,20,1000,78.95,7,50000
+Audi,2018,133885,Petrol,Individual,Manual,First Owner,28.25,1800,108.43,5,792419.69
+Honda,2013,150444,Petrol,Dealer,Manual,First Owner,23.28,1000,41.77,5,90672.55
+Maruti,2008,184541,Petrol,Individual,Automatic,Second Owner,30.72,3000,125.69,5,50000
+Maruti,2022,114554,Diesel,Individual,Automatic,First Owner,20.64,1800,137.32,5,484350.83
+Honda,2018,135436,Petrol,Dealer,Manual,First Owner,11.54,1800,134.88,5,215036.33
+BMW,2008,92073,Diesel,Trustmark Dealer,Automatic,First Owner,23.92,800,46.67,5,50000
+Audi,2014,39370,Diesel,Dealer,Manual,First Owner,14.28,1000,46.53,5,263258.15
+BMW,2007,56408,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner,34.14,800,58.57,4,50000
+BMW,2011,95941,Diesel,Dealer,Manual,First Owner,23.17,2500,132.46,4,50000
+BMW,2014,159775,Petrol,Dealer,Manual,Second Owner,23.84,2500,141.91,5,202161.18
+Honda,2017,151306,Electric,Dealer,Manual,Second Owner,32.68,2000,134.6,5,275289.95
+BMW,2008,143604,Diesel,Dealer,Manual,Second Owner,25.61,1800,97.44,4,50000
+Tata,2022,40416,Petrol,Dealer,Manual,First Owner,17.57,3000,195.44,5,650000.97
+Hyundai,2015,77439,Petrol,Individual,Automatic,Second Owner,17.4,3000,226.23,6,290531.84
+Ford,2008,23242,Petrol,Individual,Manual,Third Owner,22.54,2500,179.74,6,50000
+Maruti,2018,186326,Diesel,Individual,Manual,First Owner,31.67,2000,110.53,6,252323.46
+Maruti,2022,84324,Diesel,Dealer,Manual,First Owner,29.87,1000,51.52,7,193565.17
+Ford,2012,40249,Diesel,Individual,Automatic,First Owner,34.07,2000,102.84,5,50000
+Honda,2014,105124,Petrol,Dealer,Manual,First Owner,11.8,2000,107.89,5,59429.21
+Toyota,2009,100049,Petrol,Individual,Manual,First Owner,16.71,1000,59.74,5,50000
+Honda,2011,90078,Petrol,Dealer,Automatic,Second Owner,12.01,800,45.33,7,50000
+Maruti,2016,37294,Diesel,Trustmark Dealer,Manual,First Owner,28.78,800,36.26,6,152650.93
+Maruti,2007,195856,CNG,Individual,Manual,Second Owner,13.52,1800,83.77,5,50000
+Ford,2008,139756,Petrol,Individual,Automatic,Second Owner,12.5,3000,161.15,4,50000
+BMW,2014,159867,Petrol,Dealer,Manual,First Owner,24.04,1800,112.47,5,384594.06
+Honda,2008,196373,Diesel,Dealer,Manual,Second Owner,20.29,1000,63.71,5,50000
+Mahindra,2019,146503,CNG,Dealer,Manual,First Owner,27.88,1000,59.45,5,85031.93
+Ford,2014,94627,Diesel,Trustmark Dealer,Manual,Third Owner,22.18,1500,104.33,7,50000
+Tata,2020,95381,CNG,Trustmark Dealer,Manual,First Owner,20.63,1500,104.23,5,230678.43
+Maruti,2019,95027,Petrol,Dealer,Manual,Second Owner,20.64,1200,68.53,7,69632.62
+Ford,2023,191444,Petrol,Individual,Manual,Third Owner,31.8,3000,134.93,5,315269.82
+Honda,2023,75366,CNG,Individual,Manual,First Owner,19.88,2500,153.02,5,648039.59
+Maruti,2022,99176,Diesel,Individual,Automatic,First Owner,18.33,1800,99.47,7,511984.95
+Toyota,2016,124667,Petrol,Dealer,Manual,Second Owner,18.46,2000,91.03,5,154344.86
+Ford,2020,77870,Diesel,Dealer,Manual,First Owner,14.92,2500,198.18,5,460686.04
+Audi,2005,52387,CNG,Dealer,Automatic,Third Owner,31.52,1200,65.75,6,50000
+Maruti,2020,188999,Diesel,Individual,Automatic,Fourth & Above Owner,13.67,2500,162.58,7,187037.89
+Honda,2006,14304,Diesel,Dealer,Manual,First Owner,32.72,3000,178.82,4,50000
+Hyundai,2019,22032,Petrol,Dealer,Automatic,First Owner,17.09,3000,137.14,5,592875.04
+Mahindra,2011,96291,Diesel,Trustmark Dealer,Manual,First Owner,32.49,3000,126.67,5,50000
+Kia,2005,117889,Diesel,Individual,Manual,First Owner,29.77,1200,78.04,7,50000
+BMW,2009,64486,CNG,Trustmark Dealer,Automatic,Second Owner,24.55,800,39.9,7,50000
+Kia,2014,70552,CNG,Dealer,Manual,Second Owner,26.74,2000,99.49,5,150965.13
+Honda,2008,165726,CNG,Dealer,Manual,First Owner,18.15,3000,234.84,5,50000
+Tata,2018,44244,Petrol,Trustmark Dealer,Manual,First Owner,24.36,800,46.78,7,63762.33
+Tata,2017,142014,Diesel,Dealer,Manual,First Owner,17.31,3000,123.53,5,345829
+Hyundai,2005,55697,Diesel,Dealer,Manual,First Owner,20.06,1500,80.39,5,50000
+BMW,2020,131031,Diesel,Dealer,Automatic,Third Owner,29.12,1200,76.06,4,540245.41
+Audi,2013,7693,Diesel,Dealer,Manual,First Owner,16.1,2500,132.86,5,352292.38
+Hyundai,2020,192823,CNG,Dealer,Automatic,Third Owner,30.97,1500,61.61,5,108110.46
+Kia,2023,86098,Diesel,Trustmark Dealer,Manual,Second Owner,19.4,2000,115.54,5,504254.14
+Hyundai,2019,11259,Diesel,Trustmark Dealer,Automatic,Second Owner,23.3,3000,132.71,5,565166.19
+Kia,2018,124746,Petrol,Trustmark Dealer,Automatic,First Owner,33.55,2000,129.53,7,363008.41
+Maruti,2014,112772,Petrol,Dealer,Automatic,Second Owner,27.03,1800,116.61,5,78806.47
+Tata,2016,122928,Diesel,Dealer,Manual,Second Owner,26.14,3000,124.53,4,155712.68
+Maruti,2005,141014,Diesel,Dealer,Manual,Second Owner,27.79,1000,51.63,7,50000
+Mahindra,2021,52419,Petrol,Trustmark Dealer,Manual,First Owner,32.95,800,45.24,6,250483.14
+BMW,2013,107092,Petrol,Dealer,Automatic,First Owner,16.21,1800,111.62,5,271008.23
+Audi,2023,61105,Diesel,Individual,Automatic,Second Owner,25.33,2500,129.61,5,2362855.2
+Kia,2022,163455,Petrol,Individual,Manual,First Owner,20.01,1800,92.72,5,415996.01
+Audi,2011,28404,Petrol,Dealer,Manual,First Owner,10.3,2500,198.3,5,50000
+Kia,2013,77656,Petrol,Dealer,Manual,Fourth & Above Owner,13.13,800,33.34,4,50000
+Honda,2016,141774,Petrol,Trustmark Dealer,Automatic,First Owner,18.12,800,63.65,5,77006.74
+Hyundai,2011,105965,Petrol,Trustmark Dealer,Manual,First Owner,24.12,2000,83.82,5,50000
+Mahindra,2018,61332,Petrol,Dealer,Automatic,First Owner,32.04,2000,103.07,7,331989.31
+Tata,2019,175491,Petrol,Dealer,Automatic,Second Owner,29.78,1200,71.7,5,107176.1
+Kia,2019,108182,CNG,Trustmark Dealer,Manual,First Owner,23.83,1500,68.6,5,266010.1
+Audi,2010,116395,Diesel,Dealer,Manual,Second Owner,11.85,2000,90.79,4,50000
+Mahindra,2018,107619,Diesel,Dealer,Manual,First Owner,17.15,1800,90.45,4,295450.3
+Toyota,2006,113269,Petrol,Dealer,Manual,First Owner,19.17,1200,94.73,5,50000
+Toyota,2012,78844,Petrol,Individual,Manual,Second Owner,25.54,2500,138.01,6,50000
+Maruti,2017,175314,Diesel,Dealer,Manual,First Owner,11.62,1200,75.17,6,89669.58
+Tata,2010,129983,Petrol,Dealer,Automatic,Fourth & Above Owner,23.25,1800,122.71,6,50000
+Honda,2009,39142,Diesel,Dealer,Manual,First Owner,32.54,2000,139.38,5,50000
+Audi,2009,114699,Diesel,Individual,Manual,First Owner,27.64,3000,202.56,5,50000
+Hyundai,2005,101226,Diesel,Trustmark Dealer,Automatic,First Owner,29.93,2500,133.69,5,50000
+Hyundai,2013,12393,Petrol,Individual,Automatic,First Owner,27.04,1800,80.04,4,184776.73
+Audi,2010,107281,Petrol,Individual,Manual,Fourth & Above Owner,15.16,1000,51.27,6,50000
+BMW,2011,164965,Diesel,Individual,Manual,Third Owner,12.76,2000,96.82,7,50000
+Honda,2013,14388,Petrol,Dealer,Manual,First Owner,30.74,1500,68.18,6,80500.08
+Mahindra,2009,67969,Diesel,Dealer,Automatic,Second Owner,27.39,2500,102.45,7,50000
+Kia,2018,41660,Diesel,Trustmark Dealer,Automatic,Second Owner,24.38,1800,139.37,7,278562.1
+BMW,2009,94244,Electric,Dealer,Automatic,First Owner,14.73,2000,153.68,5,50000
+Kia,2012,160798,Petrol,Dealer,Manual,First Owner,25.08,800,33.61,7,50000
+Kia,2011,84544,CNG,Individual,Automatic,Third Owner,10.78,1000,46.92,5,115933.64
+BMW,2017,199068,Diesel,Dealer,Manual,Fourth & Above Owner,12.97,2500,113.95,7,376620.4
+Maruti,2017,136183,Petrol,Dealer,Manual,Fourth & Above Owner,17.8,2500,128.12,5,108748.32
+Toyota,2012,120370,Petrol,Trustmark Dealer,Manual,Second Owner,21.09,1500,72.24,5,74070.78
+Kia,2015,22545,Diesel,Trustmark Dealer,Manual,Second Owner,13.01,2000,155.67,6,177565.93
+BMW,2022,176240,Petrol,Dealer,Manual,First Owner,13,800,34.69,5,404028.1
+BMW,2023,138451,Petrol,Trustmark Dealer,Automatic,First Owner,28.15,2000,96.93,7,1562541.01
+Ford,2010,92346,Petrol,Individual,Automatic,First Owner,24.24,800,34.58,5,50000
+Maruti,2006,177192,CNG,Individual,Manual,Second Owner,23.34,1500,118.82,5,50000
+Tata,2017,22809,Diesel,Dealer,Manual,Second Owner,21.31,1000,76.74,4,168924.34
+Ford,2015,188885,Diesel,Dealer,Manual,Third Owner,34.41,2500,171.66,5,142868.08
+Ford,2005,32967,Petrol,Individual,Manual,Third Owner,11.25,800,45.63,5,50000
+Audi,2006,145820,Petrol,Trustmark Dealer,Manual,Third Owner,14.52,1200,57.13,4,50000
+Toyota,2021,28424,Diesel,Individual,Automatic,Fourth & Above Owner,26.19,1500,73.29,5,296281.93
+BMW,2012,159986,Diesel,Dealer,Manual,First Owner,13.41,1500,86.58,5,50000
+Toyota,2006,113411,Petrol,Dealer,Manual,Second Owner,24.73,1800,127.31,4,50000
+Honda,2010,155563,Diesel,Individual,Manual,Second Owner,24.19,1000,50.59,5,50000
+Audi,2009,185526,Electric,Dealer,Automatic,First Owner,34.28,1200,62.92,7,50000
+Tata,2020,75069,Diesel,Individual,Automatic,Fourth & Above Owner,32.08,1200,76.8,5,77279.48
+Toyota,2012,187997,Diesel,Dealer,Automatic,Third Owner,33.64,1800,89.12,5,50000
+Hyundai,2023,94119,Electric,Dealer,Automatic,First Owner,12.84,800,50.69,4,325925.29
+Kia,2020,42049,Petrol,Individual,Manual,First Owner,31.7,800,44.39,5,283295.04
+Honda,2017,32821,Diesel,Individual,Manual,Second Owner,13.23,3000,124.12,5,427470.63
+Maruti,2011,100797,Electric,Dealer,Automatic,Second Owner,25.82,3000,168.32,5,50000
+Tata,2020,166017,Petrol,Dealer,Manual,Third Owner,28,1200,92.14,5,50000
+Honda,2020,153456,Diesel,Individual,Manual,First Owner,14.02,1000,51.72,5,220074.81
+Kia,2016,164482,Diesel,Dealer,Manual,First Owner,25.82,800,42.33,5,50000
+Audi,2018,82734,Diesel,Individual,Manual,First Owner,11.31,1500,63.96,6,852819.22
+Kia,2022,199838,Diesel,Trustmark Dealer,Manual,First Owner,17.33,2000,129.2,5,337482.48
+Ford,2022,143241,Electric,Dealer,Manual,First Owner,33.03,1800,133.15,4,481467.68
+Kia,2020,176201,Diesel,Trustmark Dealer,Automatic,Third Owner,14.29,1000,54.12,4,50000
+Ford,2020,102445,Petrol,Dealer,Manual,First Owner,11.63,800,39.69,5,98502.54
+Audi,2017,8830,CNG,Individual,Manual,First Owner,21.09,2000,156.53,5,815704.81
+Mahindra,2013,192378,Petrol,Dealer,Manual,First Owner,31.27,1200,83.76,5,63124.47
+Ford,2013,91940,Petrol,Trustmark Dealer,Manual,First Owner,11.92,1800,112.84,5,62892.46
+Maruti,2017,163829,Diesel,Dealer,Manual,Third Owner,18.89,800,41.78,5,50000
+Kia,2008,68867,Diesel,Dealer,Manual,Second Owner,32.49,1200,58.6,4,50000
+Kia,2013,171722,Petrol,Trustmark Dealer,Manual,Second Owner,12.95,800,54.9,5,50000
+Maruti,2019,169838,Electric,Individual,Manual,First Owner,17.77,1800,109.57,4,315616
+Hyundai,2018,37419,Diesel,Individual,Manual,First Owner,29.46,1500,91.24,5,258064.2
+BMW,2023,21668,Diesel,Dealer,Manual,First Owner,23.58,2500,107.37,5,2655422.62
+Mahindra,2016,152318,Petrol,Individual,Manual,First Owner,30.81,1500,90.73,5,211222.01
+Tata,2010,29996,Electric,Dealer,Manual,Third Owner,12.79,2500,182.27,6,50000
+Ford,2007,56312,Electric,Dealer,Manual,First Owner,33.01,2000,155.74,6,50000
+Maruti,2020,139137,Diesel,Individual,Automatic,Second Owner,33.37,1200,53.12,5,199816.53
+Audi,2021,15467,Petrol,Dealer,Manual,First Owner,13.88,2500,163.12,7,2161041.42
+Ford,2020,186718,Petrol,Trustmark Dealer,Manual,Second Owner,10.85,1500,94.1,5,183128.27
+BMW,2010,157079,Petrol,Trustmark Dealer,Manual,Third Owner,34.75,1800,136.1,5,50000
+Audi,2012,33702,Petrol,Individual,Automatic,Second Owner,22.06,1200,84.06,5,50000
+Honda,2023,99369,Petrol,Individual,Automatic,Second Owner,24.3,800,62.89,5,160952.33
+Kia,2006,80569,Electric,Individual,Automatic,Fourth & Above Owner,25.4,2500,196,5,50000
+Honda,2018,58952,Diesel,Dealer,Automatic,Second Owner,29.74,3000,147.08,4,370592.64
+Ford,2016,194137,Petrol,Individual,Manual,First Owner,30.3,2500,172.54,5,180229.23
+BMW,2021,39169,Petrol,Dealer,Automatic,First Owner,14.85,1000,61.22,7,833701.42
+Mahindra,2019,21829,Petrol,Dealer,Manual,Second Owner,15.92,2500,121.46,5,439877.08
+Ford,2022,196207,Petrol,Individual,Manual,Second Owner,31.92,2500,119.49,7,398077.44
+Maruti,2020,9522,Petrol,Individual,Manual,First Owner,30.49,800,34.59,5,288663.56
+Toyota,2017,90687,Petrol,Trustmark Dealer,Manual,First Owner,25.44,1800,129.28,5,281834.2
+Ford,2021,171391,Diesel,Dealer,Automatic,Fourth & Above Owner,34.87,2000,105.96,5,216111.64
+Kia,2012,125334,Electric,Individual,Manual,First Owner,28.38,1200,89.13,5,50000
+Kia,2005,162615,Petrol,Dealer,Automatic,First Owner,15.4,800,51.47,5,50000
+Ford,2007,123576,Petrol,Individual,Manual,First Owner,31.17,1200,80.33,5,50000
+Audi,2020,122419,CNG,Individual,Manual,Third Owner,20.37,3000,155,5,1026007.19
+Toyota,2006,166545,Petrol,Individual,Manual,First Owner,10.9,1500,87.44,4,50000
+Maruti,2019,12699,Petrol,Dealer,Manual,Second Owner,18.04,1000,56.49,5,141271.17
+Ford,2005,73165,CNG,Dealer,Automatic,First Owner,29.09,3000,148.28,5,50000
+Audi,2013,176527,Petrol,Dealer,Manual,Second Owner,34.01,1800,131.94,7,138404.13
+Kia,2020,80692,Diesel,Individual,Manual,Third Owner,16.9,800,51.91,5,143424.67
+Kia,2008,22441,Diesel,Trustmark Dealer,Automatic,First Owner,16.16,1000,41.5,7,50000
+BMW,2016,35716,Petrol,Dealer,Manual,Second Owner,24.09,2500,181.99,5,640382.15
+Ford,2005,67175,Petrol,Individual,Automatic,First Owner,30.29,1800,79.63,4,50000
+Toyota,2005,11834,Diesel,Trustmark Dealer,Manual,First Owner,28.66,3000,168.44,5,50000
+Hyundai,2011,23179,Petrol,Individual,Manual,Third Owner,24,1800,113.13,5,50000
+Toyota,2022,31219,Petrol,Individual,Manual,First Owner,25.78,2000,80.61,7,630302.04
+Kia,2019,108153,Diesel,Individual,Manual,Second Owner,16.05,3000,198.35,5,461683.97
+Kia,2017,151854,Diesel,Dealer,Manual,First Owner,20.81,3000,199.16,7,377255.18
+Honda,2020,79967,Petrol,Dealer,Automatic,First Owner,16.38,1500,99.15,7,361588.83
+Kia,2011,107454,CNG,Dealer,Automatic,First Owner,32.11,2000,93.08,5,50000
+Maruti,2020,14496,Petrol,Trustmark Dealer,Automatic,Second Owner,12.81,2000,100.46,5,414600.16
+Tata,2017,175310,CNG,Trustmark Dealer,Manual,First Owner,26.99,1200,59.87,5,132216.8
+Ford,2018,51025,Diesel,Individual,Manual,Second Owner,16.51,1200,94.08,5,95397.05
+Toyota,2021,64886,Diesel,Dealer,Manual,First Owner,21.89,2500,106.75,5,738133.27
+Tata,2016,159635,Diesel,Dealer,Manual,First Owner,17.49,1000,57.15,5,50000
+Audi,2017,8712,Electric,Dealer,Automatic,Second Owner,18.08,1500,112.28,5,845670.83
+Hyundai,2019,99067,Petrol,Dealer,Manual,Third Owner,16.51,3000,212.34,4,365797.32
+Maruti,2008,50489,Diesel,Individual,Manual,First Owner,28.82,1800,131.22,5,50000
+Toyota,2006,37664,Petrol,Trustmark Dealer,Manual,Second Owner,19.14,2500,197.23,7,50000
+Tata,2022,148492,Petrol,Trustmark Dealer,Automatic,First Owner,28.16,1500,83.24,5,360538.08
+Hyundai,2006,190682,Petrol,Individual,Manual,Second Owner,21.4,1500,78.58,5,50000
+Honda,2019,10315,Electric,Dealer,Manual,Third Owner,23.68,3000,123.68,5,596014.91
+Maruti,2023,80033,Electric,Dealer,Manual,Third Owner,23.58,3000,138,6,630152.43
+Maruti,2019,122862,Petrol,Dealer,Manual,Second Owner,34.4,1000,62.48,5,114910.34
+Honda,2014,84030,Petrol,Individual,Manual,First Owner,19.18,1200,55.57,7,50000
+Ford,2015,68910,Diesel,Individual,Manual,Third Owner,15.19,3000,208.36,7,146903.25
+Honda,2014,197044,Petrol,Dealer,Automatic,Second Owner,32.79,1500,62.23,7,64526.59
+Maruti,2009,126075,Petrol,Dealer,Manual,First Owner,14.37,1500,75.57,4,50000
+Maruti,2013,60919,Diesel,Dealer,Automatic,First Owner,30.86,1500,101.73,5,52095.19
+Tata,2023,140204,Diesel,Dealer,Automatic,Third Owner,13.76,800,40.18,7,50000
+Kia,2017,132153,Electric,Dealer,Automatic,Third Owner,26.47,1500,103.73,7,268794.9
+Hyundai,2022,46598,Petrol,Dealer,Manual,First Owner,13.76,1500,119.75,7,423913.43
+Honda,2021,156623,Petrol,Dealer,Manual,Second Owner,33.08,3000,215.65,5,440747.67
+Hyundai,2010,73206,Diesel,Trustmark Dealer,Automatic,Third Owner,24.13,1800,96.61,5,50000
+Honda,2014,79900,Diesel,Individual,Automatic,First Owner,18.23,2000,152.05,5,135124.52
+Audi,2006,31296,Diesel,Dealer,Manual,First Owner,13.51,800,33.64,7,50000
+Maruti,2010,154138,Diesel,Dealer,Automatic,Second Owner,19.28,1500,103.5,6,50000
+Kia,2017,164964,Petrol,Dealer,Manual,First Owner,27.63,2000,81.87,4,233960.45
+Tata,2022,80577,CNG,Dealer,Manual,First Owner,19.62,1500,70.47,5,257039.72
+Kia,2011,82173,Petrol,Dealer,Manual,Second Owner,16.15,1000,79.5,5,50000
+Kia,2006,69771,Petrol,Individual,Manual,Third Owner,24.44,3000,163.31,5,50000
+Kia,2018,163556,Diesel,Individual,Manual,Second Owner,20.45,3000,218.46,5,345498.39
+Hyundai,2009,82865,Petrol,Individual,Automatic,Second Owner,14.15,1000,55.04,5,50000
+Honda,2022,104074,Petrol,Dealer,Manual,First Owner,13.85,2000,147.2,5,456591.73
+Mahindra,2015,163187,CNG,Individual,Manual,First Owner,27.69,3000,235.85,5,104888.07
+Audi,2014,162110,Diesel,Dealer,Manual,Second Owner,34.37,800,45.94,7,128683.13
+Toyota,2015,41622,Diesel,Dealer,Manual,First Owner,15.83,1800,112.27,6,224938.83
+Kia,2006,40886,Petrol,Individual,Manual,Third Owner,29.33,800,52.12,6,50000
+Ford,2019,187356,Diesel,Individual,Automatic,First Owner,12.19,800,61.91,6,171288.07
+Hyundai,2011,145973,Petrol,Trustmark Dealer,Automatic,First Owner,19.54,1000,50.27,5,50000
+Tata,2013,61377,Petrol,Individual,Automatic,First Owner,22.67,1000,64.45,6,50000
+Toyota,2009,87910,Electric,Trustmark Dealer,Automatic,Third Owner,16.72,1800,95.38,7,50000
+Mahindra,2011,185934,Diesel,Trustmark Dealer,Manual,First Owner,23.24,2500,121.69,5,84796.44
+Ford,2006,123992,Diesel,Individual,Manual,First Owner,32.07,2500,108.49,5,50000
+Mahindra,2007,168878,Petrol,Individual,Manual,First Owner,33.61,2500,162.07,6,50000
+Toyota,2006,153731,CNG,Individual,Manual,Third Owner,12.51,1500,112.93,7,50000
+Kia,2023,159525,Diesel,Trustmark Dealer,Automatic,First Owner,16.8,1800,97.3,5,587217.81
+Ford,2008,166570,Diesel,Individual,Manual,First Owner,34.48,1500,93.16,5,50000
+Mahindra,2011,21312,Diesel,Dealer,Manual,First Owner,16.76,2000,131.37,7,50000
+Tata,2011,6436,Petrol,Individual,Automatic,Second Owner,27.32,2000,113.17,7,50000
+Honda,2021,32569,Petrol,Dealer,Automatic,First Owner,16.34,1200,91.36,5,264624.61
+Maruti,2023,194885,Diesel,Dealer,Automatic,First Owner,18.91,2500,136.28,5,602858.64
+Honda,2020,121787,Petrol,Dealer,Manual,First Owner,14.78,1000,45,5,163449.91
+Toyota,2007,95485,Petrol,Individual,Manual,Second Owner,31.41,1200,54.91,5,50000
+Hyundai,2019,182058,Electric,Trustmark Dealer,Manual,Second Owner,32.07,1200,90.76,7,140371.59
+Maruti,2018,107555,Diesel,Dealer,Manual,Second Owner,17.42,1000,79.52,5,198971.67
+Audi,2019,189249,Diesel,Dealer,Manual,Third Owner,30.59,3000,154.67,5,977381.69
+Tata,2018,145377,Diesel,Dealer,Manual,Fourth & Above Owner,18.96,1200,54.89,7,58462.88
+Audi,2011,37646,Diesel,Individual,Automatic,First Owner,12.48,3000,177.87,5,50000
+Ford,2007,81126,Petrol,Dealer,Manual,Second Owner,28.95,2500,170.95,6,50000
+Maruti,2021,122922,Petrol,Dealer,Automatic,Second Owner,24.91,800,51.6,5,152730.56
+Audi,2014,45430,Petrol,Dealer,Automatic,Third Owner,16.86,3000,234.13,7,443305.98
+Audi,2019,127238,Petrol,Dealer,Manual,First Owner,16.32,1500,109.07,7,786712.53
+Mahindra,2010,73659,Diesel,Dealer,Automatic,Second Owner,34.39,2500,186.9,5,50000
+Honda,2021,120341,Petrol,Individual,Manual,First Owner,31.56,3000,185,7,593491.25
+Mahindra,2021,9158,Diesel,Dealer,Manual,Third Owner,30.24,1800,95.56,7,340366.07
+Maruti,2018,79236,Petrol,Individual,Automatic,First Owner,13.2,1000,68.07,7,159536.84
+Maruti,2022,81067,Petrol,Dealer,Manual,First Owner,28.88,800,46.05,5,95772.91
+Toyota,2009,163810,Petrol,Dealer,Automatic,First Owner,15.36,2000,103.02,5,50000
+Mahindra,2012,14879,Petrol,Dealer,Manual,First Owner,34.43,1800,82.96,5,50000
+BMW,2011,141615,Petrol,Individual,Manual,Second Owner,11.3,1800,110.01,5,50000
+Honda,2008,117284,Petrol,Trustmark Dealer,Manual,First Owner,18.8,3000,191.31,5,50000
+Maruti,2022,183996,Petrol,Trustmark Dealer,Manual,First Owner,20.72,1800,112.95,5,296188.91
+Toyota,2009,178420,Diesel,Individual,Manual,Third Owner,30.61,1200,53.59,6,50000
+Mahindra,2020,89117,Petrol,Dealer,Automatic,First Owner,29.16,1200,75.36,5,248352.96
+Honda,2018,172751,Petrol,Individual,Automatic,Second Owner,19.37,1200,56.08,7,161815.44
+Mahindra,2023,48888,Diesel,Individual,Automatic,First Owner,24.14,2500,166.37,7,855548.3
+Audi,2018,35276,Petrol,Dealer,Manual,First Owner,30.89,3000,171.53,5,1596628.87
+Toyota,2013,9799,CNG,Individual,Automatic,Third Owner,10.45,1200,88.74,5,50000
+Honda,2010,117529,Diesel,Dealer,Automatic,Second Owner,30.05,800,56.9,6,50000
+Kia,2021,129713,Petrol,Dealer,Automatic,First Owner,33.67,1200,82.77,5,199126.16
+Ford,2023,95141,Diesel,Dealer,Manual,Fourth & Above Owner,10.8,3000,204.09,4,393495.6
+Ford,2016,196630,Petrol,Dealer,Automatic,Third Owner,11.14,1000,62.42,7,79808.27
+Honda,2008,120013,Diesel,Individual,Automatic,Fourth & Above Owner,18.61,1800,76.4,5,50000
+Mahindra,2020,172606,Petrol,Dealer,Manual,First Owner,12.19,800,52.98,7,72702.12
+Toyota,2015,36668,CNG,Dealer,Automatic,First Owner,21.98,3000,176.03,7,332797.25
+Ford,2008,140183,Petrol,Dealer,Manual,Second Owner,28.22,2000,117.56,5,50000
+Toyota,2021,160758,Diesel,Individual,Manual,Second Owner,24.17,1200,66.19,7,242699.67
+Ford,2012,77392,Diesel,Individual,Manual,First Owner,14.91,2000,154.33,5,50000
+Audi,2018,21490,Petrol,Dealer,Manual,Second Owner,26.37,1800,89.96,7,697682.78
+Mahindra,2006,171266,Petrol,Dealer,Manual,First Owner,27.12,800,42.13,7,50000
+Audi,2015,150569,Diesel,Dealer,Automatic,First Owner,33.31,1800,141.34,4,586873.96
+Ford,2015,189588,CNG,Trustmark Dealer,Manual,First Owner,13.67,2000,144.81,5,144458.54
+Kia,2010,122219,Petrol,Dealer,Automatic,Second Owner,27.31,2500,101.41,5,50000
+Kia,2018,49104,Diesel,Dealer,Automatic,First Owner,32.79,800,61,4,186383.56
+Audi,2014,10316,Electric,Dealer,Manual,Third Owner,22.54,1500,73.6,7,349638.03
+Kia,2012,43130,CNG,Individual,Automatic,Second Owner,19.04,2500,170.59,5,50000
+Ford,2011,112294,Petrol,Individual,Automatic,Second Owner,14.27,800,49.7,5,50000
+Honda,2012,34954,Diesel,Dealer,Automatic,Fourth & Above Owner,31.67,1200,73.77,5,54744.48
+Audi,2012,118437,Petrol,Dealer,Automatic,Second Owner,19.86,3000,206.15,5,52987.39
+Hyundai,2006,157724,Electric,Dealer,Automatic,Fourth & Above Owner,33.12,2000,96.57,7,50000
+Mahindra,2020,150250,Diesel,Individual,Automatic,First Owner,31.19,1800,83.45,5,410621.69
+Kia,2013,187235,Petrol,Trustmark Dealer,Manual,First Owner,19.42,3000,198.23,6,50000
+Kia,2017,150823,Diesel,Individual,Automatic,First Owner,24.35,1800,92.92,6,213102.25
+Maruti,2016,139116,Petrol,Individual,Automatic,First Owner,10.68,1800,142.12,5,185216.95
+BMW,2021,68165,Electric,Dealer,Manual,Third Owner,16.58,1000,58.06,5,571502.9
+Audi,2006,147552,Electric,Individual,Manual,First Owner,27.76,1000,44.46,5,50000
+Tata,2017,179946,Diesel,Individual,Automatic,Second Owner,26.95,1200,80.92,4,153898.01
+Kia,2005,71775,Petrol,Dealer,Manual,Second Owner,18.83,1500,78.37,4,50000
+Mahindra,2023,142638,Diesel,Trustmark Dealer,Automatic,Second Owner,30.22,3000,137.83,7,599645.42
+Hyundai,2015,90311,Petrol,Dealer,Manual,First Owner,15.9,1000,56.91,7,64775.11
+Kia,2009,58149,Petrol,Dealer,Manual,Second Owner,21.53,800,62.86,4,50000
+Hyundai,2005,139078,CNG,Individual,Manual,First Owner,21.81,2500,141.14,5,50000
+Ford,2017,77561,Petrol,Individual,Manual,First Owner,18.52,2000,107.79,5,284946.89
+Ford,2012,155495,Petrol,Individual,Automatic,Second Owner,33.87,1200,69.34,7,53405.67
+BMW,2010,95710,Electric,Dealer,Automatic,Second Owner,27.42,2500,101.21,5,50000
+Honda,2021,97199,Petrol,Individual,Automatic,First Owner,23.48,1500,67.99,5,401642.84
+Tata,2016,170024,Petrol,Individual,Manual,Third Owner,22.76,2500,184.97,5,134503.5
+Maruti,2005,32326,Electric,Dealer,Manual,First Owner,13.98,3000,237.36,6,50000
+BMW,2007,122272,Petrol,Trustmark Dealer,Automatic,First Owner,19.3,800,37.05,5,50000
+Toyota,2018,36139,Diesel,Individual,Automatic,First Owner,26.82,1800,110.56,5,493041.05
+Maruti,2012,198175,Electric,Dealer,Manual,Second Owner,33.11,1000,78.65,4,50000
+Audi,2015,196929,Electric,Individual,Manual,Second Owner,30.41,800,37.01,5,116839.27
+Mahindra,2018,78638,Diesel,Dealer,Manual,First Owner,17.51,1500,71.18,7,243064.64
+Toyota,2012,77652,Petrol,Dealer,Automatic,First Owner,20.85,1200,92.49,5,60076.46
+Toyota,2007,17937,Petrol,Dealer,Automatic,Second Owner,12.07,2500,170.57,5,50000
+BMW,2011,35161,CNG,Trustmark Dealer,Manual,First Owner,12.55,800,36.86,7,50000
+Honda,2023,140455,CNG,Dealer,Manual,First Owner,21.76,3000,167.22,5,643969.44
+BMW,2008,90856,Diesel,Individual,Automatic,Second Owner,23.26,1200,50.7,4,50000
+Audi,2020,75043,Petrol,Dealer,Manual,First Owner,16.6,1800,103.15,7,1198479.3
+Kia,2017,150807,Petrol,Individual,Manual,Third Owner,26.07,1500,106.67,6,153500.74
+Kia,2023,64919,Petrol,Individual,Manual,First Owner,27.58,1500,93.24,5,463920.94
+Honda,2009,87055,Diesel,Individual,Manual,Second Owner,17.48,2500,164.74,6,50000
+Audi,2009,90455,Petrol,Dealer,Manual,First Owner,28.96,1000,53.07,6,50000
+Honda,2008,173694,Electric,Individual,Automatic,Third Owner,15.14,2000,92.91,4,50000
+Hyundai,2006,43135,Diesel,Trustmark Dealer,Automatic,First Owner,23.61,1500,60.79,5,50000
+Kia,2017,171730,Petrol,Individual,Automatic,Second Owner,30.11,3000,218.56,5,356752.41
+Toyota,2020,89677,Diesel,Dealer,Automatic,Second Owner,23.43,800,52.37,7,55264.32
+Tata,2006,34696,Petrol,Trustmark Dealer,Manual,First Owner,32.7,3000,147.52,7,50000
+Mahindra,2023,139845,Diesel,Dealer,Automatic,First Owner,11.46,800,45.39,5,213198.7
+Audi,2021,29956,Diesel,Individual,Manual,Second Owner,24.71,800,57.65,5,527252.25
+Maruti,2009,20819,CNG,Trustmark Dealer,Automatic,Third Owner,24.04,1800,110.79,5,50000
+Honda,2022,6528,CNG,Dealer,Automatic,First Owner,26.51,1500,78.01,4,486332.15
+Mahindra,2022,132781,Petrol,Dealer,Manual,First Owner,30.84,1500,76.03,5,277809.26
+Maruti,2012,91491,Petrol,Dealer,Manual,Third Owner,28.15,800,38.96,5,50000
+Mahindra,2019,49588,Diesel,Individual,Manual,First Owner,29.76,2500,182.37,5,447495.9
+Tata,2017,104152,Petrol,Individual,Manual,Fourth & Above Owner,17.22,3000,189.82,5,239579.89
+Maruti,2017,132872,Petrol,Dealer,Manual,Second Owner,19.69,1000,68.37,7,173722.39
+BMW,2020,156583,Petrol,Dealer,Automatic,Second Owner,25.67,2500,186.01,6,1129396.32
+Ford,2017,15119,Diesel,Dealer,Automatic,First Owner,23.84,1000,79.47,6,109545.28
+BMW,2006,80893,Petrol,Dealer,Manual,First Owner,34.03,1500,74.97,4,50000
+Kia,2007,21167,Diesel,Dealer,Manual,Second Owner,14.67,2500,118.09,6,50000
+Ford,2019,192575,Electric,Trustmark Dealer,Manual,Third Owner,18.78,3000,175.44,7,348084.95
+BMW,2023,115782,Petrol,Dealer,Automatic,Fourth & Above Owner,24.32,1500,62.1,4,590538.6
+Ford,2017,135775,Petrol,Trustmark Dealer,Manual,First Owner,31.7,1200,86,5,66415.14
+Ford,2009,39889,Petrol,Individual,Manual,First Owner,33.23,1500,113.03,7,50000
+Toyota,2010,50678,CNG,Dealer,Manual,First Owner,18.4,2500,168.6,5,50000
+Honda,2018,65262,Petrol,Individual,Manual,Third Owner,11.68,3000,152.16,5,360677.5
+Honda,2008,140753,Petrol,Individual,Manual,First Owner,20.54,800,35.94,5,50000
+Toyota,2023,85291,Petrol,Dealer,Automatic,First Owner,19.86,2000,110.57,5,679998.33
+Mahindra,2011,71008,Diesel,Dealer,Manual,First Owner,34.66,1800,132,5,50000
+Hyundai,2008,149762,Petrol,Dealer,Automatic,First Owner,20.78,3000,161.74,5,50000
+Mahindra,2006,30912,Diesel,Dealer,Manual,Fourth & Above Owner,17.64,1500,62.06,5,50000
+Maruti,2011,11473,Electric,Dealer,Automatic,Second Owner,19.13,1500,76.46,5,50000
+Maruti,2007,177370,Petrol,Dealer,Automatic,First Owner,19.92,800,63.68,6,50000
+Ford,2019,154741,CNG,Dealer,Manual,First Owner,30.54,3000,201.2,7,351410.47
+BMW,2005,104500,Petrol,Dealer,Manual,First Owner,12.03,1200,91.24,5,50000
+BMW,2006,157015,CNG,Dealer,Manual,First Owner,17.91,2000,141.99,5,50000
+Honda,2014,43785,Diesel,Dealer,Automatic,First Owner,34.16,3000,184.76,5,267789.32
+Audi,2020,105956,CNG,Dealer,Manual,Second Owner,13.83,1500,68.92,5,668410.28
+Mahindra,2019,199499,Petrol,Trustmark Dealer,Automatic,First Owner,28.57,1000,53.95,7,106458.9
+Kia,2019,198073,Petrol,Dealer,Manual,First Owner,18.91,1000,63.35,5,97344.76
+Tata,2018,197796,Petrol,Individual,Automatic,First Owner,24.54,1000,74.83,5,59407.18
+BMW,2018,124006,Petrol,Dealer,Automatic,Second Owner,12.49,1800,91.34,5,601603.08
+Tata,2010,15832,Petrol,Trustmark Dealer,Automatic,Second Owner,17.66,1800,80.73,5,50000
+Ford,2018,141457,Petrol,Dealer,Manual,Second Owner,22.52,3000,187.06,5,284805.31
+Tata,2021,150780,Petrol,Trustmark Dealer,Manual,Second Owner,15.79,2000,94.12,5,174404.56
+Kia,2022,194672,Petrol,Individual,Automatic,Second Owner,23.55,1500,96.62,7,259336.67
+Toyota,2023,159510,CNG,Dealer,Manual,First Owner,15.49,1500,75.81,5,341847.43
+Kia,2021,87747,Diesel,Trustmark Dealer,Manual,Third Owner,26.25,1500,73.86,5,211116.92
+Tata,2020,85107,Petrol,Individual,Manual,First Owner,32.61,1800,100.74,5,271228.88
+Kia,2012,196134,Petrol,Dealer,Manual,First Owner,12.14,2000,127.46,5,83431.26
+Hyundai,2011,70428,Petrol,Individual,Manual,Second Owner,15.42,1500,92.72,5,50000
+Ford,2016,91843,Electric,Trustmark Dealer,Manual,First Owner,31.11,800,39.83,5,79534.45
+Mahindra,2013,16002,Petrol,Dealer,Manual,Third Owner,25.79,1200,90.77,6,50000
+Toyota,2018,172225,Diesel,Dealer,Automatic,First Owner,11.97,2500,110.99,5,511604.32
+BMW,2005,158512,Electric,Individual,Automatic,Third Owner,22.16,3000,124.74,5,50000
+Maruti,2014,72501,CNG,Individual,Automatic,Third Owner,15.24,3000,192.32,4,101057.73
+Mahindra,2021,37556,Diesel,Trustmark Dealer,Automatic,Fourth & Above Owner,14.98,1000,44.94,5,117481.31
+Maruti,2021,72963,CNG,Individual,Manual,Third Owner,33.52,1000,60.2,4,75515.93
+Ford,2021,11563,Electric,Dealer,Manual,Third Owner,29.04,3000,234.21,5,655395.93
+Toyota,2008,10840,Diesel,Trustmark Dealer,Manual,Second Owner,27.41,800,54.35,5,50000
+Honda,2021,20154,Diesel,Dealer,Manual,First Owner,15.97,1500,97.05,5,380064.21
+BMW,2022,29194,Diesel,Dealer,Automatic,First Owner,12.96,2000,125.98,5,2078013.67
+Hyundai,2006,182933,Diesel,Individual,Manual,Second Owner,31.77,2000,94.36,4,50000
+Honda,2012,158520,Diesel,Individual,Manual,Fourth & Above Owner,10.15,1800,103.15,5,90192.94
+Ford,2017,28528,Petrol,Dealer,Manual,Second Owner,19.7,1500,80.55,5,191474.84
+Mahindra,2019,165474,Petrol,Individual,Manual,Third Owner,16.94,2000,156.25,5,146930.61
+Hyundai,2013,9352,Petrol,Dealer,Automatic,Third Owner,24.26,1500,74.54,5,50000
+Kia,2007,5184,Petrol,Dealer,Manual,First Owner,16.26,1000,58.86,5,50000
+Tata,2007,146456,Petrol,Individual,Automatic,First Owner,17.78,2500,193.81,5,50000
+Hyundai,2006,19319,Petrol,Dealer,Manual,First Owner,31.25,2500,178.92,5,50000
+Ford,2005,125497,Diesel,Dealer,Manual,First Owner,25.08,2500,196.45,6,50000
+Audi,2018,156521,Petrol,Dealer,Automatic,Second Owner,13.64,1000,64.33,7,455314.5
+Tata,2021,61333,CNG,Trustmark Dealer,Manual,Fourth & Above Owner,28.16,1800,96.03,4,149549.16
+Maruti,2017,46205,Petrol,Dealer,Automatic,Second Owner,15.19,2500,182.66,5,243988.61
+BMW,2023,15426,Petrol,Dealer,Automatic,First Owner,20.83,1000,51.66,5,1106206.76
+Maruti,2019,12504,Diesel,Individual,Automatic,First Owner,26.17,1500,69.89,4,284051.22
+Hyundai,2018,192650,Diesel,Dealer,Automatic,First Owner,16.8,2500,170.63,4,340984.42
+Maruti,2006,194281,Petrol,Dealer,Manual,Second Owner,19.6,800,52.45,7,50000
+Ford,2011,121775,CNG,Individual,Automatic,First Owner,28.35,1800,135.28,5,50000
+Kia,2021,38368,CNG,Dealer,Manual,First Owner,33.45,800,62.78,7,249022.73
+Mahindra,2022,108841,Petrol,Trustmark Dealer,Automatic,First Owner,23.23,3000,222.86,5,717617.05
+BMW,2010,188257,Petrol,Dealer,Automatic,First Owner,10.25,1500,63.6,5,50000
+Maruti,2012,121744,Electric,Dealer,Automatic,Third Owner,18.46,1800,119.84,6,50000
+Maruti,2006,13724,Diesel,Dealer,Automatic,First Owner,19.97,800,57.11,7,50000
+Hyundai,2005,141156,Diesel,Dealer,Manual,First Owner,18.48,1800,142.7,7,50000
+Mahindra,2020,170882,CNG,Individual,Automatic,First Owner,20.91,1500,82.48,6,221914.65
+Honda,2011,87297,Petrol,Dealer,Automatic,First Owner,25.82,3000,140.39,5,50000
+Maruti,2015,130099,Petrol,Dealer,Automatic,Second Owner,13.03,2000,148.23,4,50000
+Ford,2019,83872,Petrol,Individual,Automatic,Second Owner,16.82,2500,131.75,5,321892.28
+Audi,2017,156944,Diesel,Individual,Manual,First Owner,22.69,3000,191.78,5,1051480.25
+BMW,2006,75333,Diesel,Dealer,Manual,Second Owner,17.89,1800,100.07,7,50000
+Maruti,2018,7596,Diesel,Dealer,Manual,First Owner,34.78,2500,140.23,6,437179.62
+Ford,2010,22167,Petrol,Dealer,Automatic,Second Owner,20.79,3000,207.9,7,50000
+Ford,2013,92844,Petrol,Dealer,Manual,First Owner,31.74,2500,136.15,5,170484.48
+BMW,2011,94751,Diesel,Dealer,Manual,First Owner,32.41,2000,135.45,5,50000
+Honda,2022,134817,Diesel,Individual,Manual,Second Owner,30.9,1500,60.86,7,286042.87
+Ford,2013,85520,Diesel,Trustmark Dealer,Automatic,Third Owner,11.17,1800,95.37,5,106824.7
+Audi,2008,63326,Petrol,Dealer,Manual,Second Owner,33.69,1800,94.97,5,50000
+Ford,2013,82670,CNG,Dealer,Manual,First Owner,13.22,2000,139.91,6,119674.78
+Ford,2008,146854,Petrol,Dealer,Manual,First Owner,10.86,1000,52.58,5,50000
+Ford,2016,178074,Electric,Dealer,Manual,Fourth & Above Owner,20.36,2000,130.67,7,50000
+Kia,2008,29022,Petrol,Dealer,Manual,First Owner,14.87,2000,135.08,5,50000
+Kia,2018,89458,Diesel,Trustmark Dealer,Manual,First Owner,14.6,2000,132.67,5,332232.58
+Honda,2011,150690,Petrol,Individual,Manual,First Owner,17.2,1500,96.2,5,50000
+Maruti,2017,153317,Electric,Trustmark Dealer,Automatic,First Owner,16.21,3000,169.63,5,366076.07
+Ford,2012,88796,Diesel,Trustmark Dealer,Automatic,First Owner,27.12,1200,65.92,5,50000
+Mahindra,2009,146099,Petrol,Dealer,Manual,First Owner,14.67,2000,125.17,5,50000
+Maruti,2016,150058,Petrol,Individual,Automatic,First Owner,23.58,1800,76.59,7,188104.03
+Honda,2017,115704,Petrol,Dealer,Manual,Third Owner,34.66,800,60.03,7,50000
+Toyota,2018,139598,Petrol,Dealer,Automatic,First Owner,20.81,1000,73.01,5,138183.21
+Maruti,2022,49361,Electric,Trustmark Dealer,Automatic,First Owner,26.05,2000,107.71,5,762667.43
+Maruti,2008,43286,Petrol,Dealer,Manual,Second Owner,34.23,2000,125.35,5,50000
+Tata,2022,34533,Diesel,Trustmark Dealer,Manual,Second Owner,13.44,1000,77.29,6,156378.4
+Hyundai,2011,154388,Diesel,Dealer,Manual,First Owner,20.47,2000,101.73,5,50000
+Tata,2019,144771,Diesel,Trustmark Dealer,Manual,Third Owner,31.25,1800,125.46,4,175805.36
+Audi,2010,132441,Petrol,Trustmark Dealer,Automatic,First Owner,33.31,1200,51.97,5,50000
+Kia,2020,102079,Petrol,Individual,Manual,Third Owner,25.03,2000,121.87,5,338045.82
+Kia,2012,105960,Diesel,Individual,Manual,First Owner,13.59,1000,75.36,5,50491.97
+Hyundai,2020,63465,Electric,Dealer,Manual,First Owner,32.54,2000,124.14,6,531020.45
+BMW,2020,152745,Petrol,Individual,Manual,Third Owner,14.36,1500,96.98,7,418947.62
+BMW,2007,28395,Petrol,Trustmark Dealer,Manual,Second Owner,18.82,1800,137.35,5,50000
+Honda,2021,109162,Diesel,Individual,Manual,First Owner,19.39,1800,123.51,5,474779.57
+Hyundai,2013,135704,Electric,Individual,Automatic,First Owner,21.18,1200,81.4,4,50791.22
+Maruti,2007,159779,Petrol,Individual,Manual,First Owner,29.75,3000,190.37,5,50000
+BMW,2011,80937,Petrol,Individual,Manual,Second Owner,30.05,1500,97.98,4,50000
+Ford,2022,134647,CNG,Individual,Automatic,First Owner,27.99,1500,108.22,5,394616.7
+Mahindra,2016,125650,Petrol,Individual,Manual,First Owner,10.55,1200,95,7,155949.22
+Maruti,2023,135744,Petrol,Individual,Automatic,First Owner,24.12,2500,179.53,5,600325.15
+Audi,2020,192488,Diesel,Dealer,Automatic,Second Owner,28.69,2500,170.75,5,1252707
+Ford,2021,96512,Electric,Dealer,Manual,Third Owner,21.12,3000,136.27,4,610079.74
+Ford,2019,144830,Petrol,Dealer,Manual,Second Owner,33.62,800,58.15,5,103550.26
+Hyundai,2005,72009,Diesel,Dealer,Manual,First Owner,30.6,3000,208.32,5,50000
+Honda,2006,149353,Diesel,Dealer,Manual,Third Owner,25.95,2500,177.04,5,50000
+Audi,2012,37548,Diesel,Individual,Manual,Second Owner,11.56,3000,147.73,5,163106.93
+BMW,2006,23371,Diesel,Dealer,Manual,Third Owner,26.31,2000,152.28,7,50000
+Hyundai,2023,110977,Diesel,Dealer,Manual,First Owner,32.79,1500,65.84,4,339337.8
+BMW,2013,155716,Petrol,Individual,Manual,First Owner,19.49,3000,150.43,5,253836.57
+Hyundai,2013,159946,Diesel,Trustmark Dealer,Automatic,Second Owner,30.95,800,53.22,4,50000
+Hyundai,2017,19281,Diesel,Individual,Manual,First Owner,17.83,800,53.56,5,93023.62
+Hyundai,2010,158361,Diesel,Trustmark Dealer,Manual,Second Owner,24.25,1800,94.56,5,50000
+Honda,2019,141126,CNG,Individual,Manual,Third Owner,26.21,2000,136.12,7,195285.48
+Hyundai,2023,105020,Petrol,Dealer,Automatic,Third Owner,26.95,1800,99.93,5,354671.69
+Toyota,2019,112508,CNG,Individual,Manual,Fourth & Above Owner,32.06,1000,40.01,5,114355.97
+Mahindra,2022,71846,CNG,Individual,Automatic,Second Owner,15.87,2500,116.26,5,532397.69
+BMW,2011,99682,Petrol,Dealer,Manual,First Owner,16.56,1800,135.55,4,50000
+Maruti,2015,185841,Diesel,Dealer,Automatic,First Owner,27.6,1500,73.36,5,146311.1
+Tata,2012,34312,Petrol,Individual,Manual,First Owner,14.43,1500,66.77,7,50000
+Audi,2010,119186,Petrol,Dealer,Manual,Second Owner,21.61,2000,134.58,5,50000
+Kia,2012,9257,Petrol,Individual,Manual,First Owner,10.5,800,46.1,6,50000
+Honda,2006,151918,Petrol,Dealer,Manual,First Owner,13.52,1500,107.8,5,50000
+Maruti,2023,158555,Petrol,Individual,Manual,Second Owner,26.97,2500,186.14,5,317211.53
+Ford,2020,31558,CNG,Individual,Manual,Second Owner,28.69,1800,132.91,5,255310.67
+Toyota,2011,48188,Petrol,Dealer,Automatic,Fourth & Above Owner,12.88,2500,131.3,5,50000
+Kia,2014,149084,CNG,Dealer,Automatic,Second Owner,15.69,3000,180.67,5,131846.73
+Tata,2016,38236,Diesel,Individual,Manual,Second Owner,12.47,1800,118.81,6,125855.38
+Maruti,2021,50076,CNG,Individual,Manual,Second Owner,20.84,2000,105.76,5,199536.26
+Kia,2011,53402,Diesel,Trustmark Dealer,Manual,Fourth & Above Owner,13.15,3000,124.93,5,50000
+Maruti,2012,99467,Petrol,Dealer,Automatic,Second Owner,20.93,2500,149.57,6,50000
+Toyota,2011,168148,Diesel,Individual,Manual,Third Owner,28.3,1800,72.92,5,50000
+Tata,2008,85337,Petrol,Dealer,Automatic,Third Owner,27.08,2500,195.06,6,50000
+Ford,2007,120827,Diesel,Dealer,Manual,Third Owner,17.01,1200,86.24,5,50000
+Hyundai,2023,79264,Electric,Dealer,Manual,First Owner,26.84,2000,95.36,5,658144.34
+BMW,2019,22335,Petrol,Individual,Automatic,First Owner,33.19,2000,103.01,5,1403743.32
+Ford,2008,48773,Petrol,Dealer,Automatic,First Owner,18.69,1500,118.97,5,50000
+Hyundai,2013,188230,Diesel,Dealer,Manual,First Owner,18.23,2000,109.88,6,62583.27
+Honda,2017,33570,CNG,Individual,Manual,First Owner,24.29,1000,71.35,7,122016.32
+Mahindra,2022,92995,Diesel,Individual,Automatic,First Owner,16.14,1500,86.81,5,458261.59
+Audi,2020,45658,Petrol,Dealer,Manual,First Owner,26.29,1500,111.85,4,1088348.35
+Audi,2005,195256,Diesel,Dealer,Automatic,Second Owner,30.81,3000,204.45,5,50000
+BMW,2008,125640,Petrol,Dealer,Manual,Second Owner,21.48,3000,122.75,5,50000
+Tata,2022,77613,Diesel,Dealer,Automatic,First Owner,26.99,2500,129.44,5,653388.78
+Toyota,2012,63194,Electric,Individual,Automatic,Second Owner,26.3,1200,74.78,5,50000
+Tata,2020,116872,Diesel,Dealer,Manual,Second Owner,10.97,1500,115.57,6,160610.82
+Toyota,2015,170031,CNG,Individual,Automatic,Second Owner,14.59,3000,132.24,5,246468.68
+Tata,2023,189144,Petrol,Trustmark Dealer,Manual,Third Owner,32.34,800,51.24,7,50000
+Mahindra,2023,181660,Diesel,Dealer,Manual,First Owner,33.47,1800,93.76,5,359138.84
+Honda,2022,176605,CNG,Trustmark Dealer,Manual,First Owner,29.51,1800,136.03,7,204785.18
+Honda,2023,113558,Petrol,Dealer,Manual,First Owner,33.03,2000,141.21,5,583984.11
+Hyundai,2015,73582,CNG,Dealer,Automatic,First Owner,17.65,2500,136.97,5,248457.57
+Kia,2007,197815,Petrol,Dealer,Manual,Second Owner,16.19,1200,56.02,6,50000
+Honda,2012,180590,Diesel,Dealer,Manual,First Owner,19.61,1800,72.83,6,50000
+Honda,2023,148775,CNG,Dealer,Manual,First Owner,11.38,800,51.88,7,56230.13
+Ford,2014,54456,Diesel,Dealer,Manual,First Owner,30.25,1200,67.49,5,101395.88
+Ford,2020,60491,Petrol,Individual,Manual,First Owner,34.6,1000,52.59,7,154398.24
+Hyundai,2009,13043,Diesel,Trustmark Dealer,Automatic,Second Owner,30.6,1800,142.96,5,50000
+Kia,2013,108212,Diesel,Individual,Automatic,Second Owner,23.87,1500,87.97,4,71903.2
+BMW,2012,73340,Electric,Dealer,Automatic,First Owner,17.38,800,55.99,5,52711.54
+Ford,2015,146248,Petrol,Individual,Manual,First Owner,14.94,2500,117.74,6,122398.18
+BMW,2020,140008,Petrol,Individual,Manual,First Owner,19.1,2500,101.35,5,1244448.91
+Maruti,2011,36174,Diesel,Individual,Manual,First Owner,26.67,800,45.36,5,50000
+Ford,2019,87632,Petrol,Individual,Manual,Third Owner,21.18,1800,119.93,5,149554.95
+Mahindra,2021,93768,Diesel,Trustmark Dealer,Manual,First Owner,33.35,3000,180.79,4,659523.48
+Kia,2010,130775,Diesel,Dealer,Manual,Second Owner,31.36,3000,226.86,5,50000
+Hyundai,2019,113177,CNG,Individual,Manual,Third Owner,12.56,2000,114.72,5,193600.34
+Maruti,2012,30909,Diesel,Dealer,Automatic,First Owner,13.29,1000,52.44,5,50000
+Kia,2011,49158,Diesel,Trustmark Dealer,Manual,First Owner,26.91,1500,114.96,5,50000
+Mahindra,2006,144438,Petrol,Dealer,Manual,Fourth & Above Owner,15.77,1000,56.27,7,50000
+Kia,2017,190409,Petrol,Dealer,Manual,Third Owner,29.78,1000,50.79,5,50000
+Mahindra,2010,129296,Petrol,Dealer,Manual,First Owner,24.78,1800,79.03,5,50000
+Mahindra,2009,64331,Petrol,Individual,Automatic,Second Owner,15.75,1500,107.6,5,50000
+BMW,2005,198269,Diesel,Dealer,Manual,Third Owner,21.97,1800,131.41,5,50000
+Tata,2022,186996,Diesel,Dealer,Manual,First Owner,20.15,1800,74.4,5,263956.2
+Maruti,2019,164914,Diesel,Trustmark Dealer,Manual,Third Owner,31.83,2000,108.69,7,177047.39
+Kia,2014,153530,CNG,Trustmark Dealer,Manual,First Owner,10.8,800,56,5,70731.74
+Toyota,2007,92367,Electric,Dealer,Manual,Second Owner,32.4,2500,194.64,4,50000
+Maruti,2009,70382,CNG,Dealer,Automatic,Fourth & Above Owner,26.3,2000,110.23,5,50000
+Tata,2017,79319,Diesel,Individual,Automatic,Third Owner,28.44,2500,187.21,6,228044.88
+Maruti,2012,16170,Diesel,Trustmark Dealer,Automatic,First Owner,10.07,2000,111.5,6,50000
+Honda,2006,124952,Petrol,Individual,Manual,First Owner,25.71,1800,84.92,5,50000
+Toyota,2013,85145,Petrol,Individual,Automatic,Second Owner,24.71,2000,80.28,4,50000
+Tata,2021,110626,Petrol,Dealer,Manual,Second Owner,23.43,2500,133.02,5,223037.94
+BMW,2022,181014,Electric,Individual,Manual,Second Owner,29.65,2000,110.28,5,1218293.32
+Kia,2017,21208,CNG,Individual,Automatic,Fourth & Above Owner,23.9,1200,93.37,5,179991.09
+Audi,2005,171250,Petrol,Individual,Manual,Third Owner,31.43,1500,72.36,5,50000
+Tata,2016,145111,Diesel,Dealer,Manual,First Owner,15.82,800,44.23,5,67666.6
+Hyundai,2009,19990,CNG,Trustmark Dealer,Automatic,First Owner,30.15,2500,102.52,7,50000
+Kia,2012,142513,Petrol,Individual,Manual,First Owner,14.48,1500,105.81,5,50000
+Tata,2019,134327,Petrol,Dealer,Manual,Second Owner,30.33,800,61.28,6,78530.98
+Honda,2007,84314,CNG,Individual,Manual,Second Owner,33.51,3000,148.54,5,50000
+Audi,2010,182031,Petrol,Individual,Automatic,Second Owner,18.39,1200,68.59,4,50000
+Honda,2017,31862,Petrol,Individual,Automatic,First Owner,23.25,1800,80.79,5,337620.56
+Audi,2016,163345,Diesel,Individual,Automatic,First Owner,26.46,3000,174.82,4,1018394.1
+Hyundai,2023,98949,CNG,Individual,Manual,First Owner,11.99,2500,113.33,5,572524.17
+Kia,2022,178572,Diesel,Trustmark Dealer,Manual,Second Owner,22.35,3000,182.8,5,527239.48
+BMW,2005,135223,Petrol,Dealer,Manual,First Owner,19.01,800,55.51,4,50000
+Honda,2011,8956,Petrol,Dealer,Manual,First Owner,31.81,800,49.71,5,50000
+Honda,2016,93789,Diesel,Dealer,Manual,First Owner,31.92,800,39.85,6,104871.42
+Mahindra,2014,94451,Diesel,Individual,Manual,Second Owner,27.52,1200,64.98,5,50000
+Audi,2016,122782,Diesel,Individual,Manual,First Owner,26.39,3000,196.63,5,997222.29
+Ford,2015,7365,Petrol,Trustmark Dealer,Automatic,Third Owner,28.34,1500,95.39,5,99563.2
+Kia,2008,77204,CNG,Individual,Manual,Second Owner,19.15,1200,54.57,7,50000
+Audi,2023,141072,Petrol,Individual,Manual,Second Owner,20.11,800,59.04,5,515009.36
+Mahindra,2010,62072,Petrol,Trustmark Dealer,Manual,Second Owner,23.84,2000,118.02,5,50000
+Maruti,2013,57499,Petrol,Dealer,Automatic,First Owner,33.45,800,37.2,4,50000
+Audi,2014,74211,Petrol,Individual,Automatic,First Owner,28.1,2000,89.83,4,476173.22
+BMW,2009,148979,Diesel,Dealer,Automatic,Fourth & Above Owner,23.77,1800,141.52,5,50000
+Kia,2017,153408,Diesel,Individual,Automatic,Second Owner,29.26,1200,61.51,5,106520.86
+Mahindra,2013,90220,Petrol,Individual,Manual,Fourth & Above Owner,19.27,2000,152.69,5,50000
+Maruti,2006,98847,Diesel,Individual,Manual,Second Owner,28.26,1200,67.71,5,50000
+Toyota,2022,188403,Petrol,Dealer,Manual,First Owner,20.27,1000,55.44,5,176297.85
+Mahindra,2005,114459,Diesel,Dealer,Manual,First Owner,16.99,1500,102.06,5,50000
+Toyota,2016,82755,Electric,Individual,Manual,Second Owner,25.24,1000,40.4,5,117846.37
+Kia,2014,73783,Petrol,Individual,Manual,First Owner,27.17,2000,107.05,4,154473.18
+Honda,2006,188581,Diesel,Dealer,Automatic,First Owner,21.48,1000,52.11,7,50000
+Mahindra,2013,132851,Petrol,Trustmark Dealer,Automatic,Third Owner,24.14,3000,224.17,5,105393.46
+Hyundai,2006,11472,Petrol,Dealer,Automatic,First Owner,27.35,2500,152.91,5,50000
+Toyota,2018,158452,Petrol,Individual,Automatic,First Owner,29.19,1500,81.87,5,166181.08
+BMW,2015,108152,Diesel,Individual,Automatic,Third Owner,32.39,2000,101.29,5,335311.57
+Hyundai,2015,163352,Diesel,Individual,Manual,Third Owner,18.86,1800,114.52,4,50000
+Tata,2021,157931,Petrol,Trustmark Dealer,Manual,First Owner,33.79,3000,138.2,7,434418.12
+Tata,2008,184474,CNG,Individual,Automatic,Third Owner,25.93,1800,89.73,5,50000
+Maruti,2017,144334,Diesel,Individual,Automatic,Third Owner,29.69,1500,77.62,4,103560.68
+Honda,2011,147138,CNG,Dealer,Manual,First Owner,27.49,1500,96.47,7,50000
+Kia,2020,151626,Diesel,Dealer,Automatic,First Owner,15.14,2000,109.86,5,421598.59
+Mahindra,2005,12008,Diesel,Dealer,Manual,First Owner,11.79,1200,72.28,6,50000
+Ford,2017,92851,Petrol,Individual,Manual,Second Owner,28.16,2500,165.04,4,245249.06
+BMW,2005,85799,Petrol,Dealer,Automatic,First Owner,22.78,2000,156.5,4,50000
+Toyota,2015,21238,Electric,Dealer,Manual,Fourth & Above Owner,27.56,3000,211.78,5,179188.07
+Kia,2010,22153,Petrol,Dealer,Manual,Second Owner,21.92,1200,67.45,5,50000
+Hyundai,2007,64353,Electric,Dealer,Manual,Second Owner,17.81,1200,83.92,6,50000
+Tata,2016,57092,Diesel,Dealer,Automatic,Fourth & Above Owner,17.13,1200,93.59,6,50000
+BMW,2009,179224,Petrol,Trustmark Dealer,Manual,Third Owner,28.26,2000,119.95,5,50000
+Ford,2013,54104,Petrol,Individual,Automatic,First Owner,16.92,800,45.14,7,50000
+Mahindra,2016,160355,Petrol,Individual,Manual,First Owner,27.87,800,34.5,5,140357.27
+Maruti,2014,182501,Electric,Individual,Manual,Second Owner,19.6,1800,136.25,7,53569.38
+Ford,2023,191029,Petrol,Dealer,Automatic,First Owner,29.27,800,39.89,7,232705.33
+BMW,2009,33887,Petrol,Trustmark Dealer,Manual,First Owner,13.57,800,34.05,5,50000
+Ford,2009,182244,Petrol,Dealer,Automatic,Second Owner,15.12,1200,73.79,4,50000
+BMW,2013,9355,Petrol,Dealer,Manual,Third Owner,27.15,1200,88.6,6,130104.83
+BMW,2021,38701,Diesel,Individual,Automatic,First Owner,24.01,1500,84.4,5,1425664.12
+Audi,2014,177606,Petrol,Dealer,Manual,Second Owner,15.1,1200,85.59,6,174775.28
+Toyota,2005,76442,CNG,Individual,Manual,First Owner,32.57,2000,146.91,5,50000
+Tata,2020,197346,Petrol,Dealer,Manual,Second Owner,16.9,1500,87.26,5,214117.97
+Audi,2019,17279,Petrol,Individual,Manual,First Owner,20.53,2500,159.1,5,1694181.25
+Mahindra,2021,179563,Diesel,Dealer,Automatic,Third Owner,15.06,1500,92.03,5,248498.78
+Audi,2017,125738,Petrol,Dealer,Manual,First Owner,19.7,3000,232.7,5,1132461.62
+Honda,2005,144333,Electric,Individual,Manual,Second Owner,22.29,800,55.22,4,50000
+Honda,2012,140546,Diesel,Dealer,Manual,First Owner,17.38,3000,231.04,5,50000
+Tata,2009,96414,Petrol,Dealer,Manual,First Owner,29.23,1200,58.56,7,50000
+Ford,2010,33390,Diesel,Dealer,Automatic,First Owner,19.85,800,41.93,5,64241.22
+Toyota,2018,162997,Petrol,Individual,Manual,First Owner,28.24,1200,51.4,6,177328.3
+Tata,2015,87174,Petrol,Individual,Automatic,First Owner,15.18,800,48,5,50000
+BMW,2010,195123,Electric,Dealer,Automatic,First Owner,19.43,2500,187.39,5,50000
+Hyundai,2015,9787,Diesel,Trustmark Dealer,Automatic,Second Owner,10.2,800,42.46,7,136218.87
+Toyota,2017,194249,Electric,Trustmark Dealer,Manual,Second Owner,28.97,800,36.11,5,179448.87
+Toyota,2016,48724,Diesel,Individual,Automatic,First Owner,25.65,2000,85.48,7,315252.26
+BMW,2006,15663,Diesel,Individual,Automatic,Second Owner,30.45,2500,144.75,5,50000
+BMW,2007,152192,Petrol,Dealer,Automatic,First Owner,21.39,3000,139.68,5,50000
+Maruti,2008,158812,Petrol,Individual,Manual,Second Owner,29.99,1800,96.92,7,50000
+Tata,2021,138107,CNG,Dealer,Automatic,First Owner,26.19,2500,182,4,427288.4
+BMW,2010,105271,Petrol,Dealer,Automatic,Second Owner,10.09,800,44.29,4,50000
+Honda,2011,193515,CNG,Trustmark Dealer,Automatic,First Owner,16.34,1000,64.39,5,93241.9
+Mahindra,2019,72388,Diesel,Individual,Manual,Fourth & Above Owner,22.35,1000,60.09,6,79533.88
+Hyundai,2015,57335,Petrol,Dealer,Manual,First Owner,25.47,1000,68.74,6,87822.47
+Tata,2007,48315,Diesel,Dealer,Automatic,First Owner,11.64,2000,92.49,4,50000
+Kia,2010,109922,Diesel,Individual,Manual,First Owner,27.63,1500,115.23,7,50000
+Honda,2006,51627,Petrol,Dealer,Automatic,Third Owner,23.59,3000,197.24,6,50000
+Ford,2018,144375,CNG,Dealer,Manual,Second Owner,23.14,800,40.67,7,50000
+BMW,2013,54334,Diesel,Dealer,Manual,Second Owner,17.3,2500,112.33,5,268167.47
+Kia,2022,191964,Petrol,Dealer,Manual,Third Owner,24.87,1000,45.99,5,182492.97
+BMW,2023,197268,Diesel,Individual,Manual,Third Owner,10.69,2000,142.61,7,791641.07
+Toyota,2016,70700,Electric,Dealer,Automatic,Second Owner,11.62,1500,95.29,5,272899.28
+Honda,2017,44726,Petrol,Individual,Automatic,First Owner,28.35,3000,165.69,7,510308.73
+Toyota,2016,185678,CNG,Dealer,Automatic,Third Owner,18.05,1000,53.32,5,64135.48
+Maruti,2016,35694,Petrol,Individual,Manual,First Owner,18.67,1200,89.08,5,88348.71
+Toyota,2022,167325,Diesel,Trustmark Dealer,Automatic,Second Owner,15.21,1800,134.98,7,385939.48
+Maruti,2013,160302,Diesel,Individual,Automatic,Second Owner,21.14,800,50.6,7,50000
+Maruti,2021,190046,Petrol,Trustmark Dealer,Manual,Second Owner,11.3,1800,109.77,5,182319.38
+Kia,2020,68545,Petrol,Trustmark Dealer,Manual,Second Owner,17.51,1800,130.78,5,267896.29
+BMW,2021,152997,Diesel,Dealer,Automatic,Second Owner,23.18,1200,83.97,6,621548.61
+Ford,2012,11033,Diesel,Individual,Automatic,Fourth & Above Owner,21.64,1200,67.22,7,50000
+Toyota,2015,67461,Diesel,Trustmark Dealer,Automatic,First Owner,34.99,1200,51.97,5,167863.72
+Honda,2006,7665,Petrol,Dealer,Manual,First Owner,19.72,1500,106.11,5,50000
+Maruti,2012,32025,CNG,Dealer,Automatic,Second Owner,19.67,1000,46.75,6,100055.73
+BMW,2016,159605,Diesel,Trustmark Dealer,Manual,Fourth & Above Owner,22.59,2500,101.64,5,268806.9
+Hyundai,2005,181969,Electric,Individual,Manual,First Owner,14.76,800,58.99,7,50000
+Tata,2017,82661,Petrol,Dealer,Manual,First Owner,31.91,1200,75.76,5,50000
+Kia,2021,125473,Diesel,Dealer,Manual,First Owner,24.31,2000,151.33,5,464466.56
+Ford,2018,25998,Diesel,Individual,Manual,First Owner,14.8,3000,178.15,5,549337.98
+Audi,2018,66248,Petrol,Individual,Manual,Third Owner,29.84,800,61.65,5,258587.44
+Kia,2020,109493,Diesel,Individual,Automatic,Second Owner,10.86,3000,162.48,6,507038.46
+Hyundai,2021,28057,Petrol,Individual,Automatic,Second Owner,34.56,2500,172.45,7,539715.23
+Tata,2010,84244,Diesel,Individual,Manual,Second Owner,31.63,800,41.63,5,50000
+Hyundai,2011,102031,Diesel,Individual,Automatic,Second Owner,24.49,800,32.04,6,50000
+Toyota,2005,117713,Petrol,Individual,Manual,First Owner,12.78,1200,66.23,4,50000
+Maruti,2019,110887,Diesel,Individual,Manual,First Owner,15.38,1200,83.41,7,256954.65
+Ford,2022,72173,Diesel,Individual,Automatic,First Owner,16.99,1000,46,5,174151.08
+Mahindra,2017,43734,Petrol,Dealer,Manual,First Owner,16.03,2500,150.48,5,281505.99
+Maruti,2006,67072,Electric,Dealer,Manual,First Owner,22.44,1200,58.19,5,50000
+Mahindra,2023,199855,Electric,Trustmark Dealer,Manual,First Owner,33.61,1200,51.58,5,335626.71
+Tata,2019,99194,Diesel,Dealer,Manual,First Owner,21.1,800,51.76,7,196224.34
+BMW,2016,187114,Petrol,Dealer,Automatic,First Owner,26.54,1000,78.08,5,281685.85
+Audi,2019,188429,Diesel,Dealer,Manual,Second Owner,27.21,1800,94.37,5,670070.01
+Honda,2022,144741,Diesel,Individual,Manual,First Owner,31.79,1200,75.87,5,305837.89
+Maruti,2018,118272,Petrol,Dealer,Manual,Third Owner,10.85,2000,156.29,5,50000
+Ford,2010,72902,Diesel,Dealer,Automatic,First Owner,20.11,1200,79.22,4,50000
+Hyundai,2016,127247,Diesel,Dealer,Manual,Second Owner,29.62,1800,120.46,5,81521.96
+Ford,2010,154982,Diesel,Individual,Automatic,Third Owner,30.37,800,37.73,5,50000
+Tata,2013,61959,Petrol,Dealer,Manual,Third Owner,33.18,2500,149.26,7,113688.62
+Mahindra,2008,101623,Diesel,Dealer,Manual,Third Owner,27.57,1000,54.68,5,50000
+Hyundai,2021,136438,Electric,Dealer,Manual,First Owner,16.13,800,47.07,5,232723.86
+Honda,2006,53415,Petrol,Trustmark Dealer,Manual,First Owner,22.64,2500,180.08,7,50000
+Honda,2020,129716,Diesel,Dealer,Manual,First Owner,10.81,1500,87.64,6,303827.14
+Maruti,2018,126209,CNG,Dealer,Manual,First Owner,26.17,1200,51.02,7,100987.18
+Tata,2012,14907,Diesel,Individual,Automatic,First Owner,23.86,2500,190.55,5,50000
+BMW,2018,100825,Petrol,Trustmark Dealer,Manual,Third Owner,26.67,2000,123.59,5,508208.26
+Tata,2006,37780,Diesel,Individual,Automatic,Second Owner,33.25,2500,192.45,7,50000
+Mahindra,2020,193951,Diesel,Trustmark Dealer,Manual,Second Owner,27.18,1500,94.34,5,226105.07
+Ford,2008,40085,CNG,Individual,Manual,Third Owner,18.01,1200,51.34,5,50000
+Honda,2005,25426,Diesel,Dealer,Manual,Second Owner,14.97,1500,93.17,5,50000
+Ford,2018,184269,Electric,Individual,Automatic,Second Owner,31.37,1800,113.45,5,149861.09
+Ford,2012,12485,Petrol,Dealer,Manual,Second Owner,14.86,1200,58.29,7,50000
+Ford,2007,54527,Petrol,Individual,Manual,First Owner,14.04,2000,117.68,5,50000
+Honda,2009,129604,Diesel,Dealer,Manual,First Owner,15.17,1200,70.05,7,50000
+Kia,2010,96005,Petrol,Dealer,Manual,Fourth & Above Owner,22.72,1500,97.37,5,105730.13
+Toyota,2012,63528,Petrol,Trustmark Dealer,Manual,Third Owner,13.1,3000,151.15,7,50000
+Mahindra,2010,125631,Petrol,Dealer,Manual,Third Owner,33.45,1000,63.27,5,50000
+Kia,2010,32799,Petrol,Trustmark Dealer,Manual,First Owner,34.16,1500,74.46,5,50000
+Mahindra,2008,182411,Petrol,Dealer,Manual,Third Owner,34.35,1200,69.43,5,50000
+Hyundai,2011,152159,Electric,Dealer,Automatic,First Owner,10.98,3000,134.72,6,50000
+Tata,2023,143518,Petrol,Trustmark Dealer,Manual,First Owner,33.65,1200,49.79,7,225030.03
+Tata,2011,186532,Diesel,Individual,Manual,First Owner,34.94,2500,132.06,5,50000
+Audi,2007,99817,Diesel,Individual,Manual,First Owner,33.56,3000,152.95,5,50000
+Tata,2012,63260,Electric,Dealer,Automatic,First Owner,26.77,1000,56.28,7,50000
+Honda,2005,150949,Petrol,Individual,Manual,First Owner,27.53,800,62.78,7,50000
+BMW,2005,160795,CNG,Individual,Manual,First Owner,13.06,1000,60.89,5,50000
+Maruti,2018,17943,Diesel,Individual,Manual,First Owner,31.86,800,49.7,7,110961.95
+Audi,2010,146378,Diesel,Dealer,Manual,Second Owner,11.49,2000,155.33,5,50000
+Maruti,2014,172856,Diesel,Trustmark Dealer,Manual,Second Owner,17.94,1200,92.22,4,52427.21
+Mahindra,2018,126401,CNG,Individual,Automatic,First Owner,34.78,2500,188.41,4,347075.85
+Maruti,2008,156527,Petrol,Trustmark Dealer,Automatic,First Owner,20.56,3000,131.76,7,50000
+Maruti,2010,166046,Diesel,Individual,Automatic,Second Owner,13.28,1800,117.67,5,50000
+Audi,2020,32371,Diesel,Individual,Manual,Second Owner,34.23,1800,130.18,5,1159424.24
+Hyundai,2005,103746,Diesel,Dealer,Manual,First Owner,34.6,1500,110.13,7,50000
+Ford,2010,106248,Electric,Dealer,Manual,Second Owner,14.68,1000,63.12,5,50000
+Tata,2013,140008,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner,31.62,3000,122.1,7,53098.08
+Tata,2019,169238,Electric,Dealer,Manual,First Owner,19.76,1000,78.95,7,98720.25
+Honda,2016,30727,Petrol,Dealer,Automatic,First Owner,19.53,3000,176.66,7,446036.33
+Audi,2007,119000,Petrol,Dealer,Manual,First Owner,16.57,1800,100.34,5,50000
+Honda,2015,68969,Petrol,Dealer,Manual,Second Owner,11.12,800,44.64,5,50000
+BMW,2019,164440,Petrol,Trustmark Dealer,Manual,First Owner,16.7,1000,56.97,7,421542.2
+BMW,2007,73531,Diesel,Trustmark Dealer,Manual,First Owner,11.34,800,39.75,5,50000
+Honda,2018,44097,Petrol,Dealer,Manual,First Owner,33.11,800,42.47,5,167298.36
+Audi,2006,171056,Petrol,Dealer,Automatic,Fourth & Above Owner,26.54,800,63.53,6,50000
+Honda,2008,55859,Electric,Individual,Manual,Second Owner,32.17,800,43.78,5,50000
+Tata,2023,180363,CNG,Individual,Automatic,Second Owner,27.93,2500,152.67,7,367601.62
+Kia,2016,158222,CNG,Trustmark Dealer,Automatic,Third Owner,13.28,1500,110.9,5,56817.03
+Toyota,2006,158133,CNG,Individual,Automatic,First Owner,33.51,1500,91.65,4,50000
+Maruti,2021,165250,Diesel,Dealer,Manual,Third Owner,32.5,2500,132.45,5,282759.69
+Toyota,2007,61790,Petrol,Individual,Manual,Second Owner,18.7,1800,109.71,5,50000
+Audi,2014,70696,Petrol,Trustmark Dealer,Manual,First Owner,12.79,3000,133.69,5,524736.63
+Toyota,2020,20648,Diesel,Individual,Automatic,Third Owner,27.6,1500,67.8,6,371647.26
+BMW,2013,66779,Petrol,Individual,Manual,Third Owner,28.21,3000,203.29,4,182765.79
+Mahindra,2015,111371,Diesel,Dealer,Automatic,Third Owner,32.42,2000,153.4,5,119178.12
+Maruti,2019,41672,Petrol,Individual,Manual,First Owner,11.32,2500,172.57,7,406662.78
+Ford,2007,74109,Petrol,Individual,Manual,Fourth & Above Owner,13.54,1000,42.98,5,50000
+Audi,2020,196593,Diesel,Dealer,Manual,Fourth & Above Owner,24.96,2000,112.23,5,497110.34
+Maruti,2016,39593,Diesel,Dealer,Manual,First Owner,25.48,2500,100.26,7,257373.77
+Toyota,2009,149858,Diesel,Dealer,Manual,First Owner,10.84,1500,90.67,5,50000
+BMW,2011,14815,Diesel,Dealer,Automatic,First Owner,19.92,1000,47.73,7,50000
+Hyundai,2013,158038,Petrol,Dealer,Automatic,Fourth & Above Owner,24.6,3000,224.18,6,104873.13
+Kia,2022,149866,Petrol,Dealer,Automatic,Second Owner,28.45,1000,44.17,6,186989.04
+Ford,2012,167495,CNG,Individual,Automatic,First Owner,17.9,3000,120.17,6,50000
+Kia,2016,26302,Diesel,Dealer,Automatic,First Owner,22.1,800,46.44,5,122120.29
+Maruti,2006,197136,Petrol,Dealer,Manual,First Owner,30.35,1800,83.19,7,50000
+BMW,2014,90140,CNG,Trustmark Dealer,Automatic,Second Owner,33.85,800,55.62,7,152940.91
+BMW,2023,163907,Petrol,Individual,Manual,First Owner,15.76,2500,191.99,5,1599341.05
+Toyota,2013,78356,Diesel,Individual,Manual,Fourth & Above Owner,16.33,800,33.34,5,50000
+Tata,2012,54282,Petrol,Dealer,Automatic,Second Owner,33.5,2000,111.65,7,74047.2
+Toyota,2005,133451,Diesel,Individual,Manual,Second Owner,19.9,3000,239.62,5,50000
+Tata,2010,126347,Diesel,Dealer,Manual,First Owner,27.96,3000,207.92,7,50000
+Tata,2016,188786,Petrol,Individual,Manual,First Owner,25.31,1500,117.19,5,73531.55
+Ford,2023,28814,CNG,Dealer,Manual,First Owner,17.14,3000,139.69,5,816307.27
+Toyota,2021,160161,Petrol,Individual,Automatic,First Owner,26.34,2000,97.71,4,482640.06
+Hyundai,2006,191903,Petrol,Dealer,Manual,First Owner,26.39,1500,69.29,5,50000
+Honda,2015,168818,Petrol,Individual,Manual,Fourth & Above Owner,24.81,2000,104.19,5,50000
+Honda,2022,86673,Petrol,Individual,Manual,First Owner,12.49,1000,68.98,5,279061.27
+Toyota,2015,56940,Petrol,Dealer,Manual,First Owner,34.88,1500,69.9,5,157606.87
+Toyota,2022,91796,Diesel,Dealer,Automatic,First Owner,20.01,3000,182.91,6,1048293.24
+Kia,2012,41476,CNG,Individual,Manual,First Owner,25.96,1500,76.15,5,57598.59
+Ford,2019,162355,Diesel,Trustmark Dealer,Manual,Fourth & Above Owner,32.14,2000,146.34,7,159163.55
+Toyota,2013,137841,Petrol,Individual,Automatic,First Owner,20.58,1200,48.32,5,67798.28
+Kia,2019,47278,Petrol,Dealer,Automatic,First Owner,29.35,1000,48.92,5,205804.28
+Tata,2011,183066,Petrol,Dealer,Automatic,Second Owner,34.3,2500,160.52,4,50000
+BMW,2017,198970,Petrol,Trustmark Dealer,Automatic,First Owner,18.97,3000,131.61,5,975296.68
+BMW,2017,20634,Diesel,Individual,Manual,First Owner,20.13,1000,58.65,5,572525.45
+Tata,2005,131259,Petrol,Individual,Manual,First Owner,32.64,3000,172.34,5,50000
+Audi,2008,147037,Diesel,Trustmark Dealer,Manual,First Owner,13.99,2500,185.25,5,50000
+Kia,2008,163638,CNG,Trustmark Dealer,Automatic,First Owner,10.71,1200,78.02,4,50000
+Kia,2008,57196,Diesel,Individual,Manual,First Owner,32.72,2000,131.18,5,50000
+Tata,2017,103679,CNG,Dealer,Manual,Third Owner,30.54,2000,156.14,7,110276.48
+Hyundai,2006,184357,Diesel,Dealer,Manual,First Owner,34.31,1000,79.29,5,50000
+Mahindra,2019,135861,Diesel,Individual,Manual,Second Owner,11.46,2000,132.27,6,228199.01
+Maruti,2008,191571,Diesel,Dealer,Manual,Second Owner,13.9,1800,109.58,5,50000
+Tata,2010,24420,Diesel,Dealer,Automatic,Second Owner,12.63,1800,115.77,5,50000
+Toyota,2007,161308,Petrol,Dealer,Manual,First Owner,27.09,3000,165.89,4,50000
+Toyota,2011,11218,Petrol,Dealer,Automatic,First Owner,25.15,2500,198.75,5,50000
+Ford,2010,129283,Petrol,Individual,Automatic,Second Owner,18.98,1200,81.84,6,50000
+Tata,2007,185964,Diesel,Individual,Manual,Second Owner,11.44,3000,154.92,5,50000
+Ford,2008,69057,Petrol,Dealer,Manual,Second Owner,25.99,1500,63.47,5,50000
+Tata,2014,83609,Electric,Dealer,Manual,First Owner,24.25,3000,125.37,5,165652.99
+Kia,2013,147298,Diesel,Trustmark Dealer,Manual,Third Owner,12.82,1800,86.75,5,50000
+Maruti,2010,128108,Petrol,Dealer,Automatic,First Owner,32.72,3000,147.95,6,50000
+Kia,2015,188343,Petrol,Individual,Manual,First Owner,14.97,2500,141.5,5,135660.65
+Mahindra,2011,15046,CNG,Trustmark Dealer,Manual,First Owner,28.59,3000,145.78,5,50000
+BMW,2022,122462,CNG,Dealer,Manual,First Owner,32.13,2000,130.47,5,1160746.18
+Honda,2008,114345,Diesel,Individual,Automatic,First Owner,24.49,1200,58.14,4,50000
+Tata,2009,42117,Petrol,Trustmark Dealer,Automatic,Second Owner,16.17,2500,118.79,5,50000
+Mahindra,2008,134980,Petrol,Dealer,Automatic,Third Owner,17.73,2500,147.12,5,50000
+BMW,2008,141037,Petrol,Individual,Automatic,Third Owner,32.14,1800,135.98,5,50000
+Audi,2017,195550,Petrol,Dealer,Manual,First Owner,17.46,800,46.99,6,223877.61
+Maruti,2020,193349,Diesel,Dealer,Automatic,Second Owner,28.65,1200,67.86,5,203960.93
+Ford,2018,195685,Diesel,Individual,Manual,First Owner,34.75,1000,63.12,5,105098.32
+Ford,2015,22373,Diesel,Trustmark Dealer,Automatic,First Owner,35,2500,125.72,5,269769.27
+Kia,2006,50452,CNG,Individual,Automatic,First Owner,23.34,1800,97.45,5,50000
+Toyota,2018,186161,Diesel,Dealer,Manual,First Owner,30.66,1000,48.55,6,126446.37
+BMW,2011,11654,Diesel,Dealer,Automatic,First Owner,34.76,1200,75.45,4,50000
+Audi,2015,167352,Petrol,Individual,Automatic,First Owner,19.37,1800,122.21,7,443853.22
+Mahindra,2008,192213,Electric,Dealer,Manual,Second Owner,16.31,1000,66.95,5,50000
+Maruti,2011,128319,Petrol,Individual,Automatic,Third Owner,12.86,3000,150.58,5,50000
+BMW,2020,110646,Electric,Individual,Manual,First Owner,13.52,1500,106.78,5,1171174.45
+Audi,2010,31583,CNG,Individual,Manual,Fourth & Above Owner,31.34,2500,125.6,4,50000
+Honda,2010,99242,Petrol,Individual,Manual,Second Owner,24.72,1500,69.02,5,50000
+Tata,2006,142432,Diesel,Dealer,Manual,Second Owner,31.84,800,43.19,5,50000
+Ford,2012,58968,CNG,Dealer,Automatic,Second Owner,29.74,2000,127.82,5,63659.79
+Mahindra,2011,139815,Diesel,Dealer,Automatic,First Owner,26.84,1200,54.82,7,62577.92
+Ford,2018,143231,Electric,Individual,Automatic,Third Owner,25.23,2000,131.85,6,201590.9
+Mahindra,2013,168223,Electric,Individual,Manual,Second Owner,11.21,2000,149.05,5,52849.24
+Kia,2019,136590,Petrol,Individual,Automatic,Fourth & Above Owner,31.81,1000,51.73,5,50000
+Toyota,2022,21652,Petrol,Individual,Manual,Second Owner,20.45,800,46.41,5,152094.67
+Mahindra,2016,118114,Electric,Trustmark Dealer,Automatic,Third Owner,23.99,1200,58.96,7,120051.6
+Ford,2023,107489,Diesel,Dealer,Manual,Second Owner,10.55,1500,81.68,5,213250.7
+Kia,2017,178420,Petrol,Dealer,Manual,First Owner,33.4,2000,81.76,5,233209.71
+Mahindra,2011,82001,Petrol,Dealer,Automatic,First Owner,32.57,1000,78.15,5,50000
+Honda,2014,129269,Diesel,Individual,Manual,First Owner,23.58,2000,113.27,5,113626.94
+Toyota,2014,81757,Electric,Dealer,Manual,First Owner,24.43,1800,128.8,6,122399.87
+Mahindra,2006,29395,CNG,Individual,Manual,First Owner,27.63,1500,68.56,6,50000
+Kia,2018,138407,Diesel,Individual,Manual,Third Owner,16.62,2000,144.99,5,307491.81
+BMW,2017,106978,Petrol,Trustmark Dealer,Manual,Second Owner,15.55,1800,133.93,5,496920.61
+Hyundai,2010,136572,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner,26.85,1800,123.51,5,50000
+Audi,2013,129541,CNG,Dealer,Manual,Third Owner,12.61,1000,76.13,4,50000
+Hyundai,2017,13083,Petrol,Dealer,Manual,Second Owner,21.35,1000,46.69,4,165314.68
+Hyundai,2013,111598,Petrol,Individual,Automatic,Third Owner,22.32,1800,106.31,5,50000
+Maruti,2017,141615,Petrol,Dealer,Manual,Second Owner,19.53,800,51.84,6,64963.65
+Honda,2009,188309,Diesel,Dealer,Automatic,Third Owner,14.63,2000,127.7,7,50000
+BMW,2018,101171,Electric,Individual,Automatic,First Owner,18.88,1800,133.99,4,1280606.45
+Tata,2009,125423,Petrol,Dealer,Manual,First Owner,18.44,1800,87.53,5,50000
+Mahindra,2013,11613,Diesel,Individual,Automatic,First Owner,22.48,1000,47.03,5,50000
+Audi,2012,115033,Diesel,Individual,Automatic,Second Owner,26.87,2000,100.27,7,86751.14
+Toyota,2011,176612,Electric,Dealer,Automatic,Second Owner,34.21,1200,90.79,7,50000
+BMW,2012,81202,Petrol,Dealer,Manual,First Owner,13.6,1500,116.46,5,79784.96
+Ford,2007,162327,Diesel,Dealer,Manual,First Owner,31.83,1000,62.79,6,50000
+Tata,2019,90666,Petrol,Individual,Automatic,Third Owner,17.1,2000,120.11,6,228263.6
+Maruti,2012,27068,CNG,Dealer,Automatic,Second Owner,24.78,2000,128.43,5,50000
+Maruti,2005,54057,Diesel,Trustmark Dealer,Automatic,First Owner,23.67,3000,193.96,5,50000
+BMW,2011,23946,Petrol,Dealer,Manual,Second Owner,23.92,2500,117.03,5,50000
+Kia,2023,156619,Diesel,Dealer,Automatic,Second Owner,28.08,800,53.97,4,202902.95
+Hyundai,2006,90237,Diesel,Dealer,Automatic,Fourth & Above Owner,19.54,1500,87.14,5,50000
+Ford,2018,10769,Petrol,Dealer,Manual,First Owner,17.98,1000,60.7,5,189129.43
+Maruti,2022,160955,CNG,Dealer,Manual,First Owner,31.32,1000,41.21,5,92109.74
+Audi,2019,66340,Petrol,Individual,Manual,First Owner,15.5,1200,84.7,7,752816.09
+Maruti,2018,84199,Diesel,Individual,Automatic,First Owner,14.51,2500,183.54,5,364401.47
+Toyota,2023,109222,Petrol,Dealer,Automatic,Third Owner,10.39,2500,161.94,4,544371.72
+Mahindra,2023,171234,Diesel,Dealer,Automatic,First Owner,15.26,800,55.96,4,168249.13
+Maruti,2021,38434,Petrol,Individual,Manual,Fourth & Above Owner,22.96,3000,182.72,5,304588.63
+Toyota,2023,27102,CNG,Individual,Manual,First Owner,23.46,3000,194.2,5,892727.96
+BMW,2020,26536,Diesel,Dealer,Manual,Fourth & Above Owner,16.36,2500,139.46,5,917197.08
+BMW,2023,109639,Diesel,Individual,Manual,First Owner,11.81,800,57.34,5,659524.76
+Tata,2005,186460,Diesel,Dealer,Automatic,Third Owner,28.62,3000,176.19,6,50000
+Maruti,2023,55775,Diesel,Individual,Automatic,Third Owner,28.95,2000,134.42,7,398442.85
+Audi,2011,36147,Petrol,Dealer,Automatic,Fourth & Above Owner,34.95,2000,129.71,7,50000
+Maruti,2015,55526,Petrol,Dealer,Automatic,First Owner,32.5,1000,68.09,5,59194.21
+Audi,2009,159731,Electric,Trustmark Dealer,Manual,First Owner,33.15,3000,214.23,5,50000
+Honda,2021,109663,Petrol,Dealer,Manual,Second Owner,29.96,1200,72.61,5,163424.29
+Tata,2015,117180,Diesel,Individual,Automatic,First Owner,25.39,1000,72.52,6,166420.07
+Honda,2012,129233,Electric,Dealer,Automatic,First Owner,13.21,2500,149.73,5,64677.56
+Maruti,2014,28088,Petrol,Individual,Manual,First Owner,25.56,1800,140.88,6,67074.39
+Tata,2016,73464,Diesel,Trustmark Dealer,Manual,Second Owner,11.4,2000,140.21,5,240770.57
+Honda,2014,110921,Diesel,Dealer,Manual,Second Owner,32.13,1800,84.32,7,114672.26
+Hyundai,2017,64998,Diesel,Individual,Automatic,First Owner,22.05,2500,182.96,6,364822.24
+Maruti,2022,45382,Petrol,Individual,Manual,First Owner,27.44,3000,186.19,5,680819.97
+Honda,2014,33184,Petrol,Individual,Manual,First Owner,11.31,1200,95.25,7,50000
+Hyundai,2023,156171,Diesel,Individual,Manual,Second Owner,23.36,1000,68.75,5,126806.7
+Hyundai,2021,42739,CNG,Trustmark Dealer,Manual,First Owner,17.53,2000,86.75,7,473272.5
+BMW,2020,132937,Diesel,Dealer,Automatic,First Owner,17.12,1200,66.96,6,750760.16
+Maruti,2009,144461,Diesel,Dealer,Manual,Third Owner,19.74,1000,60.69,7,50000
+Hyundai,2007,22352,Petrol,Trustmark Dealer,Automatic,Fourth & Above Owner,10.02,1000,73.56,4,50000
+BMW,2019,131788,Diesel,Individual,Automatic,Fourth & Above Owner,21.67,1800,124.51,5,611190.18
+Honda,2006,122843,Petrol,Dealer,Automatic,Third Owner,22.16,1500,82.16,6,50000
+Toyota,2017,157220,Electric,Individual,Manual,First Owner,31.58,2500,165.34,7,526303.7
+Maruti,2012,36828,CNG,Individual,Automatic,Second Owner,21.21,800,50.46,4,128442.81
+Tata,2021,73040,Diesel,Dealer,Manual,First Owner,19.09,2000,90.08,4,361890.79
+Audi,2008,192867,Electric,Dealer,Automatic,Second Owner,34.87,800,39.52,5,50000
+Audi,2023,194692,Petrol,Individual,Automatic,First Owner,24.28,3000,160.93,7,2130897.74
+Honda,2013,99279,Diesel,Dealer,Manual,Second Owner,21.82,1200,57.38,6,50000
+Kia,2019,99430,Petrol,Individual,Manual,Second Owner,22.4,3000,138.02,5,486236.86
+Kia,2013,193186,Electric,Individual,Manual,First Owner,30.23,3000,126.98,4,129818.63
+Honda,2013,176783,Petrol,Dealer,Manual,Second Owner,18.52,800,59.94,5,90696.18
+Hyundai,2018,120957,Diesel,Dealer,Manual,First Owner,19.73,1800,92.8,5,214301.55
+Maruti,2020,22748,CNG,Dealer,Manual,First Owner,28.9,1500,77.42,6,235435.91
+Audi,2021,93636,Petrol,Dealer,Manual,First Owner,11.82,2000,96.5,5,1437974.01
+Audi,2017,169763,Petrol,Individual,Manual,First Owner,31.63,2500,147.54,5,881066.61
+Hyundai,2013,120158,Diesel,Dealer,Manual,First Owner,20.76,1000,60.57,7,50000
+Audi,2019,196432,Diesel,Individual,Manual,Third Owner,24.53,1000,48.33,5,284901.99
+Tata,2011,15246,Petrol,Dealer,Manual,First Owner,28.94,2500,160.86,5,50000
+Maruti,2005,64395,Petrol,Dealer,Manual,First Owner,16.65,1800,124.06,6,50000
+Mahindra,2005,168558,Petrol,Dealer,Manual,First Owner,32.26,2000,109.91,5,50000
+Audi,2009,166412,CNG,Dealer,Manual,Second Owner,34.48,800,50.73,7,50000
+Honda,2013,55300,Diesel,Dealer,Automatic,Second Owner,22.36,2500,150.23,4,50000
+Tata,2016,139158,Petrol,Dealer,Manual,Second Owner,33.42,1000,47.82,7,50000
+Audi,2010,19860,Petrol,Trustmark Dealer,Manual,Second Owner,10.03,800,55.36,4,50000
+Tata,2017,22013,Petrol,Individual,Manual,Third Owner,32.36,1800,129.7,4,125817.15
+BMW,2012,143479,Petrol,Dealer,Automatic,Third Owner,17.78,1000,65.95,5,50000
+Mahindra,2019,38542,Petrol,Dealer,Automatic,Second Owner,17.79,1200,63.55,7,255566.87
+Ford,2010,29935,Petrol,Dealer,Automatic,First Owner,15.7,1500,115.61,7,50000
+Honda,2010,54079,Petrol,Dealer,Automatic,Second Owner,17.93,800,46.57,5,50000
+Honda,2008,39111,Diesel,Dealer,Manual,Second Owner,15.34,2500,126.59,5,50000
+Maruti,2015,61550,Petrol,Dealer,Manual,Second Owner,32.65,2000,112.66,5,79107.27
+Tata,2022,81955,Diesel,Dealer,Manual,Third Owner,32.48,800,54.15,5,130649.53
+Hyundai,2007,45565,Diesel,Dealer,Automatic,Second Owner,12.56,800,59.07,6,50000
+Honda,2007,24283,Diesel,Dealer,Automatic,Third Owner,13.57,800,43.41,5,50000
+Tata,2016,71470,Diesel,Dealer,Automatic,First Owner,31.55,2500,123.26,6,322169.65
+Tata,2010,91916,Diesel,Individual,Manual,First Owner,19.97,1800,117.11,6,50000
+Toyota,2010,84552,CNG,Dealer,Automatic,First Owner,14.23,1800,138.33,5,50000
+Toyota,2012,43233,Diesel,Dealer,Manual,Third Owner,22.77,2000,94.66,7,50000
+Ford,2019,27695,Diesel,Individual,Manual,Third Owner,20.42,1800,129.82,5,255452.36
+BMW,2022,131440,CNG,Trustmark Dealer,Manual,Second Owner,15.48,2500,147.66,5,1124278.98
+Ford,2020,178806,Diesel,Trustmark Dealer,Manual,Second Owner,28.02,2000,143.96,6,301471.54
+Audi,2010,86257,Petrol,Individual,Manual,Second Owner,25.78,3000,180.66,5,50000
+Hyundai,2021,6505,Petrol,Dealer,Automatic,Third Owner,12.49,2000,110.19,4,284279.33
+Audi,2013,141435,Petrol,Individual,Manual,Third Owner,33.13,1800,122.17,7,209235.1
+Kia,2023,184780,CNG,Individual,Manual,Second Owner,23.96,3000,228.08,5,451491.83
+Audi,2022,48614,Diesel,Dealer,Manual,Second Owner,16.26,1000,52.81,5,750290.77
+Maruti,2009,6010,Electric,Individual,Manual,First Owner,15.16,1800,105.17,6,50000
+Audi,2010,135560,Diesel,Trustmark Dealer,Automatic,Second Owner,13.4,1000,49.18,5,50000
+Ford,2016,155933,Diesel,Dealer,Automatic,First Owner,20.62,1200,56.8,7,172178.97
+Honda,2015,160197,Petrol,Dealer,Automatic,First Owner,13.39,1800,128.01,4,90903.51
+Honda,2020,145441,Diesel,Dealer,Automatic,Third Owner,20.4,1200,57.63,5,228636.81
+Toyota,2021,74393,Diesel,Dealer,Automatic,Second Owner,13.72,1800,129.12,6,493639.24
+Hyundai,2013,162743,Electric,Dealer,Manual,Fourth & Above Owner,26.42,1200,68.6,5,50000
+Hyundai,2005,69512,Petrol,Individual,Automatic,First Owner,29.63,1500,119.7,6,50000
+Maruti,2007,103026,Diesel,Individual,Manual,First Owner,23.74,1200,57.47,7,50000
+Ford,2013,80656,Diesel,Dealer,Manual,First Owner,27,1000,43.72,6,62611.12
+Toyota,2023,102686,Diesel,Trustmark Dealer,Manual,First Owner,33.46,800,34.41,5,258268.79
+Kia,2017,180210,Diesel,Dealer,Automatic,First Owner,25.96,2000,146.83,5,298115.16
+Hyundai,2018,189492,Diesel,Dealer,Automatic,First Owner,19.1,1200,69.01,7,197099.79
+Honda,2023,20489,Petrol,Individual,Manual,First Owner,21.24,800,32.1,5,228813.91
+Audi,2011,64789,Diesel,Individual,Automatic,First Owner,31.51,2500,187.48,5,50000
+Audi,2008,74925,Diesel,Individual,Automatic,First Owner,13.27,1500,112.62,5,50000
+Toyota,2016,54703,CNG,Trustmark Dealer,Manual,Second Owner,18.14,1500,108.39,5,141688.78
+Ford,2018,81625,CNG,Individual,Manual,First Owner,24.43,3000,149.8,4,351808.36
+Ford,2006,112535,Petrol,Trustmark Dealer,Automatic,Second Owner,26.91,2500,137.28,7,50000
+BMW,2005,194300,Petrol,Dealer,Manual,Second Owner,29.09,2500,174.49,5,50000
+Mahindra,2022,8051,Electric,Individual,Automatic,First Owner,17.96,3000,178.72,5,1406306.6
+Hyundai,2012,174162,Diesel,Trustmark Dealer,Manual,Third Owner,13.65,2500,115.38,7,86721.26
+Ford,2007,33805,Electric,Individual,Manual,Second Owner,33.87,1000,49.71,5,50000
+Honda,2010,99978,Petrol,Dealer,Automatic,Second Owner,11.91,2500,197.26,6,50000
+Toyota,2017,49557,Diesel,Individual,Automatic,First Owner,12.4,1000,46.04,5,210643.28
+Kia,2013,138627,CNG,Individual,Automatic,Second Owner,22.37,3000,207.13,7,50000
+BMW,2013,55241,Electric,Dealer,Automatic,Third Owner,30.48,1200,70.94,5,135766.98
+Tata,2013,132838,Petrol,Trustmark Dealer,Automatic,First Owner,29.36,3000,209.83,6,133652.71
+Maruti,2019,70994,Diesel,Dealer,Automatic,First Owner,33.44,1800,119.6,4,371774.89
+Kia,2017,119005,Diesel,Dealer,Manual,First Owner,13.54,2500,143.92,5,351256.43
+Tata,2020,21066,Petrol,Trustmark Dealer,Manual,Second Owner,19.39,2500,135.39,5,477760.31
+Audi,2006,140793,Diesel,Dealer,Manual,First Owner,17.05,1500,105.26,7,50000
+Maruti,2018,82982,Diesel,Dealer,Automatic,Second Owner,31.52,3000,158.78,5,320972.76
+Hyundai,2010,11304,Electric,Individual,Manual,First Owner,22.21,3000,214.53,6,50000
+Honda,2006,47967,Diesel,Individual,Manual,Third Owner,10.67,800,53.75,4,50000
+Maruti,2012,83763,Petrol,Dealer,Manual,First Owner,27.7,1800,113.59,5,64923.88
+Mahindra,2008,45462,Petrol,Trustmark Dealer,Automatic,First Owner,19.72,1500,82.13,5,50000
+Tata,2018,125356,Petrol,Individual,Automatic,Second Owner,23.28,1200,57.84,6,80386.99
+Hyundai,2015,76834,Petrol,Individual,Manual,First Owner,32.34,2500,171.04,6,145932.4
+Mahindra,2018,116023,Diesel,Individual,Automatic,First Owner,16.42,1500,65.48,7,277533.06
+Audi,2016,186227,Petrol,Individual,Manual,First Owner,16.01,1000,78.82,7,208384.51
+Mahindra,2020,122771,Electric,Dealer,Manual,Second Owner,16.58,800,63.32,4,214319.23
+BMW,2010,80842,Electric,Dealer,Automatic,Third Owner,18.45,800,36.17,7,50000
+BMW,2005,7589,Diesel,Individual,Manual,Third Owner,12.68,1000,44.16,5,50000
+Toyota,2016,130023,Electric,Individual,Automatic,First Owner,27.43,3000,169.53,7,466803.66
+Kia,2011,173150,Diesel,Dealer,Manual,First Owner,15.18,2500,196.37,4,50000
+Kia,2012,59918,Diesel,Individual,Manual,Second Owner,33.15,2500,140.03,7,50000
+Hyundai,2013,149673,Petrol,Individual,Automatic,Second Owner,15.39,1800,98.19,5,50000
+Audi,2006,12711,Diesel,Dealer,Manual,First Owner,16.39,1000,68.14,5,50000
+Ford,2021,64430,Diesel,Dealer,Automatic,First Owner,17.43,2500,117.87,4,685989.07
+BMW,2017,199399,CNG,Dealer,Automatic,First Owner,29.21,800,43.63,5,186995.15
+Hyundai,2009,107605,Diesel,Individual,Manual,Second Owner,20.69,2500,129.13,5,50000
+Ford,2014,8970,CNG,Dealer,Manual,First Owner,30.48,1200,76.87,7,58151.99
+Kia,2016,74535,Diesel,Dealer,Manual,Third Owner,29.62,2500,116.28,6,102690.06
+Toyota,2021,91570,Petrol,Individual,Manual,First Owner,33.24,1800,111.51,5,419918.03
+Mahindra,2010,126315,Electric,Individual,Manual,First Owner,28.92,2000,148.6,5,50000
+BMW,2007,172248,Diesel,Dealer,Manual,First Owner,11.3,1500,90.85,5,50000
+Hyundai,2019,117111,Petrol,Dealer,Manual,First Owner,30.93,2000,134.68,7,311214.17
+Maruti,2011,46730,Diesel,Individual,Manual,First Owner,33.45,1200,51.61,4,50000
+Ford,2010,149457,Petrol,Trustmark Dealer,Automatic,First Owner,34.84,2000,115.92,5,50000
+Mahindra,2008,128252,Diesel,Trustmark Dealer,Automatic,First Owner,13.13,2500,109.49,4,50000
+BMW,2023,142022,Diesel,Individual,Automatic,First Owner,25.33,1800,115.16,5,1554425.66
+Kia,2009,189081,Petrol,Dealer,Manual,First Owner,14.99,800,40.99,5,50000
+Audi,2007,159470,Electric,Dealer,Automatic,Fourth & Above Owner,16.56,800,41.19,4,50000
+Ford,2013,161349,Diesel,Dealer,Manual,Second Owner,28.64,1200,51.68,5,85226.41
+Kia,2010,162833,Petrol,Dealer,Automatic,Second Owner,34.44,2000,104.82,5,50000
+BMW,2017,68944,Diesel,Individual,Automatic,First Owner,24.87,3000,180.8,5,1576647.24
+Ford,2008,167605,Electric,Dealer,Manual,First Owner,31.26,3000,190.16,5,50000
+Mahindra,2006,112437,Petrol,Dealer,Automatic,First Owner,10.22,1800,76.8,4,50000
+BMW,2008,131794,Petrol,Trustmark Dealer,Automatic,Second Owner,10.92,1500,99.09,4,50000
+Tata,2012,77123,Petrol,Dealer,Automatic,First Owner,24.92,2500,148.89,5,118152.02
+Hyundai,2017,27880,Petrol,Dealer,Automatic,First Owner,19.72,2000,122.95,7,235099.53
+Mahindra,2014,177825,CNG,Dealer,Manual,Second Owner,32.24,3000,219.94,5,69292.2
+Ford,2022,92829,Diesel,Individual,Manual,First Owner,17.55,3000,161.07,6,680389.1
+Audi,2013,137633,Petrol,Individual,Manual,First Owner,20.8,2000,93.92,5,107660.45
+Kia,2005,58205,Diesel,Dealer,Automatic,First Owner,23.2,1500,93.11,5,50000
+Maruti,2017,111948,Petrol,Individual,Manual,Second Owner,16.83,1000,77.8,4,80600.18
+Kia,2022,64810,Electric,Individual,Automatic,Second Owner,32.71,2500,151.79,5,824784.21
+Ford,2019,118089,Electric,Individual,Manual,First Owner,21.61,1200,87.93,5,295532.19
+Kia,2006,69482,Petrol,Trustmark Dealer,Manual,First Owner,20.6,2500,175.7,7,50000
+Hyundai,2015,74192,CNG,Individual,Manual,Second Owner,31.24,1800,109.32,7,69653.02
+BMW,2018,92154,Diesel,Individual,Automatic,First Owner,17.8,1200,79.08,5,704837.43
+Maruti,2019,91066,Petrol,Dealer,Manual,Second Owner,30.44,1500,84.4,5,155550.05
+Honda,2018,164402,Petrol,Dealer,Manual,Second Owner,13.06,1800,110.21,5,132794.16
+Ford,2020,152211,Diesel,Dealer,Manual,First Owner,14.57,800,48.23,5,172127.29
+Toyota,2019,133514,Diesel,Individual,Manual,First Owner,33.77,800,54.69,7,143865.13
+Honda,2023,37977,Electric,Individual,Manual,Second Owner,31.06,2500,141,5,894243.55
+Kia,2013,9983,Diesel,Individual,Automatic,First Owner,19.7,1800,79.18,7,80278.05
+Ford,2009,175981,CNG,Dealer,Manual,First Owner,25.96,1200,85.86,5,50000
+Tata,2009,54029,Diesel,Individual,Manual,Second Owner,33.57,1200,80.87,5,50000
+Toyota,2015,157401,CNG,Trustmark Dealer,Automatic,First Owner,15.3,800,62.4,5,114922.17
+Maruti,2008,127668,Diesel,Individual,Automatic,First Owner,11.48,800,45.72,5,50000
+Audi,2022,172806,Petrol,Individual,Automatic,First Owner,23.44,1500,64.69,5,1142769.95
+Tata,2007,47837,Diesel,Individual,Manual,Second Owner,13.56,1800,80.76,5,50000
+Honda,2008,122512,CNG,Trustmark Dealer,Automatic,First Owner,14.68,1200,85.12,5,50000
+BMW,2018,71786,Petrol,Individual,Automatic,Fourth & Above Owner,32.29,3000,128.13,4,795090.4
+Hyundai,2011,9758,CNG,Individual,Automatic,Second Owner,10.19,1500,114.47,5,50000
+Audi,2012,107667,Petrol,Dealer,Manual,First Owner,30.42,1200,61.52,5,143101.79
+Tata,2020,113119,Diesel,Dealer,Manual,First Owner,22.92,800,60.76,6,94355.23
+BMW,2019,105157,CNG,Individual,Automatic,First Owner,23.98,1800,127.69,6,972089.94
+BMW,2011,87673,Petrol,Dealer,Manual,Second Owner,26.79,1000,74.85,5,50000
+Ford,2021,102639,Petrol,Trustmark Dealer,Manual,Third Owner,20.79,1800,87.41,5,242252.69
+Tata,2016,157904,Petrol,Dealer,Automatic,Second Owner,12.89,2000,127.66,5,121415.07
+Maruti,2022,137940,CNG,Trustmark Dealer,Automatic,First Owner,12.57,3000,131.23,6,559342.81
+Kia,2018,119869,Petrol,Dealer,Manual,Second Owner,28.86,3000,144.27,4,322948.64
+Toyota,2019,186737,Electric,Dealer,Automatic,First Owner,15.53,3000,157.19,5,712834.31
+Toyota,2019,177934,Petrol,Trustmark Dealer,Manual,Second Owner,10.7,1000,69.63,5,61512.19
+Honda,2009,24728,Electric,Dealer,Manual,Second Owner,34.49,2500,102.47,6,50000
+Honda,2020,108542,Electric,Dealer,Automatic,First Owner,34.51,2500,190.31,4,759995.89
+Toyota,2009,98565,Diesel,Dealer,Manual,First Owner,19.45,1500,64.25,5,50000
+Maruti,2006,175929,Diesel,Individual,Manual,Second Owner,10.64,1000,55.06,5,50000
+Hyundai,2013,164255,Diesel,Dealer,Automatic,Second Owner,28.18,1000,43.24,4,50000
+Mahindra,2013,155012,Diesel,Individual,Manual,First Owner,30.78,1500,106.14,6,50000
+Kia,2008,130019,Petrol,Individual,Manual,First Owner,13.13,1800,82.17,5,50000
+Hyundai,2019,141352,Petrol,Individual,Automatic,Second Owner,13.39,1500,113.09,7,221114.16
+Ford,2015,107548,Petrol,Individual,Automatic,First Owner,30.56,2000,122.42,4,184229.92
+Mahindra,2005,138236,Petrol,Individual,Automatic,First Owner,33.05,800,62.35,5,50000
+Mahindra,2022,126289,Petrol,Dealer,Automatic,First Owner,29.77,2500,129.04,6,576435.26
+Tata,2005,134068,Diesel,Individual,Manual,First Owner,15.02,800,46.54,5,50000
+Maruti,2012,84624,Electric,Dealer,Automatic,Second Owner,20.29,2500,169.42,5,50000
+Maruti,2020,154477,Petrol,Individual,Manual,Fourth & Above Owner,25.02,1000,73.28,5,60918.18
+Mahindra,2022,7821,Diesel,Dealer,Automatic,Second Owner,14.01,3000,170.56,6,894107.55
+Tata,2013,60090,Petrol,Trustmark Dealer,Manual,First Owner,15.27,1500,113.55,4,50000
+Kia,2016,158588,CNG,Dealer,Automatic,Second Owner,17.07,1500,67.08,6,86431.12
+Mahindra,2023,146545,Electric,Dealer,Manual,First Owner,22.74,1500,102.52,5,468538.88
+Audi,2022,51454,CNG,Individual,Manual,First Owner,22.77,3000,161.78,7,2347411.49
+Honda,2009,178602,Electric,Individual,Automatic,Third Owner,30.36,2000,88.11,5,50000
+Honda,2006,109273,Petrol,Dealer,Automatic,First Owner,28.83,2000,110.93,4,50000
+Hyundai,2011,109472,CNG,Individual,Automatic,Fourth & Above Owner,32.84,3000,225.63,5,50000
+Ford,2014,160870,Diesel,Individual,Manual,First Owner,30.82,1800,142.6,7,58682.31
+Honda,2019,136935,Petrol,Trustmark Dealer,Manual,Second Owner,16.35,3000,167.14,6,322908.47
+BMW,2011,21148,Electric,Individual,Automatic,First Owner,18.28,1200,90.55,5,50000
+Hyundai,2009,91545,Petrol,Dealer,Automatic,First Owner,22.51,2500,150.97,5,50000
+Honda,2019,59459,Diesel,Dealer,Automatic,First Owner,10.36,1200,82.42,5,239382.85
+Ford,2019,89224,Petrol,Trustmark Dealer,Automatic,Third Owner,32.6,1200,50.18,4,90206.4
+Maruti,2014,71189,Petrol,Individual,Automatic,Second Owner,11.11,3000,186.88,5,97349.87
+Maruti,2018,144201,Diesel,Dealer,Manual,Third Owner,18.06,2500,107.02,5,201654.8
+Kia,2014,96954,Diesel,Dealer,Automatic,Second Owner,24.23,1800,91.34,5,113987.61
+Mahindra,2021,28118,Petrol,Individual,Automatic,Third Owner,22.95,1500,94.01,5,385675.37
+Audi,2018,136515,Petrol,Dealer,Automatic,First Owner,26.36,1200,86.74,6,486461.26
+Maruti,2006,163113,CNG,Dealer,Automatic,First Owner,23.19,3000,187.31,5,50000
+Tata,2020,94379,Petrol,Dealer,Automatic,Second Owner,15.73,1500,116.17,5,190503.67
+Honda,2017,26053,Petrol,Dealer,Manual,Second Owner,15.03,3000,217.24,5,384674.7
+Tata,2013,101384,Electric,Dealer,Manual,Second Owner,32.68,1000,46.25,5,56870.72
+Ford,2011,173276,CNG,Individual,Manual,First Owner,16.6,1200,66.67,5,50000
+Maruti,2020,122545,Petrol,Dealer,Automatic,First Owner,17.02,1000,66.74,5,252645.41
+Audi,2014,178312,Diesel,Dealer,Automatic,Third Owner,20.32,1800,139.57,5,161301.15
+Ford,2013,131675,CNG,Dealer,Manual,Second Owner,13.49,800,63.61,5,50000
+BMW,2011,98749,CNG,Dealer,Automatic,First Owner,22.68,2000,141.05,7,50000
+BMW,2020,197174,Diesel,Dealer,Manual,Second Owner,26.63,2500,157.38,5,944027.93
+Tata,2013,144363,Petrol,Dealer,Manual,Third Owner,29.65,3000,210.79,5,50000
+Mahindra,2021,21285,Petrol,Individual,Automatic,First Owner,27.79,1800,91.67,6,558960.84
+Hyundai,2011,66589,Petrol,Dealer,Automatic,Third Owner,13.69,1800,92.42,5,77279.59
+Mahindra,2015,18944,Diesel,Dealer,Manual,Third Owner,21.4,1800,119.11,5,194141.34
+Kia,2012,106041,Petrol,Dealer,Manual,Third Owner,10.96,1200,89.85,5,50000
+Mahindra,2011,93876,Diesel,Individual,Manual,Third Owner,10.44,1000,78.79,5,50000
+Kia,2023,100561,Petrol,Trustmark Dealer,Manual,Second Owner,21,2000,107.31,5,479699.68
+Kia,2016,59391,Petrol,Dealer,Manual,First Owner,16.32,1200,86.23,4,176179.97
+Audi,2011,6607,CNG,Trustmark Dealer,Manual,First Owner,27.08,800,59.25,7,83322.74
+Maruti,2012,7953,Diesel,Dealer,Manual,First Owner,28.11,2500,162.32,5,50000
+Audi,2011,49941,Petrol,Individual,Manual,First Owner,32.39,2500,134.76,5,50000
+Kia,2010,66683,CNG,Dealer,Manual,First Owner,29.02,2000,129.53,5,50000
+Ford,2013,114588,Petrol,Individual,Manual,First Owner,11.21,2500,158.44,5,97307.42
+BMW,2017,127080,Diesel,Individual,Automatic,First Owner,19.29,2500,160.65,5,1059873.37
+Kia,2011,16154,Diesel,Dealer,Automatic,First Owner,16.83,1800,116.59,6,50000
+Audi,2012,130542,Petrol,Individual,Manual,Third Owner,19.65,1500,110.82,7,50000
+Ford,2021,145119,CNG,Individual,Manual,First Owner,14,800,37.44,5,181496.22
+Audi,2021,93529,Diesel,Dealer,Manual,Second Owner,12.44,1000,54.69,5,672501.13
+Mahindra,2020,19323,Diesel,Dealer,Manual,Second Owner,23.02,3000,190.32,6,551801.37
+Honda,2006,42693,Petrol,Dealer,Manual,First Owner,28.01,800,41.07,5,50000
+Tata,2012,194802,Petrol,Individual,Manual,Third Owner,27.55,1200,94.95,5,50000
+Hyundai,2021,94170,Electric,Individual,Manual,Second Owner,21.27,2500,126.32,5,562583.29
+Audi,2017,162364,Petrol,Dealer,Automatic,First Owner,23.06,1500,88.18,7,629564.37
+Hyundai,2022,50111,Diesel,Individual,Manual,First Owner,22.91,3000,225.28,5,820585.1
+Toyota,2014,44491,Diesel,Trustmark Dealer,Manual,First Owner,27.29,1200,51.84,7,126422.04
+Audi,2006,54336,Diesel,Individual,Automatic,First Owner,11.2,2000,145.66,5,50000
+Honda,2006,21905,Petrol,Individual,Manual,First Owner,27.75,1800,113.11,5,50000
+Hyundai,2018,35273,Petrol,Individual,Manual,Second Owner,24.56,2500,103.18,5,380435.3
+Kia,2020,130191,Diesel,Dealer,Manual,Third Owner,14.95,1800,137.01,5,187969.71
+Audi,2011,120936,Petrol,Dealer,Manual,Second Owner,11.23,800,33.25,6,50000
+Maruti,2016,162306,Petrol,Individual,Automatic,First Owner,12.71,1800,109.1,5,127114.19
+Tata,2018,71538,Petrol,Dealer,Manual,First Owner,23.12,1800,75.53,5,179838.84
+Honda,2008,109570,Petrol,Trustmark Dealer,Manual,First Owner,28.96,2000,85.7,5,50000
+Hyundai,2008,168645,CNG,Dealer,Manual,First Owner,18.37,1000,75.49,5,73064.03
+Honda,2022,98339,Petrol,Dealer,Manual,First Owner,19.48,1000,70.63,5,299327.84
+Ford,2007,126132,Petrol,Trustmark Dealer,Automatic,Third Owner,33.35,1200,57.45,4,50000
+Tata,2005,133993,Petrol,Individual,Automatic,First Owner,15.33,2500,162.05,5,50000
+Kia,2021,16330,Diesel,Dealer,Manual,Third Owner,12.59,1200,86.14,7,285417.13
+Audi,2011,77553,Diesel,Individual,Manual,First Owner,18.59,1000,75.58,5,50000
+Audi,2020,177425,Petrol,Individual,Manual,Fourth & Above Owner,28.65,800,46.99,6,150807.97
+Audi,2009,152083,Diesel,Individual,Automatic,Second Owner,25.65,1000,75.9,5,50000
+Tata,2023,88537,Diesel,Dealer,Manual,Second Owner,20.39,1200,72.38,5,200759.97
+Maruti,2011,65985,CNG,Individual,Manual,First Owner,34.12,1500,101.29,5,50000
+Toyota,2018,22044,CNG,Trustmark Dealer,Manual,Third Owner,28.37,2500,197.9,6,266992.08
+BMW,2006,174364,Petrol,Dealer,Manual,Third Owner,11.55,1800,88.99,5,50000
+Mahindra,2007,127304,Petrol,Trustmark Dealer,Manual,Second Owner,28.62,2000,93.48,7,50000
+Hyundai,2021,141322,Petrol,Trustmark Dealer,Manual,Second Owner,10.6,1500,80.52,5,246971.45
+Maruti,2020,28289,Petrol,Individual,Manual,Second Owner,26.26,1500,69.86,4,276799.78
+Kia,2012,38087,Electric,Individual,Manual,First Owner,15.26,1800,92.46,5,66884.2
+Hyundai,2022,80952,Petrol,Dealer,Manual,Second Owner,27.41,1000,69.72,5,221277.6
+Audi,2019,41368,Petrol,Dealer,Automatic,Third Owner,17.74,3000,177.3,5,1406854.88
+Honda,2011,125648,Diesel,Individual,Manual,First Owner,31.83,2500,137.5,6,50000
+Kia,2013,75815,Diesel,Trustmark Dealer,Manual,First Owner,18.42,800,43.8,7,50000
+Hyundai,2010,95693,Petrol,Individual,Automatic,First Owner,25.49,1500,71.67,6,50000
+Audi,2022,197112,Petrol,Individual,Manual,Second Owner,17.15,800,46.32,7,374969.35
+Hyundai,2022,63900,Petrol,Dealer,Automatic,First Owner,32.93,2000,129.97,7,577075.07
+Honda,2018,20494,Diesel,Dealer,Automatic,First Owner,29.52,2000,91.13,7,557252.25
+Audi,2018,121486,Petrol,Dealer,Manual,First Owner,16.08,2000,157.83,5,872456.57
+Toyota,2018,181238,Petrol,Dealer,Automatic,Second Owner,33.72,1200,69.28,5,122493.26
+Maruti,2008,161405,Diesel,Individual,Manual,First Owner,18.93,1500,116.88,4,50000
+Ford,2008,38050,Petrol,Dealer,Manual,Second Owner,26.3,2000,90.77,5,50000
+Mahindra,2019,102799,Diesel,Individual,Manual,First Owner,28.57,1200,84.83,7,239794.8
+Tata,2019,136016,Diesel,Dealer,Manual,Second Owner,10.57,2000,129.41,5,189498.41
+Mahindra,2022,93257,Petrol,Individual,Automatic,Fourth & Above Owner,33.97,1000,72.8,5,98932.38
+Kia,2018,53070,Electric,Individual,Automatic,First Owner,18.61,1500,96.04,5,360587.45
+Mahindra,2005,10166,Diesel,Dealer,Automatic,First Owner,14.74,1200,94.22,5,50000
+Audi,2014,143193,Petrol,Dealer,Automatic,Third Owner,31.27,2000,130.15,5,194312.84
+Toyota,2014,150749,Diesel,Dealer,Automatic,First Owner,27.57,2500,178.46,5,117234.36
+Ford,2014,192633,Diesel,Trustmark Dealer,Automatic,First Owner,12.17,1200,90.12,5,94641.3
+Maruti,2006,92409,Diesel,Dealer,Manual,Third Owner,12.93,2000,137.17,5,50000
+Maruti,2012,42664,Petrol,Individual,Manual,Fourth & Above Owner,27.88,1000,60.97,5,50000
+Honda,2005,134926,Electric,Trustmark Dealer,Manual,Second Owner,11.87,800,40.73,5,50000
+Tata,2005,6293,Petrol,Individual,Automatic,First Owner,32.93,3000,222.54,5,50000
+Hyundai,2008,158515,Petrol,Dealer,Manual,First Owner,28.54,2000,118.45,5,50000
+Toyota,2011,54212,Petrol,Trustmark Dealer,Manual,First Owner,18.39,800,51.86,4,50000
+Hyundai,2013,80276,Petrol,Dealer,Manual,Second Owner,19.07,1500,64.75,7,50000
+Ford,2020,17559,CNG,Dealer,Manual,Second Owner,22.66,1000,59.89,5,159707.73
+Mahindra,2009,70231,Petrol,Trustmark Dealer,Manual,Third Owner,19.02,2500,169.82,7,50000
+Maruti,2006,113277,Petrol,Individual,Manual,First Owner,29.59,1500,95.04,6,50000
+Ford,2015,175116,CNG,Dealer,Automatic,Second Owner,34.37,2500,144.86,6,160816.31
+Mahindra,2022,26747,Petrol,Dealer,Manual,First Owner,24.61,800,39.15,5,260676.61
+Maruti,2023,166201,Petrol,Dealer,Automatic,First Owner,21.15,1000,52.39,5,169986.15
+Mahindra,2017,5037,Petrol,Individual,Manual,Second Owner,15.57,1800,122.44,5,280373.6
+Tata,2015,109294,Petrol,Dealer,Manual,First Owner,26.34,1000,48.97,4,162809.55
+Toyota,2023,102847,Petrol,Trustmark Dealer,Manual,Second Owner,27.14,1000,64.87,7,213430.09
+Kia,2021,108742,Diesel,Trustmark Dealer,Manual,Second Owner,27.13,2500,158.97,5,474871.5
+Ford,2009,53503,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner,10.67,1800,141.87,7,50000
+Ford,2017,33207,Petrol,Dealer,Manual,Second Owner,32.48,1200,50.92,6,96705.02
+BMW,2005,38241,Diesel,Individual,Manual,Third Owner,18.45,1200,53.19,4,50000
+Audi,2014,136130,Diesel,Trustmark Dealer,Manual,Second Owner,28.6,1200,72.29,5,291064.2
+Tata,2012,101171,Petrol,Trustmark Dealer,Manual,First Owner,29,800,48.87,5,50000
+Tata,2012,150906,Diesel,Dealer,Automatic,First Owner,26.26,1000,41.6,5,50000
+Hyundai,2023,122302,Petrol,Dealer,Automatic,Second Owner,19.87,2000,146.07,5,400745.97
+Mahindra,2010,163262,Diesel,Dealer,Manual,Second Owner,25.21,1800,107.62,7,50000
+Audi,2016,77832,Diesel,Individual,Automatic,Second Owner,11,2000,107.73,5,754342.24
+Toyota,2011,26383,Petrol,Individual,Manual,First Owner,29.05,800,42.2,5,50000
+Toyota,2020,129291,Electric,Individual,Automatic,First Owner,12.49,1800,134.02,5,592529.97
+Tata,2013,160732,Petrol,Dealer,Automatic,First Owner,19.92,2000,95.74,5,50000
+Toyota,2014,7674,Diesel,Dealer,Automatic,Second Owner,12.59,3000,139.25,5,339075.6
+BMW,2014,119100,Petrol,Dealer,Manual,Second Owner,30.93,2500,121.32,5,293246.58
+Ford,2014,114369,Diesel,Dealer,Manual,Second Owner,23.76,800,52,5,50000
+Honda,2020,27820,Diesel,Dealer,Manual,First Owner,27.27,800,57.95,5,179351.79
+Kia,2005,161738,CNG,Individual,Manual,First Owner,27.06,3000,159.72,5,50000
+Hyundai,2021,48794,Petrol,Individual,Manual,Second Owner,31.04,800,37.55,5,216582.68
+Mahindra,2018,138148,Diesel,Individual,Manual,Second Owner,13.31,1800,87.06,7,226963.06
+Kia,2023,133544,Diesel,Dealer,Manual,First Owner,26.49,2000,129.53,5,591609
+Mahindra,2021,188414,Diesel,Dealer,Manual,Second Owner,24.38,2000,99.68,5,315955.45
+Maruti,2018,42555,Diesel,Dealer,Automatic,First Owner,10.77,1500,112.64,4,187565.76
+Kia,2012,191280,Diesel,Trustmark Dealer,Automatic,Second Owner,15.04,800,35.32,4,50000
+Honda,2013,37406,Petrol,Dealer,Automatic,Third Owner,16.69,1200,49.55,7,50000
+Tata,2012,197644,Petrol,Individual,Manual,Second Owner,11.81,1000,43.54,7,50000
+BMW,2017,45262,Diesel,Dealer,Automatic,Second Owner,18.87,2500,184.56,5,1021907.46
+Ford,2021,96320,Petrol,Trustmark Dealer,Automatic,First Owner,10.68,2500,165.12,7,625562.32
+Ford,2023,159288,Electric,Individual,Manual,Second Owner,23.83,1500,117.46,7,349982.62
+BMW,2011,35284,Diesel,Dealer,Manual,Second Owner,15.29,1500,80.18,5,50000
+Audi,2021,156243,Electric,Individual,Automatic,Second Owner,17.18,1800,87.31,7,1373621.5
+Maruti,2005,95627,Petrol,Dealer,Manual,Second Owner,32.76,1500,93.72,5,50000
+Mahindra,2009,150405,CNG,Trustmark Dealer,Manual,First Owner,22.57,2000,123.03,5,50000
+Honda,2010,166607,CNG,Dealer,Manual,Fourth & Above Owner,16.73,1800,114.55,6,50000
+Toyota,2006,94023,Diesel,Dealer,Manual,Second Owner,24.96,1800,97.02,4,50000
+Kia,2020,169772,Diesel,Individual,Automatic,First Owner,15.04,2500,100.59,7,559328.57
+Maruti,2009,46516,Petrol,Individual,Automatic,Second Owner,11.86,2500,103.5,5,50000
+Kia,2009,20577,CNG,Dealer,Manual,First Owner,10.52,1200,79.86,7,50000
+Honda,2016,20015,Diesel,Individual,Manual,First Owner,33.79,800,48.74,5,69742.83
+Hyundai,2007,96104,Petrol,Dealer,Manual,First Owner,28.12,3000,218.52,5,50000
+Hyundai,2020,119412,Petrol,Dealer,Manual,Second Owner,30,3000,156.05,4,425885.75
+Maruti,2010,96740,Electric,Individual,Manual,Third Owner,34.52,1500,108.93,7,50000
+Tata,2019,157308,CNG,Dealer,Automatic,Second Owner,33.29,800,45.62,5,123579.54
+Honda,2019,71640,Electric,Dealer,Manual,Second Owner,28.42,800,35.09,5,116619.78
+Honda,2020,88190,Diesel,Individual,Manual,First Owner,27.35,800,63.29,5,160402.27
+BMW,2017,134516,Petrol,Dealer,Automatic,First Owner,18.42,1800,108.86,5,733104.6
+Tata,2016,181776,Petrol,Individual,Manual,First Owner,12.6,800,52.14,7,50000
+Mahindra,2014,178441,Petrol,Dealer,Automatic,Second Owner,24.34,1500,100.25,4,50000
+Mahindra,2018,139718,Petrol,Dealer,Automatic,Third Owner,24.41,1800,98.09,5,147963.34
+Toyota,2006,92007,Petrol,Dealer,Automatic,First Owner,33.81,1500,104.85,5,50000
+Ford,2007,161978,Petrol,Individual,Manual,Second Owner,21.06,1800,134.66,5,50000
+Hyundai,2013,52728,Petrol,Individual,Manual,Third Owner,27.27,3000,166.46,5,50000
+Mahindra,2015,19878,Electric,Dealer,Manual,First Owner,24.37,1000,66.28,6,109936.11
+Tata,2015,133925,Petrol,Dealer,Manual,Second Owner,14.42,1000,70.28,7,60163.62
+Honda,2014,14145,CNG,Trustmark Dealer,Automatic,Second Owner,24.8,3000,142.82,5,223692.8
+Mahindra,2018,93578,Diesel,Dealer,Automatic,Second Owner,23.5,1000,53.3,5,185803.06
+Honda,2013,23226,Petrol,Trustmark Dealer,Automatic,First Owner,22.35,1000,44.35,7,56192.74
+Mahindra,2014,7802,Petrol,Dealer,Automatic,Second Owner,22.84,3000,192.27,4,269437.32
+Hyundai,2013,29119,Petrol,Individual,Automatic,Second Owner,14.1,1800,129.67,5,94708.9
+Kia,2009,68560,Petrol,Dealer,Manual,First Owner,21.59,800,51.55,5,50000
+Mahindra,2012,62353,Diesel,Trustmark Dealer,Manual,Second Owner,25.14,3000,141.57,5,50000
+Tata,2015,128001,Petrol,Individual,Automatic,First Owner,22.24,1200,74.23,5,62601.29
+Mahindra,2005,198198,Petrol,Dealer,Manual,Third Owner,22.22,2500,183.49,7,50000
+Ford,2014,76641,Petrol,Dealer,Manual,Second Owner,11.94,2000,104.22,5,134724.21
+Hyundai,2005,56712,Electric,Individual,Manual,Third Owner,14.77,1200,87.97,6,50000
+Tata,2011,188261,Diesel,Individual,Automatic,First Owner,18.02,1000,71.38,5,50000
+BMW,2018,193856,Diesel,Dealer,Manual,First Owner,20.48,800,32.7,5,230012.21
+Tata,2009,135085,Petrol,Dealer,Automatic,First Owner,24.85,1500,74.37,4,50000
+Ford,2021,73285,Diesel,Individual,Automatic,First Owner,31.58,800,49.37,6,218736.08
+Kia,2010,120278,Diesel,Dealer,Manual,First Owner,13.98,1500,103.06,5,50000
+Hyundai,2020,179021,Diesel,Individual,Manual,Second Owner,10.38,1200,90.27,5,50000
+BMW,2015,170201,Electric,Dealer,Manual,First Owner,21.23,800,52.51,7,186818.75
+Ford,2014,29512,Petrol,Trustmark Dealer,Automatic,Second Owner,20.8,800,44.17,6,50000
+Ford,2019,107077,Electric,Trustmark Dealer,Automatic,First Owner,23.8,2000,94.77,7,519987.28
+Maruti,2011,199626,Electric,Trustmark Dealer,Automatic,Second Owner,30.83,3000,211.2,5,50000
+Hyundai,2006,7064,Petrol,Dealer,Manual,Second Owner,30.06,1200,57.93,7,50000
+Tata,2016,100614,Diesel,Trustmark Dealer,Manual,Second Owner,12.5,800,54.25,5,50000
+Honda,2023,187639,Electric,Dealer,Manual,Fourth & Above Owner,33.35,1500,70.87,7,178968.37
+Kia,2016,122639,Petrol,Individual,Automatic,First Owner,12.76,2500,109.11,7,293575.94
+Honda,2020,35011,Diesel,Individual,Manual,First Owner,25.86,800,40.04,7,189599.99
+Tata,2010,76152,Electric,Dealer,Manual,First Owner,26.81,1500,77.1,7,50000
+Tata,2007,15960,Diesel,Trustmark Dealer,Manual,First Owner,27,1000,65.89,4,50000
+Hyundai,2006,126789,Petrol,Dealer,Manual,Second Owner,16.63,800,37.15,6,50000
+Tata,2009,63920,Diesel,Individual,Manual,First Owner,18.26,1500,115.82,5,50000
+Maruti,2015,26387,Petrol,Individual,Manual,Second Owner,23.72,2500,155.44,6,190139.26
+BMW,2007,151396,Diesel,Individual,Manual,First Owner,14.99,1200,71.56,7,50000
+Tata,2007,68960,Petrol,Dealer,Manual,Fourth & Above Owner,10.51,1000,57.39,4,50000
+Honda,2009,127994,Diesel,Dealer,Automatic,Third Owner,24.05,800,50.13,5,50000
+Tata,2015,37628,Diesel,Individual,Automatic,First Owner,21.63,2000,81.8,6,146589.07
+Maruti,2007,126269,Diesel,Dealer,Manual,First Owner,26.42,1500,119.41,5,50000
+Mahindra,2017,52452,Diesel,Dealer,Automatic,Third Owner,13.67,2500,155.75,5,240490.61
+Mahindra,2012,46098,Diesel,Dealer,Manual,Fourth & Above Owner,31.02,2000,82.82,4,50000
+Ford,2014,175307,Diesel,Dealer,Manual,First Owner,13.66,800,50.88,4,50000
+Kia,2006,91861,Petrol,Trustmark Dealer,Automatic,First Owner,32.28,1500,86.22,5,50000
+Toyota,2008,32949,Diesel,Dealer,Automatic,Third Owner,21.24,800,32.77,5,50000
+BMW,2022,158893,Petrol,Individual,Automatic,Second Owner,23.75,1000,76.98,4,562637.72
+Audi,2023,158104,Electric,Dealer,Manual,First Owner,32.41,2500,101.06,7,2454929.6
+Ford,2008,78537,Petrol,Dealer,Manual,Second Owner,17.5,2500,157.79,5,50000
+Kia,2013,151375,Petrol,Dealer,Automatic,Third Owner,14.55,1000,78.47,5,50000
+Mahindra,2020,121003,Diesel,Dealer,Manual,Third Owner,21.14,800,39.6,5,78841.79
+Honda,2010,148375,Diesel,Dealer,Manual,Second Owner,16.11,800,40.13,5,50000
+Audi,2008,55701,Petrol,Individual,Automatic,Second Owner,23.2,1800,72.03,5,50000
+Kia,2013,55511,Diesel,Dealer,Automatic,First Owner,16.88,800,34.12,6,50000
+Kia,2017,85664,Diesel,Dealer,Automatic,Third Owner,31.61,2500,104.49,5,325431.52
+Ford,2013,154352,Diesel,Dealer,Manual,First Owner,25.18,800,58.33,4,79615.23
+Audi,2010,44427,Petrol,Dealer,Automatic,Third Owner,10.01,2000,146.94,7,50000
+Hyundai,2023,102180,Diesel,Trustmark Dealer,Manual,First Owner,30.14,2000,138.14,5,588046.68
+Toyota,2018,108550,Diesel,Individual,Manual,Third Owner,18.26,1000,54.11,5,68568.67
+Hyundai,2019,143039,Diesel,Dealer,Automatic,First Owner,18.01,2000,145.7,7,396209.11
+Audi,2007,142733,Diesel,Dealer,Manual,Second Owner,19.58,800,49.27,5,50000
+Hyundai,2009,82952,Diesel,Trustmark Dealer,Manual,First Owner,25.76,1200,62.61,6,50000
+Maruti,2022,71046,Petrol,Dealer,Automatic,Second Owner,21.05,3000,172.47,5,594029.01
+Mahindra,2018,111918,Petrol,Individual,Manual,Third Owner,25.72,800,34.1,5,57455.36
+Maruti,2020,40200,Petrol,Dealer,Manual,Second Owner,13.67,3000,233.39,7,409015.68
+Tata,2018,72442,Petrol,Trustmark Dealer,Manual,Second Owner,34.25,2500,161.91,5,221567.24
+Hyundai,2013,197743,Petrol,Trustmark Dealer,Manual,First Owner,28.24,1800,124.65,5,67920.71
+Tata,2019,96070,Diesel,Individual,Manual,Third Owner,16.26,1500,100.6,7,190944.3
+Honda,2011,63168,Petrol,Dealer,Automatic,Second Owner,28.1,2500,166.77,5,50000
+BMW,2018,53322,Electric,Dealer,Automatic,Second Owner,24.38,3000,122.07,6,1834246.96
+Honda,2010,173768,Petrol,Dealer,Manual,Second Owner,12.73,1000,61.01,7,50000
+Audi,2019,75246,Diesel,Dealer,Automatic,Second Owner,14.45,2000,145.74,5,1170766.6
+Kia,2012,174964,Diesel,Dealer,Manual,First Owner,11.03,1200,50.14,5,50000
+Mahindra,2006,20583,Petrol,Dealer,Manual,Second Owner,30.23,2500,195.62,4,50000
+Hyundai,2012,87720,Petrol,Individual,Automatic,Second Owner,23.79,1500,85.45,7,50000
+Ford,2005,191287,Diesel,Individual,Manual,Third Owner,17.92,1200,61.91,5,50000
+BMW,2021,160925,Petrol,Dealer,Automatic,Third Owner,13.16,1000,61.27,5,373489.06
+Toyota,2023,142181,Electric,Dealer,Manual,First Owner,22.1,2000,144.1,5,704783.64
+Toyota,2009,64757,Diesel,Trustmark Dealer,Automatic,First Owner,23.13,1800,106.18,5,50000
+Toyota,2020,11659,Electric,Dealer,Manual,First Owner,27.55,3000,197.41,5,1113846.62
+Hyundai,2011,6238,Petrol,Individual,Manual,First Owner,34.25,2500,149.99,7,50000
+Toyota,2011,126270,Diesel,Dealer,Manual,Second Owner,20.87,2500,163.13,5,50000
+Maruti,2022,124211,Diesel,Dealer,Automatic,Third Owner,20.15,2500,113.8,5,394347.94
+BMW,2022,20064,Diesel,Dealer,Manual,First Owner,19.25,3000,124.64,6,2775064.13
+Maruti,2006,167187,Petrol,Dealer,Automatic,First Owner,30.67,1000,45.48,5,50000
+Kia,2019,168024,Diesel,Individual,Manual,Third Owner,13.91,1200,61.72,7,139622.31
+BMW,2018,141692,Diesel,Individual,Manual,Third Owner,18.6,1200,60.16,5,398846.9
+Maruti,2022,104790,Diesel,Dealer,Manual,Second Owner,28.12,1000,64.61,5,252492.71
+BMW,2013,107985,Petrol,Trustmark Dealer,Automatic,Second Owner,10.39,2500,145.59,7,243081.11
+Kia,2018,49258,CNG,Dealer,Automatic,Second Owner,17.23,800,33.24,5,129039.15
+Tata,2009,140542,Petrol,Trustmark Dealer,Manual,First Owner,26.04,1000,41.39,5,50000
+Hyundai,2015,158075,CNG,Trustmark Dealer,Automatic,First Owner,14.65,2000,87.25,5,267165.01
+Hyundai,2012,163643,CNG,Dealer,Manual,First Owner,17.57,2000,108.25,7,87532.11
+Toyota,2009,29668,CNG,Dealer,Automatic,First Owner,22.15,1800,72.45,6,50000
+Honda,2015,82259,Diesel,Dealer,Automatic,Third Owner,20.55,1000,59.76,5,72846.97
+Toyota,2009,117192,Petrol,Individual,Manual,Second Owner,12.65,1500,81.64,7,50000
+Audi,2021,101576,Electric,Individual,Manual,First Owner,33.46,3000,186.65,5,2908749.52
+Maruti,2008,110481,Petrol,Trustmark Dealer,Automatic,First Owner,11.11,3000,206.5,5,50000
+BMW,2019,116505,Diesel,Individual,Automatic,First Owner,28.74,2000,100.08,6,1152042.49
+Honda,2023,168118,Diesel,Dealer,Manual,Second Owner,11.79,2000,92.57,6,409324.09
+Kia,2006,10397,Diesel,Dealer,Manual,Third Owner,21.68,2000,102.24,5,50000
+Audi,2021,104925,Petrol,Individual,Manual,First Owner,14.39,800,32.06,4,564696.88
+Kia,2016,88481,Diesel,Dealer,Manual,First Owner,13.53,1500,67.2,4,200196.22
+Hyundai,2021,158305,CNG,Individual,Automatic,Second Owner,13.15,2500,175.08,6,374860.72
+Hyundai,2014,65308,Petrol,Dealer,Automatic,Second Owner,21.32,2500,122.28,7,115833.93
+Toyota,2022,199291,Electric,Dealer,Manual,First Owner,22.89,1000,79.77,5,313751.22
+Maruti,2023,6130,Petrol,Dealer,Manual,Second Owner,13.33,800,37.37,7,250664.15
+Honda,2022,129293,Petrol,Individual,Manual,Second Owner,34.48,2000,143.1,6,360788.78
+Mahindra,2017,19071,Petrol,Dealer,Manual,First Owner,16.44,2500,170.5,7,327256.54
+Audi,2018,90517,Petrol,Individual,Manual,First Owner,21.47,1500,79.33,5,658948.06
+Audi,2020,115240,Electric,Dealer,Manual,First Owner,15.41,2500,133.07,5,2112909.04
+Toyota,2022,7118,Petrol,Individual,Manual,Third Owner,22.35,3000,187.63,5,660436.68
+Hyundai,2022,136735,Petrol,Individual,Manual,Fourth & Above Owner,28.9,1500,111.14,5,169242.89
+Toyota,2020,67408,Petrol,Dealer,Manual,Third Owner,23.03,800,44.36,6,107531.21
+BMW,2021,56786,Diesel,Individual,Manual,Second Owner,17.14,2500,106.12,7,1570069.41
+Honda,2011,86271,Diesel,Dealer,Manual,Second Owner,16.21,2000,109.95,5,50000
+Maruti,2016,24158,Petrol,Dealer,Manual,Second Owner,28.97,800,38.63,7,50000
+Tata,2006,36087,Petrol,Dealer,Manual,Third Owner,12.96,3000,232.7,5,50000
+Ford,2014,93114,CNG,Individual,Manual,First Owner,19.25,1200,81.47,5,50000
+Ford,2009,189193,Petrol,Trustmark Dealer,Manual,Second Owner,13.79,2000,84.07,5,50000
+Toyota,2007,24874,Diesel,Individual,Automatic,Second Owner,16.45,800,41.38,5,50000
+BMW,2023,88443,Petrol,Individual,Automatic,Second Owner,13.82,1000,42.01,5,697448.41
+Honda,2017,45821,Diesel,Individual,Automatic,First Owner,32.17,2500,183,5,386937.18
+Mahindra,2016,120675,Petrol,Dealer,Manual,Second Owner,28.3,2000,152.5,7,184312.01
+Ford,2007,65582,Diesel,Trustmark Dealer,Automatic,Second Owner,24.02,1800,80.08,5,50000
+Honda,2010,127603,Petrol,Dealer,Automatic,First Owner,15.61,2000,115.22,5,50000
+Maruti,2018,158859,Electric,Trustmark Dealer,Manual,Second Owner,22.76,1200,92.73,4,136817.12
+Kia,2008,157777,Petrol,Individual,Manual,First Owner,23.02,800,36.65,7,50000
+BMW,2017,74381,Diesel,Individual,Automatic,Third Owner,24.76,3000,155.03,5,963014.31
+Hyundai,2023,116800,Petrol,Individual,Manual,Second Owner,11.5,1800,93.91,7,365453.17
+Honda,2022,135805,Petrol,Dealer,Manual,Second Owner,34.32,1200,49.44,5,292371.41
+Maruti,2007,180725,Diesel,Individual,Automatic,First Owner,21.64,1000,41.45,5,50000
+Mahindra,2010,87018,Petrol,Dealer,Automatic,First Owner,33.16,3000,234.34,6,50000
+Tata,2020,105592,CNG,Individual,Manual,Second Owner,10.25,3000,188.53,5,366421.13
+Hyundai,2007,96626,Electric,Individual,Manual,First Owner,16.19,2000,104.53,5,50000
+Tata,2016,91217,CNG,Trustmark Dealer,Manual,Second Owner,12.6,2500,137.87,5,208993.08
+Mahindra,2023,168324,Petrol,Individual,Automatic,First Owner,29.24,1800,123.47,5,419448.49
+Maruti,2023,77799,Diesel,Dealer,Manual,Third Owner,18,2500,136.65,7,438355.8
+Ford,2008,67185,Petrol,Dealer,Manual,Second Owner,31.01,3000,147.33,5,50000
+Tata,2005,46538,CNG,Individual,Automatic,First Owner,30.81,800,35.26,5,50000
+Hyundai,2006,25343,Diesel,Dealer,Manual,Second Owner,26.69,800,55.33,4,50000
+Toyota,2017,177304,CNG,Dealer,Automatic,Third Owner,26.64,1000,47.22,5,133874.63
+Audi,2017,125026,Diesel,Individual,Manual,Second Owner,27.5,1200,51.34,5,489018.35
+Honda,2006,58106,Diesel,Individual,Manual,First Owner,26.84,1800,102.74,4,50000
+Ford,2023,119322,Petrol,Individual,Automatic,Second Owner,19.67,1000,41.58,5,246188.87
+Tata,2020,86227,Diesel,Dealer,Manual,First Owner,27.07,1200,94.32,5,192165.42
+Kia,2016,189151,Petrol,Individual,Manual,First Owner,32.44,1500,97.64,5,50000
+Honda,2005,161100,Diesel,Dealer,Manual,First Owner,18.31,1500,69.16,5,50000
+Toyota,2013,47135,Diesel,Individual,Automatic,Second Owner,33.62,1200,56.28,5,144285.37
+Mahindra,2021,167138,Diesel,Dealer,Automatic,First Owner,10.34,800,50.23,7,192296.54
+Audi,2014,124599,Petrol,Trustmark Dealer,Automatic,Third Owner,18.73,800,43.41,5,52061.95
+Maruti,2022,88470,Diesel,Dealer,Manual,First Owner,13.3,1500,106.46,7,411121.49
+Toyota,2023,25910,Petrol,Dealer,Manual,First Owner,13.17,3000,185.5,4,1075875.1
+Toyota,2011,143213,Diesel,Individual,Manual,First Owner,30.39,800,45.87,6,50000
+Mahindra,2023,50950,Petrol,Individual,Automatic,First Owner,32.96,2500,196.3,5,826559.2
+BMW,2019,191795,Petrol,Dealer,Manual,Second Owner,29.44,3000,166.89,5,944152.02
+Mahindra,2013,21225,Petrol,Individual,Automatic,First Owner,34.42,800,44.82,6,50000
+BMW,2014,37959,Diesel,Dealer,Manual,First Owner,15.41,1200,79.96,6,202212.14
+BMW,2008,54192,Petrol,Trustmark Dealer,Automatic,First Owner,13.52,2000,144.76,5,50000
+Ford,2010,84711,Petrol,Individual,Automatic,First Owner,23.02,1200,78.06,5,50000
+Ford,2008,146123,Electric,Dealer,Automatic,First Owner,30.73,800,54.36,5,50000
+Hyundai,2009,8449,Petrol,Individual,Manual,Second Owner,11,1200,65.9,5,50000
+Tata,2013,177167,Diesel,Dealer,Manual,Second Owner,34.89,1800,106.52,5,50000
+Tata,2016,109213,Diesel,Dealer,Manual,Second Owner,25.06,1500,71.82,7,109621.11
+Maruti,2012,165262,Electric,Trustmark Dealer,Manual,Second Owner,34.47,2000,134.42,5,55610.7
+Tata,2009,105245,Diesel,Individual,Manual,Second Owner,19.13,3000,146.57,5,50000
+Ford,2015,102069,Diesel,Dealer,Manual,Third Owner,21.45,3000,120.15,5,124339.09
+Hyundai,2015,162213,CNG,Dealer,Manual,First Owner,28.81,1800,139.23,6,83436.13
+Hyundai,2017,28908,Petrol,Dealer,Automatic,First Owner,29.82,1800,94.03,6,308244.55
+BMW,2018,109847,CNG,Trustmark Dealer,Automatic,First Owner,15.83,800,38.29,4,400397.37
+Mahindra,2012,125910,Petrol,Dealer,Manual,First Owner,33.25,800,40.58,5,50000
+Maruti,2022,168394,Electric,Dealer,Automatic,First Owner,31.69,3000,159.65,5,870611.77
+BMW,2023,186782,Petrol,Dealer,Manual,Second Owner,10.46,1800,106.17,5,962242.82
+Mahindra,2016,19012,Diesel,Dealer,Manual,First Owner,13.21,1800,76.99,5,155064.58
+Tata,2016,170961,Petrol,Dealer,Manual,Fourth & Above Owner,22.4,3000,126.32,6,177229.05
+BMW,2022,22412,Diesel,Dealer,Automatic,First Owner,21.52,1000,51.72,7,1130646.97
+Honda,2014,115030,Petrol,Dealer,Manual,First Owner,27.71,1000,51.83,5,50000
+Tata,2011,29657,CNG,Dealer,Manual,Fourth & Above Owner,12.24,2500,111.76,5,50000
+Mahindra,2022,10656,CNG,Trustmark Dealer,Automatic,Third Owner,26.12,1500,84.29,5,318010.55
+Maruti,2016,145039,Petrol,Dealer,Manual,First Owner,25.41,1800,92.45,5,83518.03
+Mahindra,2018,151836,CNG,Individual,Automatic,Second Owner,15.84,1200,49.25,7,121067.47
+BMW,2019,20873,Diesel,Individual,Automatic,Third Owner,23.56,2000,150.86,5,1000604.61
+BMW,2020,99485,Diesel,Individual,Automatic,First Owner,15.56,1000,75.44,5,669501.76
+Toyota,2006,114383,Petrol,Trustmark Dealer,Manual,First Owner,13.67,3000,145.1,6,50000
+Maruti,2022,187102,Petrol,Dealer,Manual,Third Owner,24.33,800,37.21,4,152063.18
+Kia,2016,6607,Petrol,Dealer,Manual,Second Owner,34.44,1800,111.41,7,275997.4
+Tata,2020,155595,Petrol,Dealer,Manual,First Owner,15.92,1200,78.28,6,105010.51
+Hyundai,2017,53447,Electric,Dealer,Manual,Second Owner,18.88,2000,156.6,6,157244.16
+Maruti,2021,54757,Petrol,Individual,Manual,First Owner,16.41,1200,66.11,4,305504.86
+Hyundai,2022,74201,CNG,Individual,Automatic,Third Owner,16.66,2500,161.82,5,488149.04
+Maruti,2007,133765,Petrol,Trustmark Dealer,Automatic,First Owner,20.1,1200,90.15,4,50000
+Maruti,2014,10462,Diesel,Dealer,Manual,Third Owner,27.55,800,46.4,5,50000
+Mahindra,2005,121832,Diesel,Trustmark Dealer,Manual,Second Owner,10.97,1000,44.89,6,50000
+Maruti,2010,167867,CNG,Dealer,Manual,First Owner,33.93,1200,66.12,5,50000
+Toyota,2007,53465,Petrol,Dealer,Manual,First Owner,11.16,2000,90.93,5,50000
+Kia,2023,197181,Diesel,Dealer,Automatic,Second Owner,32.03,1000,40.67,5,178462.01
+BMW,2008,95027,Petrol,Individual,Automatic,Third Owner,32.36,2500,175.16,7,50000
+Audi,2007,55528,Petrol,Dealer,Automatic,First Owner,23.11,2500,123.84,5,50000
+Hyundai,2012,41230,Petrol,Trustmark Dealer,Automatic,First Owner,13.42,1500,60.12,5,58589.17
+BMW,2012,53242,Diesel,Trustmark Dealer,Manual,Second Owner,24.13,800,59.92,5,50000
+Audi,2011,119688,Petrol,Trustmark Dealer,Automatic,Second Owner,25.72,1000,57.75,7,50000
+Kia,2006,6783,Diesel,Dealer,Manual,First Owner,31.44,2500,123.89,5,50000
+Kia,2010,33390,Petrol,Trustmark Dealer,Manual,Second Owner,23.77,2500,126.28,5,50000
+Hyundai,2020,144489,Diesel,Individual,Manual,Second Owner,20.27,1000,49.62,4,156006.42
+Hyundai,2014,77102,Petrol,Dealer,Manual,First Owner,30.96,1200,57.34,5,102374.1
+Kia,2008,22426,Diesel,Dealer,Manual,First Owner,34.52,3000,220.95,7,50000
+Audi,2017,35750,CNG,Dealer,Manual,First Owner,26.13,2000,93.63,6,827252.7
+Maruti,2014,63188,Diesel,Dealer,Automatic,Second Owner,31.86,1200,74.97,5,83381.08
+Tata,2018,15872,Diesel,Individual,Manual,Second Owner,24.97,2000,86.19,5,234581.07
+Honda,2013,99231,Petrol,Trustmark Dealer,Manual,Second Owner,27.24,2500,194.95,5,57139.67
+BMW,2015,134860,Diesel,Dealer,Manual,First Owner,27.2,2500,160.33,7,603579.54
+Mahindra,2022,184158,Petrol,Individual,Automatic,First Owner,27.62,800,60.9,5,82754.34
+BMW,2015,71770,Petrol,Trustmark Dealer,Manual,Third Owner,18.03,1000,55.92,6,137448.73
+Mahindra,2021,129158,Diesel,Dealer,Automatic,First Owner,24.39,1800,130.37,6,482246.98
+Audi,2006,88514,CNG,Trustmark Dealer,Automatic,Second Owner,24.85,2500,185.37,7,50000
+Mahindra,2007,97663,Petrol,Individual,Manual,Second Owner,17.88,2000,136.24,7,50000
+Hyundai,2015,170792,Diesel,Individual,Automatic,First Owner,18.75,2000,87.44,4,158456.45
+Tata,2022,154151,Diesel,Dealer,Manual,First Owner,29.06,3000,121.93,7,453854
+Tata,2007,153410,Petrol,Individual,Manual,First Owner,24.57,3000,140.23,7,50000
+Hyundai,2019,139363,Petrol,Dealer,Automatic,First Owner,13.73,1200,53.67,5,144284.77
+Toyota,2015,117808,Petrol,Individual,Manual,Second Owner,30.94,1200,82.81,7,97131.58
+Audi,2015,115091,Petrol,Dealer,Manual,First Owner,32.08,2500,155.7,6,586028.35
+Toyota,2015,104272,Petrol,Trustmark Dealer,Manual,First Owner,21.65,2500,152.6,6,191096.28
+Toyota,2023,54393,Petrol,Dealer,Manual,Second Owner,15.22,1500,75.17,5,435478.98
+BMW,2005,98558,Petrol,Dealer,Automatic,First Owner,33.69,2000,92.37,5,50000
+Kia,2009,74770,Diesel,Individual,Manual,Second Owner,32.06,800,38.61,4,50000
+BMW,2014,31720,Diesel,Dealer,Automatic,First Owner,16.11,1000,56.01,7,218946.17
+Kia,2014,18368,Electric,Individual,Manual,First Owner,12.39,1000,69.61,7,167994.68
+Honda,2018,190385,Petrol,Trustmark Dealer,Automatic,First Owner,21.02,3000,150.54,5,382477.78
+Mahindra,2006,52969,Diesel,Individual,Manual,First Owner,26.91,1000,67.94,5,50000
+Kia,2008,53838,CNG,Dealer,Manual,Third Owner,14.38,2000,119.32,6,50000
+Hyundai,2006,13734,Diesel,Individual,Automatic,Second Owner,22.83,1200,90.5,5,50000
+BMW,2022,112187,Petrol,Individual,Manual,First Owner,20.64,800,39.45,5,509813.17
+Audi,2017,104329,Diesel,Individual,Manual,First Owner,32.26,1000,58.03,6,471136.77
+Mahindra,2023,148269,Petrol,Dealer,Manual,First Owner,20.74,2000,87.73,5,303254.1
+Honda,2009,73895,Petrol,Dealer,Automatic,First Owner,23.34,1800,96.13,5,50000
+Kia,2006,125424,Diesel,Individual,Manual,First Owner,33.88,2500,150.69,6,50000
+Honda,2015,192903,Diesel,Dealer,Automatic,Second Owner,17.49,1500,103.96,5,171236.87
+Audi,2022,106255,Petrol,Dealer,Manual,Third Owner,17.22,1500,71.88,7,757514.45
+Toyota,2010,63073,Electric,Dealer,Manual,First Owner,29.99,1000,48.72,5,50000
+Tata,2014,186374,Diesel,Individual,Automatic,Second Owner,16.94,1200,78.32,4,50000
+Audi,2021,20624,Diesel,Trustmark Dealer,Automatic,Third Owner,30.8,1500,82.95,5,1030692.07
+Ford,2015,29315,Electric,Individual,Automatic,First Owner,12.39,1500,88.93,5,222343.07
+Audi,2023,22422,Petrol,Dealer,Automatic,Third Owner,12.78,3000,220.34,5,2252740.65
+Honda,2021,175209,Electric,Dealer,Manual,Second Owner,32.53,1500,89.94,5,395907.76
+Hyundai,2008,77663,Diesel,Trustmark Dealer,Manual,First Owner,23.52,1500,99.15,5,50000
+BMW,2018,106216,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner,27.97,1000,66.27,5,223725.45
+Hyundai,2008,184304,Diesel,Trustmark Dealer,Automatic,First Owner,15.63,3000,216.43,4,50000
+Honda,2018,37743,Diesel,Individual,Automatic,First Owner,14.16,2000,131.05,5,484828.57
+BMW,2008,151708,Diesel,Dealer,Manual,Second Owner,30.87,800,34.07,5,50000
+Ford,2010,15108,Electric,Individual,Manual,First Owner,18.97,800,42.95,4,50000
+Tata,2013,41180,Diesel,Dealer,Manual,First Owner,21.38,1200,95.49,5,50000
+Mahindra,2016,23883,Diesel,Dealer,Automatic,First Owner,10.7,2000,95.72,5,348567.42
+Honda,2012,49400,CNG,Individual,Manual,Second Owner,19.65,2500,158.67,7,50000
+Kia,2008,182071,Diesel,Dealer,Manual,Second Owner,29.26,1800,132.69,5,50000
+Honda,2009,52951,Petrol,Dealer,Manual,Second Owner,30.53,800,50.77,5,50000
+Honda,2010,143232,CNG,Dealer,Automatic,Fourth & Above Owner,27.47,1800,98.8,7,67573.51
+BMW,2009,60262,Petrol,Dealer,Automatic,First Owner,27.3,800,34.57,5,50000
+Maruti,2023,156001,Diesel,Trustmark Dealer,Automatic,First Owner,22.66,3000,163.4,5,703328.99
+Audi,2012,88133,CNG,Dealer,Manual,Second Owner,23.46,800,37.83,5,50000
+Maruti,2013,147195,Diesel,Dealer,Manual,Second Owner,28.57,3000,235.3,5,112098.14
+Ford,2019,120106,Diesel,Dealer,Automatic,First Owner,16.18,3000,205.8,5,564307.5
+Kia,2008,164429,Diesel,Dealer,Automatic,First Owner,15.79,1200,83.97,5,50000
+Tata,2013,75496,Diesel,Dealer,Manual,Third Owner,33.75,1500,86.16,7,84776.47
+Toyota,2011,169628,CNG,Individual,Manual,Fourth & Above Owner,10.69,1200,53.28,5,50000
+Ford,2012,66934,Petrol,Dealer,Manual,Second Owner,13.49,3000,152.01,5,50000
+Toyota,2019,83886,Petrol,Individual,Manual,First Owner,24.26,3000,151.17,5,540417.47
+Toyota,2023,35881,Petrol,Trustmark Dealer,Automatic,Fourth & Above Owner,28.45,800,47.58,5,204555.34
+Tata,2019,23409,Diesel,Individual,Manual,Third Owner,23.45,2000,116.88,5,245435.5
+Hyundai,2009,191488,Diesel,Dealer,Manual,Second Owner,18.88,1500,86,7,50000
+Maruti,2023,103171,CNG,Dealer,Manual,Third Owner,34.45,2000,119.68,7,163189.3
+Honda,2011,166729,Petrol,Trustmark Dealer,Manual,Third Owner,27.6,2000,158.96,6,50000
+Mahindra,2010,53951,Diesel,Individual,Manual,Third Owner,30.78,2000,103.87,5,50000
+Toyota,2023,13752,Petrol,Individual,Manual,Third Owner,11.01,1500,96.92,7,362804.22
+Kia,2021,122339,Petrol,Trustmark Dealer,Manual,Second Owner,15.9,2000,99.16,5,305500.12
+Ford,2014,149512,Diesel,Trustmark Dealer,Automatic,Second Owner,19.35,1500,88,5,50000
+Hyundai,2023,49864,Petrol,Trustmark Dealer,Manual,First Owner,14.57,1800,86.4,5,538388.22
+Toyota,2015,185763,Petrol,Individual,Manual,Second Owner,11.82,3000,186.98,6,169793.36
+Hyundai,2019,77035,Petrol,Dealer,Automatic,Second Owner,15.63,2500,126.5,4,387288.53
+Hyundai,2014,91675,Petrol,Trustmark Dealer,Automatic,Fourth & Above Owner,23.34,800,33.18,5,122318.97
+Toyota,2015,27343,Diesel,Individual,Automatic,First Owner,27.39,1000,72.61,7,227335.57
+BMW,2007,24673,Petrol,Dealer,Manual,Second Owner,29.35,2000,90.26,5,50000
+Audi,2007,196026,Diesel,Individual,Manual,First Owner,11.07,1200,65.67,5,50000
+Kia,2022,190770,CNG,Individual,Manual,Second Owner,20.7,1800,106.36,5,323170.7
+Honda,2015,100024,Diesel,Trustmark Dealer,Manual,Second Owner,13.06,1200,68.76,5,50000
+Honda,2022,31520,Electric,Individual,Manual,First Owner,20.78,1000,69.03,5,420431.33
+Kia,2019,20784,Diesel,Dealer,Automatic,Second Owner,20.85,1500,95.81,5,313957.83
+BMW,2011,122446,Diesel,Trustmark Dealer,Manual,First Owner,22.46,1000,51.81,5,50000
+Honda,2014,43079,Electric,Individual,Manual,First Owner,32.32,1200,50.48,7,171852.91
+Hyundai,2014,49220,Petrol,Individual,Manual,Second Owner,30.13,3000,212.11,7,103464.88
+Tata,2017,156563,Electric,Dealer,Manual,First Owner,25.92,3000,162.3,7,331354.76
+Ford,2019,117878,Petrol,Dealer,Automatic,First Owner,32.14,1000,75.59,5,211920.98
+Maruti,2022,121583,Petrol,Individual,Manual,First Owner,26.96,3000,167.41,4,661607.42
+Honda,2008,53720,Petrol,Dealer,Automatic,First Owner,30.47,800,54.97,5,50000
+Kia,2021,19718,Diesel,Dealer,Automatic,Second Owner,24.09,1000,77.58,6,204505.34
+Tata,2007,171669,Diesel,Individual,Manual,First Owner,23.13,2000,132.09,7,50000
+Toyota,2006,66217,Diesel,Dealer,Manual,Third Owner,28.1,800,45.23,6,50000
+Audi,2008,105668,Petrol,Dealer,Automatic,First Owner,10.49,2000,125.39,5,50000
+Kia,2005,162904,Petrol,Dealer,Automatic,First Owner,27.26,2500,154.34,4,50000
+Hyundai,2019,190890,Petrol,Dealer,Manual,First Owner,33.36,2500,158.48,7,349908.27
+Audi,2005,148936,Petrol,Individual,Automatic,Second Owner,27.85,1000,45.87,5,50000
+Ford,2010,93378,Electric,Dealer,Manual,Second Owner,10.92,800,54.35,4,50000
+Ford,2011,13177,Petrol,Dealer,Automatic,Third Owner,19.45,3000,137.41,7,50000
+BMW,2023,182187,CNG,Individual,Manual,Second Owner,30.24,800,32.47,5,360784
+Mahindra,2016,127318,CNG,Trustmark Dealer,Manual,First Owner,33.97,2500,162.48,5,179479.92
+BMW,2005,192282,Petrol,Individual,Automatic,Second Owner,19.25,1000,44.68,5,50000
+Tata,2011,188026,Diesel,Dealer,Manual,Third Owner,31.03,1800,127.47,4,50000
+Audi,2023,116145,Petrol,Dealer,Manual,First Owner,31.6,1500,111.96,5,1202074.87
+Mahindra,2017,147916,Petrol,Trustmark Dealer,Manual,First Owner,13.08,1500,116.68,5,249383.25
+Toyota,2016,18418,Petrol,Dealer,Automatic,Second Owner,31.14,1500,99.87,7,250414.04
+Hyundai,2016,170926,Diesel,Individual,Automatic,First Owner,18.11,3000,177.84,5,254562.5
+Audi,2017,93075,Petrol,Dealer,Automatic,Fourth & Above Owner,24.83,800,43.27,5,148166.35
+BMW,2018,180022,Diesel,Dealer,Manual,First Owner,23.47,3000,178.91,4,1178776.46
+Maruti,2016,70227,Diesel,Individual,Automatic,First Owner,26.58,2500,119.04,5,326074.62
+Mahindra,2016,148907,Petrol,Individual,Manual,Fourth & Above Owner,28.51,1500,80.91,5,124903.81
+Mahindra,2010,22533,Diesel,Individual,Manual,Third Owner,21.02,2500,171.79,6,50000
+Hyundai,2014,106457,Diesel,Dealer,Automatic,First Owner,32.21,800,38.96,5,118360.72
+Honda,2013,112504,Petrol,Dealer,Manual,Third Owner,30.24,2500,126.41,5,50000
+Ford,2006,146295,Petrol,Individual,Manual,First Owner,29.64,1800,125.95,7,50000
+Ford,2011,129202,Diesel,Individual,Manual,First Owner,21.46,3000,141.34,5,50000
+Maruti,2013,15273,Petrol,Dealer,Manual,Third Owner,10.94,1000,49.84,5,50000
+Tata,2016,38519,Diesel,Dealer,Automatic,Second Owner,22.31,2500,101.75,5,325631.4
+Tata,2009,160232,Petrol,Dealer,Manual,First Owner,32.46,2500,172.01,5,50000
+Toyota,2005,132024,Petrol,Trustmark Dealer,Automatic,First Owner,14.76,1000,64.72,4,50000
+Audi,2019,129540,Petrol,Individual,Manual,Second Owner,34.56,800,54.22,5,307880.66
+Kia,2012,185060,Petrol,Trustmark Dealer,Manual,First Owner,30.19,800,38.86,5,50000
+Honda,2005,146420,Diesel,Dealer,Manual,Second Owner,27.75,3000,202.49,7,50000
+BMW,2022,88460,Petrol,Trustmark Dealer,Automatic,Second Owner,26.93,2500,159.64,5,1694940.62
+Kia,2017,109471,Diesel,Dealer,Automatic,First Owner,24.68,1800,98.36,5,278710.77
+Kia,2005,109668,CNG,Individual,Automatic,Second Owner,28.02,1500,86.27,5,50000
+Mahindra,2009,72519,Diesel,Individual,Automatic,Third Owner,20.55,1800,112.89,5,50000
+Maruti,2022,95426,Diesel,Dealer,Manual,First Owner,31.13,1000,59.73,5,146545.66
+Ford,2020,19629,Petrol,Dealer,Automatic,First Owner,27.41,1000,65.67,5,286219.61
+Toyota,2014,54056,Petrol,Dealer,Automatic,First Owner,29.28,2000,94.48,7,178449.38
+Tata,2008,16273,Diesel,Dealer,Automatic,Second Owner,29.81,1500,92.44,7,50000
+Maruti,2005,125484,Petrol,Individual,Manual,Third Owner,12.3,2500,145.03,5,50000
+Mahindra,2012,102275,Diesel,Individual,Manual,First Owner,11.39,1000,58.44,6,110380.14
+BMW,2009,176488,Petrol,Individual,Automatic,First Owner,30.02,2000,117.55,5,50000
+Toyota,2006,143966,Diesel,Individual,Automatic,First Owner,16.48,800,60.21,5,50000
+Mahindra,2021,51073,CNG,Individual,Manual,Second Owner,24.55,1000,72.75,7,142598.01
+Ford,2011,50693,CNG,Dealer,Automatic,First Owner,21.09,1200,78.22,7,50000
+Ford,2021,187538,Diesel,Dealer,Automatic,Third Owner,10.55,1500,102.99,5,198833.04
+Ford,2010,29343,Diesel,Trustmark Dealer,Manual,First Owner,11.01,2000,83.42,4,50000
+Maruti,2019,48095,Diesel,Dealer,Automatic,Second Owner,30.68,1500,104.64,5,217427.76
+Maruti,2009,167246,Diesel,Individual,Manual,Second Owner,25.19,1500,89.17,5,50000
+Tata,2019,186873,Petrol,Dealer,Manual,Second Owner,23.1,1200,63.25,7,150421.86
+Tata,2022,127388,Petrol,Individual,Manual,First Owner,33.61,1800,82.06,5,352911.95
+BMW,2022,119441,Diesel,Individual,Manual,Second Owner,14.33,800,34.41,5,505477.32
+Toyota,2010,105782,Electric,Dealer,Automatic,First Owner,16.45,1500,62.69,5,50000
+Hyundai,2006,178998,Petrol,Dealer,Manual,First Owner,28.92,1000,46.47,4,50000
+Hyundai,2021,77590,Diesel,Individual,Manual,Second Owner,29.38,3000,123.62,6,566794.53
+Mahindra,2008,174899,Diesel,Dealer,Manual,Second Owner,20.12,800,55.44,7,50000
+Ford,2016,113263,Diesel,Dealer,Manual,First Owner,33.77,1000,49.94,5,51037.93
+Toyota,2023,180847,Diesel,Individual,Manual,First Owner,33.46,800,43.8,5,199928.8
+Kia,2006,177273,Petrol,Dealer,Automatic,Third Owner,10.31,2500,182.27,5,50000
+Maruti,2006,34373,Diesel,Trustmark Dealer,Manual,Third Owner,14.31,800,35.67,5,50000
+Audi,2018,32525,CNG,Individual,Automatic,First Owner,30.51,2000,146.85,5,1226636.01
+Honda,2019,132716,Diesel,Dealer,Automatic,Second Owner,18.38,1000,65.58,5,97979.87
+BMW,2006,109513,Petrol,Individual,Manual,First Owner,12.39,3000,161.04,5,50000
+Ford,2008,134401,Diesel,Individual,Automatic,Second Owner,29.62,1000,44.71,5,50000
+Ford,2023,101643,CNG,Dealer,Manual,Third Owner,21.36,2500,109.15,6,394877.48
+Ford,2013,166558,Petrol,Dealer,Manual,First Owner,22.31,800,42.74,5,50000
+Maruti,2011,154712,Diesel,Dealer,Manual,Second Owner,14.66,1500,68.42,6,50000
+Maruti,2017,102694,CNG,Dealer,Manual,First Owner,26.52,3000,152.13,5,189586.15
+Honda,2016,197527,Diesel,Dealer,Manual,Second Owner,23.78,1000,42.12,7,50000
+Kia,2007,41136,Electric,Dealer,Automatic,Second Owner,15.17,2500,159.5,4,50000
+Toyota,2017,198497,Diesel,Dealer,Manual,Third Owner,18.51,3000,137.43,6,265629.44
+Ford,2019,61539,Diesel,Individual,Automatic,First Owner,24.92,1200,84.32,4,210617.01
+Hyundai,2018,161014,Diesel,Individual,Manual,First Owner,33.12,1200,58.47,7,187596.94
+Tata,2013,73363,Petrol,Individual,Automatic,First Owner,33.01,800,57.54,6,54037.57
+Hyundai,2017,194668,Petrol,Individual,Manual,Fourth & Above Owner,17.2,1800,85.67,5,139380.99
+Mahindra,2008,86526,Diesel,Individual,Manual,Second Owner,28.39,800,55.08,5,50000
+Hyundai,2012,40255,Petrol,Individual,Manual,Second Owner,29.39,2500,133.31,7,50000
+Mahindra,2007,198201,Petrol,Individual,Manual,First Owner,30.22,800,50.66,7,50000
+Audi,2006,123209,CNG,Dealer,Manual,Third Owner,24.27,1500,62.32,7,50000
+Tata,2023,198358,CNG,Trustmark Dealer,Automatic,Third Owner,10.26,1500,89.71,7,158673.67
+Hyundai,2012,91437,Diesel,Dealer,Manual,Second Owner,29.04,2000,91.9,7,61079.21
+Audi,2021,152349,CNG,Dealer,Automatic,First Owner,12.66,2500,148.63,5,1595363.21
+BMW,2017,137715,Diesel,Individual,Automatic,First Owner,12.92,1800,82.18,4,762102.8
+Toyota,2011,120900,Petrol,Dealer,Automatic,Second Owner,25.14,3000,172.45,4,50000
+Audi,2013,28729,Petrol,Dealer,Manual,Second Owner,34.59,2500,111.06,5,229161.11
+Toyota,2016,26818,Diesel,Individual,Manual,First Owner,16.06,2500,122,5,367162.55
+Hyundai,2018,70555,Diesel,Individual,Automatic,Second Owner,26.15,1800,114.85,5,279568.6
+Kia,2018,103979,Petrol,Individual,Automatic,First Owner,17.59,2500,197.67,5,439465.51
+Audi,2019,58629,Diesel,Individual,Manual,Second Owner,32.47,1800,104.34,5,891822.31
+Tata,2007,120296,Petrol,Dealer,Manual,Second Owner,24.84,1800,121.48,5,50000
+Hyundai,2019,60438,Diesel,Dealer,Manual,First Owner,15.19,1800,110.84,5,318297.72
+Ford,2023,14457,CNG,Individual,Manual,Second Owner,16.55,2500,149.84,5,531433.05
+Maruti,2018,195701,Diesel,Dealer,Automatic,First Owner,20.81,2500,106.47,5,427059.73
+Audi,2012,38922,Electric,Individual,Manual,First Owner,13.05,800,36.62,7,68604.04
+Tata,2009,145892,CNG,Dealer,Manual,Third Owner,11.97,2500,188.31,5,50000
+BMW,2023,168822,Electric,Dealer,Manual,First Owner,27,800,45.13,7,682412.03
+Ford,2008,113122,Electric,Individual,Manual,First Owner,20.18,2000,129.15,5,50000
+BMW,2018,107020,CNG,Individual,Automatic,First Owner,28.16,1200,73.36,5,594418.42
+Hyundai,2020,173862,Diesel,Individual,Automatic,First Owner,12.75,1200,66.19,4,143168.66
+Maruti,2010,93405,Petrol,Dealer,Manual,First Owner,25.25,2000,111.03,4,50000
+Audi,2010,121130,Diesel,Dealer,Automatic,First Owner,21.08,2000,124.44,5,50000
+Audi,2007,170493,Diesel,Dealer,Manual,Second Owner,11.45,1000,45.65,4,50000
+Kia,2019,73038,Petrol,Dealer,Manual,First Owner,23.62,800,44.39,7,125311.66
+Kia,2007,67325,Petrol,Dealer,Manual,Second Owner,12.07,1800,104.18,7,50000
+Hyundai,2015,30600,Electric,Dealer,Manual,First Owner,30.69,3000,238.22,7,380099.33
+Hyundai,2007,165466,CNG,Individual,Manual,First Owner,25.8,1000,54.06,7,50000
+Maruti,2014,172243,CNG,Dealer,Manual,First Owner,23.92,1500,98.67,5,59328.01
+Kia,2022,66526,Petrol,Individual,Automatic,Third Owner,13.34,800,36.4,5,199599.68
+Tata,2005,18149,Petrol,Trustmark Dealer,Manual,Second Owner,17.19,2500,106.55,5,50000
+Tata,2020,166466,Petrol,Dealer,Automatic,Second Owner,22.32,2000,149.72,5,159872.2
+Maruti,2020,150468,Petrol,Dealer,Manual,First Owner,25.83,1200,83.08,6,145529
+Tata,2014,159396,Petrol,Dealer,Automatic,Third Owner,14.58,800,42.16,7,50000
+Mahindra,2005,183270,Petrol,Individual,Automatic,First Owner,10.22,2000,120.37,6,50000
+Toyota,2008,117168,Electric,Dealer,Manual,First Owner,18.62,3000,136.29,7,50000
+Maruti,2007,114813,Diesel,Dealer,Automatic,Second Owner,22.07,3000,204.86,5,50000
+Maruti,2009,96779,Petrol,Individual,Manual,First Owner,14.61,800,34.25,5,50000
+Honda,2016,167088,Petrol,Dealer,Automatic,Fourth & Above Owner,22.3,2500,175.7,5,115796.83
+Ford,2016,139266,Diesel,Individual,Manual,First Owner,18.46,800,49.5,7,81011.34
+Ford,2017,37398,Petrol,Individual,Automatic,Fourth & Above Owner,21.38,2500,127.89,7,165565.63
+Mahindra,2016,9789,Electric,Individual,Automatic,Second Owner,18.69,800,59.6,5,101611.47
+Kia,2020,69967,Petrol,Dealer,Manual,Second Owner,25.71,1500,119.16,5,298389.63
+Hyundai,2017,197206,Petrol,Trustmark Dealer,Manual,First Owner,11.07,1200,60.21,5,93792.85
+Hyundai,2009,103837,Petrol,Individual,Automatic,First Owner,14.27,800,57.8,5,50000
+BMW,2008,161049,Petrol,Dealer,Manual,Third Owner,20.82,2000,140.01,7,50000
+Mahindra,2019,106967,Diesel,Dealer,Manual,First Owner,18.91,1500,104.83,5,211289.19
+Maruti,2016,136201,Diesel,Dealer,Manual,Second Owner,19.79,3000,234.87,5,172807.65
+Mahindra,2023,64683,Diesel,Individual,Manual,Fourth & Above Owner,30.09,1000,59.46,5,272906.07
+Mahindra,2023,50331,Petrol,Individual,Automatic,First Owner,32.16,800,53.57,7,257590.81
+Mahindra,2015,39626,Diesel,Individual,Manual,Second Owner,16.22,2500,182.39,5,114910.9
+Ford,2010,184575,Diesel,Trustmark Dealer,Manual,Second Owner,30.91,1500,88.77,5,50000
+Mahindra,2013,163621,CNG,Dealer,Automatic,First Owner,21.47,1800,106.66,5,50000
+Toyota,2005,17342,Petrol,Dealer,Automatic,First Owner,16.85,1000,52.75,5,50000
+Hyundai,2016,41417,Petrol,Trustmark Dealer,Manual,First Owner,34.64,1200,85.48,5,75790.83
+BMW,2018,188321,Diesel,Individual,Manual,First Owner,30.62,800,53.96,7,372629.35
+Toyota,2010,57664,Diesel,Dealer,Automatic,Second Owner,34.86,800,46.44,7,50000
+BMW,2005,13833,Diesel,Individual,Automatic,First Owner,14.2,1500,85.16,5,50000
+Honda,2006,65658,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner,13.6,3000,128.71,5,50000
+BMW,2015,165545,Diesel,Individual,Manual,First Owner,22.58,1200,48.31,7,251505.86
+Hyundai,2007,136809,CNG,Individual,Manual,Second Owner,25.97,1800,110.08,5,50000
+Hyundai,2014,99965,Diesel,Individual,Manual,Second Owner,14.28,1000,56.7,4,50000
+Mahindra,2010,182719,Electric,Dealer,Manual,First Owner,31.51,2000,143.68,5,50000
+Audi,2010,69054,Diesel,Individual,Automatic,First Owner,23.3,1200,74.05,5,50000
+Honda,2006,6299,Electric,Dealer,Manual,Second Owner,20.27,800,61.97,5,50000
+Maruti,2014,199353,CNG,Trustmark Dealer,Automatic,Third Owner,25.05,1500,71.77,7,108988.56
+Tata,2010,70875,Petrol,Dealer,Manual,First Owner,25.87,1800,143.29,7,50000
+BMW,2021,168992,CNG,Individual,Automatic,First Owner,11.07,1500,77.88,4,803074.29
+Audi,2018,190908,Petrol,Dealer,Automatic,First Owner,35,1000,65.7,6,522042.45
+Mahindra,2009,178453,Electric,Dealer,Manual,First Owner,19.1,2500,150.19,5,50000
+Ford,2021,119286,Diesel,Dealer,Manual,Second Owner,11.54,2500,135.96,5,415871.71
+Maruti,2006,103730,Petrol,Trustmark Dealer,Manual,Third Owner,31.31,1200,54.69,5,50000
+Kia,2013,61298,Diesel,Trustmark Dealer,Automatic,First Owner,34.83,1500,68.09,5,53119.34
+Audi,2016,160581,Electric,Dealer,Automatic,Fourth & Above Owner,30.41,2000,136.92,7,463599.38
+Ford,2023,126035,Petrol,Trustmark Dealer,Manual,First Owner,31.3,2000,110.21,6,468392.61
+Honda,2011,178167,Diesel,Individual,Manual,Second Owner,25.65,2500,196.13,7,50000
+Mahindra,2013,187596,Diesel,Individual,Manual,First Owner,33.06,2500,132.56,5,50000
+Maruti,2020,114825,CNG,Dealer,Automatic,First Owner,10.89,1500,119.01,5,261748.95
+Maruti,2015,120637,Petrol,Trustmark Dealer,Manual,First Owner,29.17,3000,144.65,5,132869.51
+Maruti,2016,77618,Petrol,Individual,Manual,First Owner,26.77,800,35.29,7,166763.58
+Honda,2019,30532,Petrol,Trustmark Dealer,Manual,Second Owner,11.24,1500,78.75,5,222412.01
+BMW,2022,113197,Diesel,Individual,Manual,Second Owner,23.6,1800,135.76,4,998050.95
+Kia,2023,135860,Diesel,Individual,Automatic,First Owner,22.88,1200,73.05,5,520275.56
+Honda,2020,65285,Electric,Individual,Manual,Third Owner,27.29,1000,45.43,5,167627.44
+Tata,2019,23866,Petrol,Dealer,Automatic,First Owner,11.94,3000,144.3,7,566538.72
+Kia,2009,143665,Diesel,Dealer,Manual,Second Owner,30.13,2000,104.9,6,50000
+Hyundai,2015,14495,Petrol,Dealer,Manual,First Owner,13.49,3000,190.82,7,266513.62
+Mahindra,2019,12837,Petrol,Dealer,Automatic,First Owner,20.47,1500,79.94,6,431543.15
+Honda,2022,154752,Diesel,Individual,Automatic,First Owner,32.03,1800,125.79,5,510698.29
+Ford,2017,191548,Diesel,Individual,Automatic,Second Owner,24.01,3000,193.96,5,186906.28
+Kia,2008,35346,Diesel,Trustmark Dealer,Manual,Second Owner,19.49,2500,187.38,5,50000
+Tata,2021,113621,Electric,Dealer,Manual,First Owner,11.21,2000,120.08,7,514571.33
+Hyundai,2008,28412,Diesel,Individual,Automatic,First Owner,26.81,3000,159.74,5,50000
+BMW,2020,123833,Electric,Dealer,Manual,First Owner,34.66,2000,159.7,5,1479765.37
+Ford,2019,166876,CNG,Dealer,Manual,Second Owner,32.79,1000,54.23,5,114833.77
+Kia,2018,70206,Diesel,Dealer,Automatic,Second Owner,27.93,2000,114.29,5,279354.33
+Mahindra,2016,15934,CNG,Individual,Automatic,First Owner,12.63,3000,217.1,5,308000.98
+Ford,2007,35723,Diesel,Dealer,Automatic,First Owner,15.99,1800,78.38,5,50000
+Hyundai,2014,132968,Petrol,Individual,Automatic,Second Owner,14.67,2000,110.92,7,135414.08
+Ford,2012,156477,Diesel,Dealer,Automatic,First Owner,18.89,2000,86.86,5,50000
+Toyota,2010,154820,Petrol,Trustmark Dealer,Manual,First Owner,15.89,1500,68.36,5,50000
+Audi,2018,182485,Diesel,Individual,Manual,First Owner,16.11,1500,60.28,7,467643.54
+BMW,2021,158426,Diesel,Trustmark Dealer,Manual,First Owner,25.42,2500,100.95,5,1496686.6
+Hyundai,2023,126988,Petrol,Trustmark Dealer,Manual,Second Owner,17.97,1200,66.25,5,244985.95
+Ford,2020,153460,Petrol,Trustmark Dealer,Manual,Second Owner,26.93,800,57.89,5,50000
+Audi,2019,41523,Electric,Trustmark Dealer,Manual,First Owner,33.7,1800,114.26,5,1582745.27
+Audi,2019,106150,Diesel,Individual,Manual,Second Owner,25.96,800,52.32,5,375980.58
+Ford,2005,125950,Petrol,Dealer,Manual,First Owner,28.79,800,48.62,5,50000
+Mahindra,2016,193765,Diesel,Dealer,Manual,Third Owner,28.79,2000,145.58,7,174159.49
+Toyota,2014,171804,Diesel,Dealer,Manual,Second Owner,18.27,3000,225.65,5,188548.1
+Honda,2018,46646,Diesel,Individual,Manual,Second Owner,10.37,2500,184.97,5,539302.98
+Toyota,2014,157093,Electric,Individual,Automatic,First Owner,11.38,1000,72.49,5,50000
+Ford,2014,57776,Diesel,Trustmark Dealer,Manual,First Owner,17.05,3000,141.93,7,214064.85
+BMW,2015,24116,Petrol,Trustmark Dealer,Manual,First Owner,27.24,3000,191.27,7,914453.03
+Honda,2020,117858,CNG,Dealer,Automatic,Second Owner,32.67,1000,63.29,5,120306.33
+Hyundai,2013,81620,CNG,Individual,Manual,First Owner,33.97,2000,122.24,5,144207.05
+Toyota,2019,180843,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner,10.65,2500,148.08,6,204952.04
+Ford,2018,164828,Petrol,Dealer,Manual,Fourth & Above Owner,34.75,1800,78.42,5,50000
+Toyota,2023,87604,Petrol,Individual,Manual,Second Owner,18.06,800,35.27,5,125105.01
+Honda,2013,99452,Diesel,Dealer,Automatic,Fourth & Above Owner,31.07,1200,91.31,5,50000
+Tata,2008,138991,Diesel,Individual,Manual,First Owner,14.51,2500,163.02,5,50000
+Kia,2011,28550,Diesel,Dealer,Automatic,First Owner,11.57,800,40.39,5,50000
+Toyota,2012,172596,Electric,Trustmark Dealer,Manual,First Owner,19.46,1000,51.17,5,50000
+Hyundai,2012,190678,Diesel,Individual,Manual,Second Owner,31.47,800,51.53,4,65713.61
+Hyundai,2023,75227,Petrol,Dealer,Manual,First Owner,15.52,1500,84.42,5,392280.83
+Maruti,2019,28212,Petrol,Dealer,Manual,Fourth & Above Owner,13.85,1500,86.48,5,128001.74
+Toyota,2020,45118,Petrol,Dealer,Manual,First Owner,32.75,1200,50.91,5,274926.13
+Kia,2013,33602,Petrol,Trustmark Dealer,Manual,First Owner,33.46,1800,81.99,7,124657.7
+Mahindra,2016,22540,Diesel,Individual,Manual,Third Owner,10.31,800,44.59,5,74313.69
+Audi,2020,171901,CNG,Dealer,Automatic,First Owner,28.19,1500,101.98,4,753105.25
+Kia,2008,192381,Petrol,Dealer,Manual,First Owner,17.73,1800,75.46,5,50000
+Audi,2009,76455,Diesel,Individual,Automatic,Second Owner,19.37,2500,133.46,5,50000
+Audi,2012,27277,Diesel,Individual,Automatic,First Owner,21.73,2500,169.51,5,110713.33
+Tata,2005,124133,Petrol,Individual,Manual,First Owner,20.67,1500,107.52,4,50000
+Maruti,2010,195745,Petrol,Dealer,Manual,First Owner,22.87,1800,85.7,5,50000
+Kia,2019,153748,Diesel,Individual,Manual,First Owner,24.56,1800,124.67,5,415240.31
+Kia,2008,178916,Petrol,Individual,Automatic,Fourth & Above Owner,21.64,1500,117.32,6,50000
+Tata,2015,14752,Electric,Trustmark Dealer,Manual,Third Owner,27.54,2000,152.54,6,102662.04
+Toyota,2009,176742,Petrol,Trustmark Dealer,Automatic,First Owner,27.97,1000,71.58,7,50000
+Toyota,2022,167550,Petrol,Individual,Manual,First Owner,21.01,1800,123.29,4,330040.24
+Toyota,2019,162511,Diesel,Individual,Automatic,First Owner,13.56,2500,123.51,4,529797.74
+BMW,2022,170819,Electric,Dealer,Manual,Fourth & Above Owner,26.02,2000,130.71,7,770114.64
+Audi,2017,130332,Petrol,Individual,Automatic,First Owner,29.32,800,52.58,5,227902.07
+BMW,2009,165882,Petrol,Dealer,Manual,First Owner,25.95,2000,112.55,6,50000
+Maruti,2005,23302,Petrol,Dealer,Manual,Second Owner,24.7,1500,89.58,4,50000
+Tata,2022,71236,Petrol,Dealer,Manual,Fourth & Above Owner,15.74,2000,135.52,4,222134.87
+Kia,2018,69467,Petrol,Individual,Manual,First Owner,26.13,1000,78.08,5,163776.71
+Audi,2009,107350,Diesel,Dealer,Automatic,First Owner,18.37,1500,77.72,5,50000
+BMW,2010,170913,Petrol,Dealer,Manual,First Owner,32.99,1200,59.83,5,50000
+BMW,2020,180785,Petrol,Dealer,Manual,First Owner,26.34,800,51.26,5,348453.36
+Ford,2016,185618,CNG,Dealer,Manual,Second Owner,16.95,2500,113.08,5,221821.57
+BMW,2022,8048,Petrol,Dealer,Manual,Second Owner,21.82,1200,75.96,4,816032.24
+Mahindra,2006,169362,Petrol,Individual,Manual,Second Owner,31.16,2000,87.11,5,50000
+Kia,2017,63906,Petrol,Individual,Automatic,First Owner,18.39,1800,107.32,5,265081.09
+Mahindra,2021,81637,Electric,Dealer,Manual,First Owner,23.14,2000,129.63,4,603013.58
+Kia,2021,34778,Petrol,Trustmark Dealer,Automatic,First Owner,26.99,3000,128.41,5,938622.47
+Tata,2020,163497,CNG,Individual,Manual,First Owner,28.86,2500,120.7,5,326318.94
+Kia,2022,125918,Diesel,Dealer,Manual,Second Owner,14.35,2500,133.54,5,524384.11
+Mahindra,2012,95036,Petrol,Individual,Automatic,First Owner,24.13,3000,164.23,6,50000
+Kia,2007,194248,Electric,Trustmark Dealer,Automatic,First Owner,32.8,1800,120.68,5,50000
+Tata,2021,148746,Petrol,Dealer,Manual,First Owner,34.21,1200,73.39,6,145789.45
+Tata,2022,198474,Petrol,Dealer,Automatic,First Owner,26.4,1200,66.34,7,188456.61
+Maruti,2010,169125,CNG,Trustmark Dealer,Manual,First Owner,34.59,1800,104.45,5,50000
+Kia,2012,16957,Diesel,Individual,Manual,Third Owner,24.27,1000,40.52,4,59710.86
+Ford,2017,77644,Diesel,Dealer,Automatic,First Owner,21.07,3000,212.46,5,419889.18
+Toyota,2012,189688,Petrol,Individual,Manual,Second Owner,23.79,800,33.31,5,50000
+Hyundai,2023,118294,Diesel,Individual,Manual,First Owner,12.89,1500,109.76,7,332169.52
+Tata,2010,22829,Diesel,Trustmark Dealer,Automatic,First Owner,20.04,3000,184.92,7,50000
+Honda,2019,10837,Petrol,Individual,Automatic,Third Owner,21.46,1200,73.34,5,239577.83
+Toyota,2014,151104,Petrol,Dealer,Manual,First Owner,31.22,800,54.55,5,50000
+Audi,2021,104770,Petrol,Individual,Manual,Second Owner,28.97,1500,111.57,7,817025.69
+Kia,2005,31352,Petrol,Individual,Manual,First Owner,25.04,2000,155.41,7,50000
+Mahindra,2011,35215,CNG,Dealer,Automatic,Second Owner,18.68,1500,92.6,5,50000
+Hyundai,2017,192391,Petrol,Individual,Automatic,Second Owner,14.68,1200,55.23,5,50000
+Honda,2007,46247,Electric,Individual,Manual,Third Owner,18.69,1000,75.15,5,50000
+Toyota,2023,134692,Petrol,Dealer,Manual,Third Owner,27,1000,41.63,5,188798.94
+Kia,2019,179120,Diesel,Individual,Manual,Second Owner,16.58,800,57.83,6,118499.24
+Maruti,2009,71714,Petrol,Dealer,Automatic,First Owner,20.67,2000,134.43,7,50000
+Audi,2015,40319,Petrol,Dealer,Automatic,Second Owner,19.67,800,60.95,7,232922.48
+Hyundai,2022,124058,Petrol,Dealer,Automatic,Second Owner,29.14,1800,136.62,5,268832.77
+Ford,2007,21025,Petrol,Dealer,Automatic,First Owner,32.09,1000,42.13,6,50000
+Maruti,2010,14780,Diesel,Individual,Manual,First Owner,27.48,800,51.5,5,50000
+Honda,2007,27706,Electric,Dealer,Manual,Third Owner,18.54,1800,80.98,5,50000
+Hyundai,2009,178988,Diesel,Individual,Manual,First Owner,20.83,2000,86.28,5,50000
+Maruti,2013,80503,Petrol,Dealer,Manual,First Owner,13.58,2500,144.83,5,73575.05
+Audi,2023,166928,Petrol,Trustmark Dealer,Manual,Third Owner,14.2,1500,65.86,5,804158.66
+Ford,2017,108166,Petrol,Individual,Manual,First Owner,14.11,800,55.29,5,130144.75
+Maruti,2010,14179,Diesel,Individual,Automatic,First Owner,13.26,1800,141.76,4,50000
+BMW,2015,174695,Diesel,Dealer,Automatic,Second Owner,14.49,1000,62.78,7,234645.45
+Ford,2018,153659,Electric,Dealer,Manual,First Owner,15.07,3000,148.22,4,494226.02
+Honda,2010,159805,Petrol,Dealer,Manual,Second Owner,12.8,1500,110.59,4,50000
+Audi,2010,104423,Diesel,Trustmark Dealer,Manual,First Owner,26.01,800,59.3,5,50000
+Kia,2021,128076,Diesel,Dealer,Automatic,First Owner,34.76,1000,69.31,7,280593.35
+Mahindra,2015,140047,Diesel,Individual,Automatic,First Owner,31.98,2500,161.51,5,205531.44
+Mahindra,2019,80138,Diesel,Individual,Manual,Fourth & Above Owner,11.14,1500,112.07,5,214727.14
+Mahindra,2013,181535,Diesel,Dealer,Manual,First Owner,20.58,1200,55.84,6,57043.46
+Hyundai,2021,178226,Diesel,Individual,Manual,First Owner,31.48,1000,77.26,5,106283.47
+Honda,2011,91706,Petrol,Individual,Manual,First Owner,13.37,1200,93.47,5,50000
+Audi,2011,121905,Diesel,Individual,Manual,First Owner,31.19,2000,149.76,6,50000
+Ford,2005,33830,Petrol,Dealer,Automatic,First Owner,24.82,800,40.02,5,50000
+Hyundai,2012,115076,Diesel,Dealer,Automatic,First Owner,33.28,2500,185.82,7,50000
+Honda,2009,182817,Petrol,Dealer,Manual,Second Owner,31.9,1800,107.83,5,50000
