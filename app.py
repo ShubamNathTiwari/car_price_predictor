@@ -543,6 +543,58 @@ st.markdown("""
     background: linear-gradient(90deg, transparent, var(--border), transparent);
     margin: 20px 0;
   }
+
+  /* ── Mobile-first top navigation bar ── */
+  .mobile-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    padding: 12px 8px 16px 8px;
+    background: linear-gradient(135deg, rgba(10,10,30,0.95), rgba(13,21,53,0.98));
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    margin-bottom: 24px;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    backdrop-filter: blur(12px);
+  }
+
+  .nav-btn {
+    background: rgba(0,212,255,0.05);
+    border: 1px solid rgba(0,212,255,0.2);
+    border-radius: 10px;
+    color: rgba(224,224,255,0.65);
+    cursor: pointer;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    padding: 8px 14px;
+    text-transform: uppercase;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+  }
+
+  .nav-btn:hover, .nav-btn.active {
+    background: linear-gradient(135deg, rgba(0,212,255,0.18), rgba(123,47,247,0.18));
+    border-color: var(--primary);
+    color: var(--primary);
+    box-shadow: 0 0 14px rgba(0,212,255,0.25);
+  }
+
+  /* On desktop (>768px) hide the mobile nav strip */
+  @media (min-width: 769px) {
+    .mobile-nav { display: none; }
+  }
+
+  /* On mobile (<768px) collapse sidebar hint */
+  @media (max-width: 768px) {
+    .hero-title { font-size: 1.8rem !important; }
+    .hero-subtitle { font-size: 0.85rem !important; letter-spacing: 2px !important; }
+    .price-amount { font-size: 2.5rem !important; }
+  }
 </style>
 """, unsafe_allow_html=True)
 
@@ -701,8 +753,8 @@ def render_car_card(col, badge_class, badge_text, car_name, fuel_type, year, kms
 # ── Main App ─────────────────────────────────────────────────────────────────
 
 def auto_train_if_needed():
-    """Run model_trainer.py automatically if model_artifacts/ is missing or incomplete.
-    This ensures the app works on Streamlit Cloud where artifacts aren't committed."""
+    """Run model training automatically if model_artifacts/ is missing or incomplete.
+    Uses direct Python import (not subprocess) for much faster cold-start on Streamlit Cloud."""
     required = [
         'model_artifacts/random_forest.pkl',
         'model_artifacts/label_encoders.pkl',
@@ -710,15 +762,32 @@ def auto_train_if_needed():
         'model_artifacts/dataset_stats.pkl',
     ]
     if not all(os.path.exists(p) for p in required):
-        with st.spinner("First run detected — training ML models... this takes ~60 seconds"):
-            import subprocess, sys
-            result = subprocess.run([sys.executable, 'model_trainer.py'],
-                                    capture_output=True, text=True)
-            if result.returncode != 0:
-                st.error("Model training failed:\n" + result.stderr)
-                st.stop()
-            st.cache_resource.clear()
-            st.cache_data.clear()
+        progress_bar = st.progress(0, text="⚙️ First-run setup — training ML models (≈60s)…")
+        try:
+            import model_trainer
+            # Patch progress updates into the trainer output
+            progress_bar.progress(10, text="📊 Loading & preprocessing data…")
+            df, le_dict = model_trainer.load_and_preprocess('car_data.csv')
+            progress_bar.progress(35, text="🔧 Engineering features…")
+            X, y, feature_cols = model_trainer.get_features_target(df)
+            from sklearn.model_selection import train_test_split
+            X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+            progress_bar.progress(45, text="🤖 Training models (Random Forest, GBM, Ridge…)…")
+            results, trained_models, best_name = model_trainer.train_models(X_train, X_test, y_train, y_test)
+            progress_bar.progress(88, text="💾 Saving artifacts…")
+            model_trainer.save_artifacts(trained_models, le_dict, feature_cols, results, df)
+            progress_bar.progress(100, text="✅ Training complete!")
+            time.sleep(0.8)
+            progress_bar.empty()
+        except Exception as e:
+            progress_bar.empty()
+            st.error(f"❌ Model training failed: {e}")
+            st.info("Make sure `car_data.csv` and `model_trainer.py` are in the same directory.")
+            st.stop()
+        # Clear caches so fresh artifacts are loaded
+        st.cache_resource.clear()
+        st.cache_data.clear()
+        st.rerun()
 
 def main():
     # Auto-train if running on cloud (model_artifacts not committed to git)
@@ -728,7 +797,30 @@ def main():
     artifacts, le_dict, feature_cols, model_results, stats, reference_year = load_artifacts()
     df = load_dataset()
     model_ready = artifacts is not None and len(artifacts) > 0
-    
+
+    # ── PAGE STATE (works on both desktop sidebar + mobile nav) ──────────────
+    PAGES = ["🏠 Dashboard", "🔮 Price Predictor", "⚡ Car Comparison",
+             "📊 Analytics Hub", "🤖 Model Intelligence"]
+
+    if "page" not in st.session_state:
+        st.session_state.page = PAGES[0]
+
+    # ── MOBILE NAV BAR (always visible at top on mobile) ─────────────────────
+    # Render clickable nav buttons via query-param trick using st.columns + buttons
+    nav_cols = st.columns(len(PAGES))
+    for i, (col, pg) in enumerate(zip(nav_cols, PAGES)):
+        is_active = st.session_state.page == pg
+        # Use HTML styling via markdown inside button column
+        if col.button(pg, key=f"nav_{i}",
+                      use_container_width=True,
+                      type="primary" if is_active else "secondary"):
+            st.session_state.page = pg
+            st.rerun()
+
+    st.markdown("<hr style='margin:4px 0 20px 0;'>", unsafe_allow_html=True)
+
+    page = st.session_state.page
+
     # ── SIDEBAR ──────────────────────────────────────────────────────────────
     with st.sidebar:
         st.markdown("""
@@ -743,14 +835,17 @@ def main():
         </div>
         <hr>
         """, unsafe_allow_html=True)
-        
-        page = st.selectbox("📍 Navigate", 
-            ["🏠 Dashboard", "🔮 Price Predictor", "⚡ Car Comparison", 
-             "📊 Analytics Hub", "🤖 Model Intelligence"],
-            label_visibility="collapsed")
-        
+
+        # Sidebar selectbox also controls page
+        sidebar_page = st.selectbox("📍 Navigate", PAGES,
+                                    index=PAGES.index(st.session_state.page),
+                                    label_visibility="collapsed")
+        if sidebar_page != st.session_state.page:
+            st.session_state.page = sidebar_page
+            st.rerun()
+
         st.markdown("<hr>", unsafe_allow_html=True)
-        
+
         if not model_ready:
             st.markdown("""
             <div class="warning-box">
@@ -765,7 +860,7 @@ def main():
                 🏆 Best R² Score ready
             </div>
             """, unsafe_allow_html=True)
-        
+
         st.markdown("<hr>", unsafe_allow_html=True)
         st.markdown("""
         <div style="font-size:0.7rem; color:rgba(224,224,255,0.3); text-align:center; letter-spacing:1px;">
